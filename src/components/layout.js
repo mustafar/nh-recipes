@@ -1,13 +1,15 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import "./layout.css"
 import { rhythm, scale } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
+  const isHomePage = location.pathname === rootPath;
 
-  if (location.pathname === rootPath) {
+  if (isHomePage) {
     header = (
       <h1
         style={{
@@ -30,6 +32,7 @@ const Layout = ({ location, title, children }) => {
   } else {
     header = (
       <h3
+        class="page-header"
         style={{
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
@@ -56,7 +59,7 @@ const Layout = ({ location, title, children }) => {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
-      <header>{header}</header>
+      <header className={`${!isHomePage ? "home-link" : ""}`}>{header}</header>
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Built with

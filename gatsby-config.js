@@ -1,15 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `NH Recipes`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Mustafa Rizvi`,
+      summary: `former nh resident.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `nh recipes`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      twitter: `kylemathews`,
-    },
   },
   plugins: [
     {
@@ -60,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `NH Recipes`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
