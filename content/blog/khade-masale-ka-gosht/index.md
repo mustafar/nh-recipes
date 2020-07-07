@@ -1,6 +1,6 @@
 ---
 title: Khade Masale Ka Gosht
-date: 2020-07-06T00:47:00Z
+date: 2020-07-06T00:47:00.000Z
 description: Khade Masale Ka Gosht
 ---
 # Ingredients 
@@ -37,13 +37,13 @@ Once the Mutton is nearly done just add the sqeezed lemon juice and cover ; cook
 # Tips
 
 > The lesser the water, the better the masala turns out.
->
+
 > Sarson ka tel gives that additional zing.
->
+
 > Heavy bottomed slow cooking enhances the dish.
->
+
 > Last 2-3 minutes of cooking in pan / pressure cooker (without pressure) should be done on slow to medium fire to get the required oil on top – NEVER COOK With out cover.
->
+
 > If you want can cook in a pressure cooker. Put pressure valve after mixing the Mutton & second half of onions  
->
+
 > Again, use as little water as required.
