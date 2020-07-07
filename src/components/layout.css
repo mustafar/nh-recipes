@@ -20,6 +20,12 @@ header.home-link {
 input {
   border-width: 0 0 2px;
   border-color: gray;
+
+  -moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+  -webkit-appearance: none;
+
   box-sizing : border-box;
   font-size: larger;
   outline: 0;

@@ -32,7 +32,7 @@ const Layout = ({ location, title, children }) => {
   } else {
     header = (
       <h3
-        class="page-header"
+        className="page-header"
         style={{
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
