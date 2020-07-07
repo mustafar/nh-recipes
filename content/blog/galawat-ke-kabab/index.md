@@ -19,7 +19,7 @@ description: Galawat Ke Kabab - Oudhi Style
 * 1 tbsp prepared Galawat ka masala
 * 1 tsp Kewra Water (careful / optional)
 * 1 tsp Rose Water (careful / optional)
-* a pinch of red chilii  powder
+* a pinch of red chili powder
 * sprinkles of Ghee (used while frying Kababs)
 * sprinkles of milk (used while frying Kababs)
 * 50 – 75 gms. of Bhuna Besan (to be used less is mixing in the kidney fat)
