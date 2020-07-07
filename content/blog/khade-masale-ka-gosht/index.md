@@ -31,3 +31,17 @@ Then put in Mutton and the rest of the onions. Keep stirring (bhuna). You can sp
 Once all masalas settle down then cover and cook on medium flame, put little bit of water (required). Keep checking and stirring to avoid masala getting stuck to the bottom of the pan.
 
 Once the Mutton is nearly done just add the sqeezed lemon juice and cover, cook till desired softness of the mutton.
+
+# Tips
+
+> The lesser the water the better the masala turns out.
+
+> Sarson ka tel gives that additional zing.
+
+> Heavy bottomed slow cooking enhances the dish.
+
+> Last 2-3 minutes of cooking in pan / pressure cooker (without pressure) should be done on slow to medium fire to get the required oil on top – NEVER COOK With out cover.
+
+> If you want can cook in Pressure cooker, put pressure valve after mixing the Mutton & second half of Onions.
+
+> Again, use as little water as required.
