@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -6,19 +6,64 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
-const BlogIndex = ({ data, location }) => {
+const BlogIndex = props => {
+  const { data, location } = props;
+
   const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
+  const allPosts = data.allMarkdownRemark.edges
+
+  const [state, setState] = useState({
+    filteredPosts: [],
+    query: undefined,
+  })
+
+  const { filteredPosts, query } = state
+  const posts = filteredPosts && query ? filteredPosts : allPosts;
+
+  const handleInputChange = event => {
+    const query = event.target.value
+    const { data } = props
+    // this is how we get all of our posts
+    const posts = data.allMarkdownRemark.edges || []
+     // return all filtered posts
+    const filteredPosts = posts.filter(post => {
+      // destructure data from post frontmatter
+      const { description, title, tags } = post.node.frontmatter
+      return (
+        // standardize data with .toLowerCase()
+        // return true if the description, title or tags
+        // contains the query string
+        description.toLowerCase().includes(query.toLowerCase()) ||
+        title.toLowerCase().includes(query.toLowerCase()) ||
+        (tags && tags
+          .join("") // convert tags from an array to string
+          .toLowerCase()
+          .includes(query.toLowerCase()))
+      )
+    })
+
+    // update state according to the latest query and results
+    setState({
+      query, // with current query string from the `Input` event
+      filteredPosts, // with filtered data from posts.filter(post => (//filteredPosts)) above
+    })
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
       <Bio />
+      <input
+        type="text"
+        aria-label="Search"
+        placeholder="🔍 Search..."
+        onChange={handleInputChange}
+      />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <article key={node.fields.slug} class="article-list-item">
-            <header class="page-header">
+          <article key={node.fields.slug}>
+            <header>
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),

@@ -17,6 +17,20 @@ header.home-link {
     border-bottom: 2px solid black;
 }
 
+input {
+  border-width: 0 0 2px;
+  border-color: gray;
+  box-sizing : border-box;
+  font-size: larger;
+  outline: 0;
+  padding-bottom: 6px;
+  width: 90%;
+}
+
+input:focus {
+  border-color: black;
+}
+
 li em {
     font-weight: 600;
 }
