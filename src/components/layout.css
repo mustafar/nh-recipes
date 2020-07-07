@@ -20,3 +20,8 @@ header.home-link {
 li em {
     font-weight: 600;
 }
+
+main.home-main {
+  margin-top: -20px;
+  margin-bottom: 100px;
+}

@@ -9,7 +9,7 @@ const Bio = () => {
     <div
       style={{
         display: `flex`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(0.5),
       }}
     >
       {/* <Image
@@ -26,7 +26,7 @@ const Bio = () => {
         }}
       /> */}
       <p>
-        Placeholder Bio
+        Recipes from inside and around Narauli House, Khayaliganj.
       </p>
     </div>
   )

@@ -60,7 +60,7 @@ const Layout = ({ location, title, children }) => {
       }}
     >
       <header className={`${!isHomePage ? "home-link" : ""}`}>{header}</header>
-      <main>{children}</main>
+      <main className={`${isHomePage ? "home-main" : ""}`}>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
