@@ -81,4 +81,4 @@ Remove the kababs on absorbent paper to remove the excess fat.
 
 > Never try to make a perfect tikki (patty), just role the keema in your wet hand and throw it on the pan.
 
-> Just use 15 – 20 % more papaya and you do not have to keep the masala away, just start frying.
+> Just use 15 – 20% more papaya and you do not have to keep the masala away, just start frying.
