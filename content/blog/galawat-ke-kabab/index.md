@@ -19,7 +19,7 @@ description: Galawat Ke Kabab - Oudhi Style
 * 1 tbsp prepared Galawat ka masala
 * 1 tsp Kewra Water (careful / optional)
 * 1 tsp Rose Water (careful / optional)
-* a pinch of Red chilies powder
+* a pinch of red chilii  powder
 * sprinkles of Ghee (used while frying Kababs)
 * sprinkles of milk (used while frying Kababs)
 * 50 – 75 gms. of Bhuna Besan (to be used less is mixing in the kidney fat)
@@ -78,13 +78,13 @@ Remove the kababs on absorbent paper to remove the excess fat.
 # Tips
 
 > Dhungar (Smoke) gives it the uniform taste / smell.
-
+>
 > Use all khada / Bhuna masala for Khusbu.
-
+>
 > Sprinkle of Milk & Ghee makes the Kababs soft.
-
+>
 > Always remove your pan from the stove, keep aside for 1 minute and then turn the other side, kababs would never break.
-
+>
 > Never try to make a perfect tikki (patty), just role the keema in your wet hand and throw it on the pan.
-
+>
 > Just use 15 – 20% more papaya and you do not have to keep the masala away, just start frying.
