@@ -1,6 +1,6 @@
 ---
 title: Galawat Ke Kabab - Oudhi Style
-date: "2020-07-06T02:20:00Z"
+date: "2020-07-05T02:20:00Z"
 description: "Galawat Ke Kabab - Oudhi Style"
 ---
 

@@ -16,3 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 header.home-link {
     border-bottom: 2px solid black;
 }
+
+li em {
+    font-weight: 600;
+}
