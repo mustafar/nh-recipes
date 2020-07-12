@@ -1,5 +1,5 @@
 ---
-title: Boneless Chicken Chilly – Indian Chinese style
+title: Boneless Chicken Chilly
 date: 2020-07-12T15:12:07.131Z
 description: Boneless Chicken Chilly – Indian Chinese style
 ---
