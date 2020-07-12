@@ -3,11 +3,7 @@ title: Kalonji Goshth
 date: 2020-07-12T02:18:57.449Z
 description: "Meat cooked in spices and topped with onion seeds "
 ---
-
-
-Kalonji goshth
-
-* 1/2 kilo meat
+* 1/2 kilo goshth
 * 2+2 medium onions
 * 1tsp each turmeric , cumin and red chili powder
 * 2 tsp coriander powder
