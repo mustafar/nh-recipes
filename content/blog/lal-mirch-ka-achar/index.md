@@ -1,5 +1,5 @@
 ---
-title: LAL MIRCH KA ACHAR
+title: Lal Mirch ka Achaar
 date: 2020-07-13T17:32:21.332Z
 description: "Chili  pickle in mustard oil "
 ---
