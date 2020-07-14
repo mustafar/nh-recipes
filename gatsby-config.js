@@ -46,7 +46,6 @@ module.exports = {
         cookieDomain: "nhrecipes.com",
       },
     },
-    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
