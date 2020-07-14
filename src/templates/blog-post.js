@@ -33,6 +33,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               fontSize: `larger`,
               fontVariant: `all-small-caps`,
               fontWeight: `lighter`,
+              lineHeight: rhythm(0.75),
               marginTop: rhythm(0.5),
               marginBottom: `0px`,
             }}
@@ -46,7 +47,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               fontSize: `larger`,
               fontVariant: `all-small-caps`,
               fontWeight: `lighter`,
-              lineHeight: `20px`,
+              marginTop: rhythm(0.03),
               marginBottom: rhythm(1),
             }}
           >
