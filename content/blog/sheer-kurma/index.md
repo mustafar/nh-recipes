@@ -4,8 +4,8 @@ date: 2020-07-13T17:38:52.918Z
 description: Vermicelli cooked in milk
 ---
 
-Servings: 15-20 persons
-Difficulty: Medium
+Servings: 15-20 persons  
+Difficulty: Medium  
 
 # Ingredients
 - 5 litres full fat milk

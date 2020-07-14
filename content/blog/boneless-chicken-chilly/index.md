@@ -1,16 +1,16 @@
 ---
-title: Boneless Chicken Chilly – Indian Chinese style
+title: Boneless Chicken Chilly
 date: 2020-07-12T15:12:07.131Z
 description: Boneless Chicken Chilly – Indian Chinese style
 ---
 
-Recipe: (Indian) Chinese Restaurants
-Prepared By: Salim Rizvi 
-Servings: 4
-Prep Time: 15 mins
-Cook Time: 30 mins
-Total Cook Time: 50 mins
-Difficulty: Easy @ Home
+Recipe: (Indian) Chinese Restaurants  
+Prepared By: Salim Rizvi  
+Servings: 4  
+Prep Time: 15 mins  
+Cook Time: 30 mins  
+Total Cook Time: 50 mins  
+Difficulty: Easy @ Home  
 
 # Ingredients
 - 500g boneless chicken, sliced
@@ -35,8 +35,8 @@ Mix together the chicken, egg, cornflour, all-purpose flour, ginger and garlic, 
 
 Heat oil in a wok or a pan and deep-fry / shallow fry the chicken pieces dipping each piece separately from the lump marinated over high heat to begin with and then lower the flame. Fry until the chicken is cooked through. Drain on absorbent paper.
 
-Heat 2 Tbsp of oil in a wok, add onions and stir-fry over high heat until they are translucent. Add the green chiles, shallots and sauté for a minute. Add salt, vinegar, chilly garlic, sugar and after tossing just put some water.
+Heat 2 tbsp of oil in a wok, add onions and stir-fry over high heat until they are translucent. Add the green chiles, shallots and sauté for a minute. Add salt, vinegar, chilly garlic, sugar and after tossing just put some water.
 
-Add Fried chicken pieces, soy sauce and make sure that you have a little bit of water dipping all the ingredients partly, add the mixture of cornflour with a little bit of water (make a thick paste) and toss all ingredients.
+Add fried chicken pieces, soy sauce and make sure that you have a little bit of water dipping all the ingredients partly, add the mixture of cornflour with a little bit of water (make a thick paste) and toss all ingredients.
 
 ![](boneless-chicken-chilly.jpg)

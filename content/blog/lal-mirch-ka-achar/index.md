@@ -4,7 +4,7 @@ date: 2020-07-13T17:32:21.332Z
 description: "Chile pickle in mustard oil "
 ---
 
-Difficulty: Easy
+Difficulty: Easy  
 
 # Ingredients
 - 1kg firm red chile (_lal mirch, moti achar wali_)
