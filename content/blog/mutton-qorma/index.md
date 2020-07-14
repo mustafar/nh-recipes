@@ -9,7 +9,7 @@ description: Meat simmered in ginger, garlic and yogurt gravy
 - 4 medium onions
 - 200g yogurt (_dahi_)
 - 2-3 green cardamom pods (_elaichi_)
-- 1-2 small cinnamon sticks
+- 1-2 small cinnamon sticks (_darchini_)
 - 1-2 bay leaves (_tez patta_)
 - 1-2 tsp garam masala
 

@@ -38,7 +38,7 @@ description: Soft Oudhi kababs
 - 1 mace
 - ½ tsp black cardamom pods (_badi elaichi_)
 - a pinch of saffron (_zafran_)
-- 1-inch cinnamon
+- 1-inch cinnamon (_darchini_)
 
 ### For Smoking 
 
