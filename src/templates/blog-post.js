@@ -29,8 +29,24 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </h1>
           <p
             style={{
+              display: `block`,
+              fontSize: `larger`,
+              fontVariant: `all-small-caps`,
+              fontWeight: `lighter`,
+              marginTop: rhythm(0.5),
+              marginBottom: `0px`,
+            }}
+          >
+            {post.frontmatter.description}
+          </p>
+          <p
+            style={{
               ...scale(-1 / 5),
               display: `block`,
+              fontSize: `larger`,
+              fontVariant: `all-small-caps`,
+              fontWeight: `lighter`,
+              lineHeight: `20px`,
               marginBottom: rhythm(1),
             }}
           >
