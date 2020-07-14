@@ -1,7 +1,7 @@
 ---
-title: Galawat Ke Kabab - Oudhi Style
+title: Galawat Ke Kabab
 date: 2020-07-05T02:20:00.000Z
-description: Galawat Ke Kabab - Oudhi Style
+description: Soft Oudhi kababs
 ---
 # Ingredients 
 
@@ -34,9 +34,9 @@ description: Galawat Ke Kabab - Oudhi Style
 - 1 star anise
 - 2 bay leaves (_tez patta_)
 - 1 tbsp dry rose petals (for smell / optional)
-- ¼ tsp small nutmeg
+- ¼ tsp small nutmeg (_jaifal_)
 - 1 mace
-- ½ tsp black cardamom pods
+- ½ tsp black cardamom pods (_badi elaichi_)
 - a pinch of saffron (_zafran_)
 - 1-inch cinnamon
 
@@ -54,7 +54,7 @@ Combine minced mutton and kidney fat, mix. Mince the mutton in a mincer or in a 
 
 ### Spice Mix
 
-Heat a pan on medium low flame. Add in mace, black cardamoms, green cardamoms, cumin seeds, black cumin seeds, cloves, black peppercorns, and dry roast till they are fragrant.
+Heat a pan on medium low flame. Add in mace, black cardamom, green cardamom, cumin seeds, black cumin seeds, cloves, black peppercorns, and dry roast till they are fragrant.
 
 Turn off the flame and grate the nutmeg in the pan, add in dry rose petals and mix well.
 Let the spices cool down completely. Grind the spices to a fine powder.

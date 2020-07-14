@@ -1,11 +1,11 @@
 ---
 title: Boneless Chicken Chilly
 date: 2020-07-12T15:12:07.131Z
-description: Boneless Chicken Chilly – Indian Chinese style
+description: Indian-Chinese style fried boneless chicken
 ---
 
 Recipe: (Indian) Chinese Restaurants  
-Prepared By: Salim Rizvi  
+Credit: Salim Rizvi  
 Servings: 4  
 Prep Time: 15 mins  
 Cook Time: 30 mins  
@@ -27,7 +27,7 @@ Difficulty: Easy @ Home
 - 2 tbsp white vinegar
 - 2 onions, sliced
 - 4-5 tsp green thai chiles (_hari mirch_), sliced and de-seeded
-- ½ cup of shallots (_hari pyaaz ka saaga_) (optional – for colour)
+- ½ cup sliced green onion (_hari pyaaz ka saaga_) (optional – for colour)
 - Oil, to deep fry
 
 # Preparation

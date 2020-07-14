@@ -1,7 +1,7 @@
 ---
 title: Bhappa Doi
 date: 2020-07-13T17:42:11.367Z
-description: "Hung yogurt dessert"
+description: Hung yogurt dessert
 ---
 Servings: 4  
 Difficulty - Easy  
@@ -13,7 +13,7 @@ Difficulty - Easy
 ## Preparation
 
 ### Hung yogurt
-The recipe calls for yogurt that has been hung (made into yoghurt cheese). During Indian summer, hang in the fridge for 6-8 hours. You can put muslin in a sieve over a bowl to collect the water.
+The recipe calls for yogurt that has been hung (made into yoghurt cheese). During Indian summers, hang in the fridge for 6-8 hours. You can put muslin in a sieve over a bowl to collect the water.
 
 Whip the yoghurt. Mix in the condensed milk well. Pour into a ovenproof dish, the taller the better.
 

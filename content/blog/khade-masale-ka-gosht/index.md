@@ -1,7 +1,7 @@
 ---
 title: Khade Masale Ka Gosht
 date: 2020-07-06T00:47:00.000Z
-description: Khade Masale Ka Gosht
+description: Meat curry cooked with coarse and whole spices
 ---
 # Ingredients 
 

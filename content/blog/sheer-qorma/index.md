@@ -1,5 +1,5 @@
 ---
-title: "Sheer Qorma"
+title: Sheer Qorma
 date: 2020-07-13T17:38:52.918Z
 description: Vermicelli cooked in milk
 ---
