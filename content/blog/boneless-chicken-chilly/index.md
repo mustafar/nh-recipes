@@ -1,5 +1,5 @@
 ---
-title: Boneless Chicken Chilly
+title: Boneless Chicken Chili
 date: 2020-07-12T15:12:07.131Z
 description: Indian-Chinese style fried boneless chicken
 ---
