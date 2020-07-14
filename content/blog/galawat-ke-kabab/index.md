@@ -5,46 +5,46 @@ description: Galawat Ke Kabab - Oudhi Style
 ---
 # Ingredients 
 
-* 1 Kg Keema (Beef or Mutton)
-* 200gms Kidney Fat (optional – used for fine binding)
+- 1 kg keema (beef or mutton)
+- 200g kidney fat (optional – used for fine binding)
 
 ### Masala
 
-* 1 tsp brown onion paste
-* 1½ tbsp brown cashew paste (optional)
-* 2 tbsp ghee
-* salt, to taste
-* 1 tbsp ginger garlic juice
-* 2 tbsp Raw Papaya (with Skin), paste
-* 1 tbsp prepared Galawat ka masala
-* 1 tsp Kewra Water (careful / optional)
-* 1 tsp Rose Water (careful / optional)
-* a pinch of red chili powder
-* sprinkles of Ghee (used while frying Kababs)
-* sprinkles of milk (used while frying Kababs)
-* 50 – 75 gms. of Bhuna Besan (to be used less is mixing in the kidney fat)
+- 1 tsp brown onion paste
+- 1½ tbsp brown cashew paste (optional)
+- 2 tbsp ghee
+- salt, to taste
+- 1 tbsp ginger garlic juice
+- 2 tbsp raw papaya (with skin), paste
+- 1 tbsp prepared Galawat ka masala
+- 1 tsp Kewra water (careful / optional)
+- 1 tsp rose water (careful / optional)
+- a pinch of red chili powder
+- sprinkles of ghee (used while frying Kababs)
+- sprinkles of milk (used while frying Kababs)
+- 50–75g of bhuna besan (to be used less is mixing in the kidney fat)
 
 ### For Galawat ka masala
 
-* ¼ tsp Allspice (optional)
-* 1 tsp Black Peppercorns
-* 1 tsp Black Cumin Seeds
-* 4-5 Cloves
-* 5-6 Green Cardamoms
-* 1 Star anise
-* 2 Bay leaf
-* 1 tbsp Dry Rose Petals (for smell / optional)
-* ¼ tsp Small Nutmeg
-* 1 Mace
-* ½ tsp Black Cardamoms
-* a pinch of saffron
-* 1-inch Cinnamon
+- ¼ tsp allspice (optional)
+- 1 tsp black peppercorns (_kali mirch_)
+- 1 tsp black cumin Seeds (_zeera_)
+- 4-5 cloves (_laung_)
+- 5-6 green cardamom pods (_elaichi_)
+- 1 star anise
+- 2 bay leaves (_tez patta_)
+- 1 tbsp dry rose petals (for smell / optional)
+- ¼ tsp small nutmeg
+- 1 mace
+- ½ tsp black cardamom pods
+- a pinch of saffron (_zafran_)
+- 1-inch cinnamon
 
 ### For Smoking 
 
-* 2 small pieces of coal
-* 3-4 cloves
-* 1 tsp ghee
+- 2 small pieces of coal
+- 3-4 cloves
+- 1 tsp ghee
 
 # Preparation
 
@@ -61,9 +61,9 @@ Let the spices cool down completely. Grind the spices to a fine powder.
 
 ### Kababs
 
-In a mixing bowl combine minced meat, prepared spice mix, ginger garlic paste, raw papaya, kewra water, rose water, salt, Bhuna besan and mix well.
+In a mixing bowl combine minced meat, prepared spice mix, ginger garlic paste, raw papaya, kewra water, rose water, salt, bhuna besan and mix well.
 
-Make a shallow hole in the center of the mix put the Onion peel, put 1/2 burning small piece coal, pour over Desi ghee, leave covered for 2 – 3 minutes and then remove the Onion peel with coal, mix well the aroma in the mixture.
+Make a shallow hole in the center of the mix put the onion peel, put 1/2 burning small piece coal, pour over desi ghee, leave covered for 2 – 3 minutes and then remove the Onion peel with coal, mix well the aroma in the mixture.
 
 Let the meat marinade for minimum 2 hours or preferably overnight in refrigerator.
 Take the meat out of refrigerator.
@@ -79,9 +79,9 @@ Remove the kababs on absorbent paper to remove the excess fat.
 
 > Dhungar (Smoke) gives it the uniform taste / smell.
 
-> Use all khada / Bhuna masala for Khusbu.
+> Use all khada / bhuna masala for Khusbu.
 
-> Sprinkle of Milk & Ghee makes the Kababs soft.
+> Sprinkle of milk & ghee makes the Kababs soft.
 
 > Always remove your pan from the stove, keep aside for 1 minute and then turn the other side, kababs would never break.
 

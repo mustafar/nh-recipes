@@ -25,4 +25,4 @@ Make the syrup (_sheera_) by boiling together water sugar cardamom and food colo
 
 Dip the fried bread bread pieces in this syrup and arrange the pieces in a wide aluminum utensil. Put this utensil on low flame add milk and the remaining sugar syrup over the bread pieces. Cook for 2-4 minutes keep rotating the utensil.
 
-Garnish with khoya pistachios and silver leaf.
+Garnish with khoya, pistachios and silver leaf.

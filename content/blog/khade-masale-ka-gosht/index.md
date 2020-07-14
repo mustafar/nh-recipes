@@ -5,22 +5,22 @@ description: Khade Masale Ka Gosht
 ---
 # Ingredients 
 
-* 500g meat (Mutton or Goat)
-* 500g onion, finely chopped
-* 10g ginger, finely chopped
-* 20 cloves garlic (*lehsun*), coarsely chopped
-* 4 red chilies  (*lal mirch*), coarsely cut
-* 1 tbsp coriander seeds (*dhania*), roasted & coarsely ground
-* 100g mustard oil (*sarson ka tel*) or any other oil, ghee or butter
-* ½ tbsp lemon juice
-* salt, to taste
+- 500g meat (mutton or goat)
+- 500g onion, finely chopped
+- 10g ginger (_adrak_), finely chopped
+- 20 cloves garlic (_lehsun_), coarsely chopped
+- 4 red chilies (_lal mirch_), coarsely cut
+- 1 tbsp coriander seeds (_dhania_), roasted & coarsely ground
+- 100g mustard oil (_sarson ka tel_) or any other oil, ghee or butter
+- ½ tbsp lemon juice
+- salt, to taste
 
 ### Khusbu ka Masala
 
-* 4 whole green cardamon (*choti elaichi*)
-* 4 whole cloves (*laung*)
-* a pinch of nutmeg (*jaifal*)
-* a small piece of cinnamon (*darchini*)
+- 4 whole green cardamon (_choti elaichi_)
+- 4 whole cloves (_laung_)
+- a pinch of nutmeg (_jaifal_)
+- a small piece of cinnamon (_darchini_)
 
 # Preparation
 

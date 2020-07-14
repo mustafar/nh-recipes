@@ -1,8 +1,11 @@
 blockquote {
     background-color: whitesmoke;
+    font-style: normal;
+    margin-right: 0px;
     padding-top: 6px;
     padding-bottom: 6px;
-    font-style: normal;
+    padding-left: 1.17812rem;
+    padding-right: 1.17812rem;
 }
 
 blockquote.p {
@@ -44,4 +47,8 @@ li em {
 main.home-main {
   margin-top: -20px;
   margin-bottom: 100px;
+}
+
+ul li {
+  margin-bottom: 0.3rem;
 }

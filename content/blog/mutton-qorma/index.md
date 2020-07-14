@@ -4,14 +4,14 @@ date: 2020-07-12T22:27:16.448Z
 description: Meat simmered in ginger garlic and yogurt gravy
 ---
 # Ingredients
-* ½kg mutton
-* 2-3 tbsp ginger garlic paste
-* 4 medium onions
-* 2-3 small cardamom pods (_elaichi_)
-* 1-2 small cinnamon sticks
-* 1-2 bay leaves (_tez patta_)
-* 200g yogurt (_dahi_)
-* 1-2 tsp garam masala
+- ½kg mutton
+- 2-3 tbsp ginger garlic paste
+- 4 medium onions
+- 2-3 small cardamom pods (_elaichi_)
+- 1-2 small cinnamon sticks
+- 1-2 bay leaves (_tez patta_)
+- 200g yogurt (_dahi_)
+- 1-2 tsp garam masala
 
 # Preparation
 
