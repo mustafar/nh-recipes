@@ -1,9 +1,29 @@
 import React from "react"
+import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
 
 const Bio = () => {
+  const data = useStaticQuery(graphql`
+    query BioQuery {
+      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+        childImageSharp {
+          fixed(width: 50, height: 50) {
+            ...GatsbyImageSharpFixed
+          }
+        }
+      }
+      site {
+        siteMetadata {
+          author {
+            name
+            summary
+          }
+        }
+      }
+    }
+  `);
 
   return (
     <div
@@ -12,9 +32,9 @@ const Bio = () => {
         marginBottom: rhythm(0.5),
       }}
     >
-      {/* <Image
+      <Image
         fixed={data.avatar.childImageSharp.fixed}
-        alt="placeholder alt"
+        alt="nh recipes"
         style={{
           marginRight: rhythm(1 / 2),
           marginBottom: 0,
@@ -24,9 +44,13 @@ const Bio = () => {
         imgStyle={{
           borderRadius: `50%`,
         }}
-      /> */}
-      <p>
-        Recipes from inside and around Narauli House, Khayaliganj.
+      />
+      <p
+        style={{
+          fontSize: 'initial',
+        }}
+      >
+        Recipes from inside and around<br />Narauli House, Khayaliganj.
       </p>
     </div>
   )
