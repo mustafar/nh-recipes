@@ -22,7 +22,7 @@ description: Khade Masale Ka Gosht
 * a pinch of nutmeg (*jaifal*)
 * a small piece of cinnamon (*darchini*)
 
-# Process
+# Preparation
 
 In a heavy bottom pan put oil and let it burn by adding 1 whole red chili. Once the smoke comes out, remove from the burner and put aside for 30 – 45 secs. Let it cool down a bit.
 
@@ -37,13 +37,13 @@ Once the mutton is nearly done, just add the squeezed lemon juice and cover ; co
 # Tips
 
 > The lesser the water, the better the masala turns out.
->
+
 > Sarson ka tel gives that additional zing.
->
+
 > Heavy bottomed slow cooking enhances the dish.
->
+
 > Last 2-3 minutes of cooking in pan / pressure cooker (without pressure) should be done on slow to medium fire to get the required oil on top – NEVER COOK With out cover.
->
+
 > Cook in a pressure cooker if required. Put pressure valve after mixing the meat & second half of onions  
->
+
 > Again, use as little water as required.

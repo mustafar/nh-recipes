@@ -42,11 +42,11 @@ description: Galawat Ke Kabab - Oudhi Style
 
 ### For Smoking 
 
-* 2 Coal (small pieces)
+* 2 small pieces of coal
 * 3-4 cloves
 * 1 tsp ghee
 
-# Process
+# Preparation
 
 ### Mincing
 
