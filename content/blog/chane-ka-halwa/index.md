@@ -1,5 +1,5 @@
 ---
-title: " CHANE KA HALWA"
+title: " Chane Ka Halwa"
 date: 2020-07-15T12:12:18.029Z
 description: Traditional Indian halwa
 ---
@@ -7,7 +7,7 @@ description: Traditional Indian halwa
   \
   DEGREE OF DIFFICULTY: HIGH\
   \
-  INGREDIENTS
+  **INGREDIENTS**
 
   1 kg chane ki dal\
   \
@@ -24,7 +24,7 @@ description: Traditional Indian halwa
   \
   garnishing is up to you-slivered almonds, silver leaf, or a sprinkle of ground cardamom\
   \
-  METHOD\
+ ** METHOD**\
   \
   Wash and soak dal in water for an hour.\
   \
