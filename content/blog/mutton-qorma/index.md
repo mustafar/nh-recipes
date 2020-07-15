@@ -3,15 +3,17 @@ title: Mutton Qorma
 date: 2020-07-12T22:27:16.448Z
 description: Meat simmered in ginger, garlic and yogurt gravy
 ---
-# Ingredients
-- ½ kg mutton
-- 2-3 tbsp ginger garlic paste
-- 4 medium onions
-- 200g yogurt (_dahi_)
-- 2-3 green cardamom pods (_elaichi_)
-- 1-2 small cinnamon sticks (_darchini_)
-- 1-2 bay leaves (_tez patta_)
-- 1-2 tsp garam masala
+Recipe credit: Akhlaqun Nisa( submitted by Yasmin Naqvi)
+Ingredients
+
+* ½ kg mutton
+* 2-3 tbsp ginger garlic paste
+* 4 medium onions
+* 200g yogurt (*dahi*)
+* 2-3 green cardamom pods (*elaichi*)
+* 1-2 small cinnamon sticks (*darchini*)
+* 1-2 bay leaves (*tez patta*)
+* 1-2 tsp garam masala
 
 # Preparation
 
