@@ -1,5 +1,5 @@
 ---
-title: Biryani
+title: Lucknowi Biryani
 date: 2020-07-15T12:05:00.000Z
 description: Nayaz Bhai's famous Biryani, made with Mutton
 ---
