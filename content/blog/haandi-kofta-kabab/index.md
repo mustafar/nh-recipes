@@ -6,7 +6,7 @@ description: Meatballs cooked in a heavy pot
 
 Difficulty: Medium 
 
-# Ingredients:
+# Ingredients
 
 - ½ kg lean beef or mutton mince
 - 100g raw papaya, ground
@@ -26,7 +26,7 @@ Difficulty: Medium
 ### Garam Masala
 - 1 cinnamon stick
 - 4 cardamom pods (_elaichi_) 
-- 1 large cardamom bod (_badi elaichi_) 
+- 1 large cardamom pod (_badi elaichi_) 
 - 6 black peppercorns (_kali mirch_)
 - 4 cloves (_laung_)
 
