@@ -3,6 +3,7 @@ title: Sewain
 date: 2020-07-12T02:15:53.089Z
 description: Lucknowi sewain (vermicelli) cooked in milk and khoya
 ---
+Recipe credit: Saeeda Zaidi
 # Ingredients
 - ½ kg sewain
 - 1¼ kg sugar
