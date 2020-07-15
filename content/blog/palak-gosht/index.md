@@ -15,7 +15,7 @@ Difficulty: Medium
 - 1½ tsp garlic paste
 - 1½ tsp ginger paste
 - ¼ cup oil
-- $alt, to taste
+- Salt, to taste
 - ½ tsp red chile powder
 - 1½ tsp coriander powder (_dhania powder_)
 - ½ tsp cumin (_zeera_) powder

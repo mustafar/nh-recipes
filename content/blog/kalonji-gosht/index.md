@@ -3,7 +3,8 @@ title: Kalonji Gosht
 date: 2020-07-12T02:18:57.449Z
 description: Meat cooked in spices and topped with onion seeds
 ---
-Recipe Credit: Saeeda Zaidi
+Recipe Credit: Saeeda Zaidi  
+
 # Ingredients
 - ½ kilo gosht (mutton)
 - 2 + 2 medium onions
