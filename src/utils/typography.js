@@ -9,8 +9,6 @@ Theme.overrideThemeStyles = () => {
   }
 }
 
-delete Theme.googleFonts
-
 const typography = new Typography(Theme)
 
 // Hot reload typography in development.
