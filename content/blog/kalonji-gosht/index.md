@@ -4,7 +4,7 @@ date: 2020-07-12T02:18:57.449Z
 description: Meat cooked in spices and topped with onion seeds
 ---
 # Ingredients
-- ½ kilo gosht
+- ½ kilo gosht (mutton)
 - 2 + 2 medium onions
 - 1 tsp turmeric (_haldi_)
 - 1 tsp cumin (_zeera_)
