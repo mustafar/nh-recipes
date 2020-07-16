@@ -1,6 +1,6 @@
 ---
 title: Moradabadi Pulao
-date: 2020-07-16T05:26:00Z
+date: 2020-07-16T10:26:00Z
 description: Moradabadi recipe for pulao
 ---
 Recipe Credit: Ahmad Rizvi  
@@ -26,7 +26,7 @@ Cooking Time: 30 mins
 ### Sookha Sabut Masala
 - ½ tsp cumin seeds (_zeera_)
 - ½ tsp whole black peppercorns (_kali mirch_)
-- 1/4 tsp whole cloves (_laung_)
+- ¼ tsp whole cloves (_laung_)
 - Few scraps of nutmeg (_jaifal_)
 - 2-3 bay leaves (_tez patta_)
 - 1 whole star anise
@@ -48,6 +48,6 @@ Drain and save the Yakhni (stock). Separate the chicken pieces. Separate and mas
 ### Cooking the pulao
 Heat the remaining oil (120ml) in a bigger pot (at least 3-4 litre pot – very important). Add chopped onions and fry till it is golden (save a bit for garnishing). Add the cooked chicken and the pulp (onion, ginger, garlic) fry it for about a minute. Add whipped yogurt and give it a mix, cook for another minute.
 
-Add soaked rice (without water) cautiously so it doesn’t break. Add stock to the mix, to the level that it just immerses the everything (and not beyond or over it). If stock falls short, then add a little bit of warm water. Add salt to taste. Cook 5 minute on high and 15  min on simmer with the lid on (and tightly sealed – I use something heavy on the top)
+Add soaked rice (without water) cautiously so it doesn’t break. Add stock to the mix, to the level that it just immerses everything (and not beyond or over it). If stock falls short, then add a little bit of warm water. Add salt to taste. Cook 5 minute on high and 15 min on simmer with the lid on (and tightly sealed – I use something heavy on the top)
 
 When you open the lid after 20 min, you will see the top layer of rice almost standing in air which means you are done. Garnish with saved fried onions, and optionally, chopped dhania leaves.

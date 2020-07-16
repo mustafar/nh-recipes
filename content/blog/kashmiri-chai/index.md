@@ -12,7 +12,7 @@ Servings: 20-30 cups
 - ¼ tsp mace
 - 9-10 cloves (_laung_)
 - 9-10 cardamom pods (_elaichi_)
-- 1 stick cinnamon (_darchini_)
+- 1 stick cinnamon (_dalchini_)
 - 2 bay leaves (_tez patta_)
 - Pinch of bicarbonate of soda
 - 2 tsp salt
@@ -21,7 +21,7 @@ Servings: 20-30 cups
 - 10-15 almonds, ground to a paste
 - 1 tsp coconut paste
 - ½ tsp kewra water
-- 2-3 drops sweer essence (_meetha itr_, used in Awadhi cuisine)
+- 2-3 drops sweet essence (_meetha itr_, used in Awadhi cuisine)
 - Red rouge food colouring
 
 # Preparation

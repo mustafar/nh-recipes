@@ -20,7 +20,7 @@ description: Meat curry cooked with coarse and whole spices
 - 4 whole green cardamon (_choti elaichi_)
 - 4 whole cloves (_laung_)
 - a pinch of nutmeg (_jaifal_)
-- a small piece of cinnamon (_darchini_)
+- a small piece of cinnamon (_dalchini_)
 
 # Preparation
 

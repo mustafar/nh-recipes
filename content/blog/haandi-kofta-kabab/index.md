@@ -16,7 +16,7 @@ Difficulty: Medium
 - ½ tsp red chile powder
 - 1½ tsp coriander powder (_dhania powder_)
 - ½ tsp cumin (_zeera_) powder
-- 2 tsp poppy seeds
+- 2 tsp poppy seeds (_posta_)
 - 3 tbsp gram flour
 - 3 medium thai green chile (_hari mirch_)
 - 50g green coriander (_dhania ki patti_)

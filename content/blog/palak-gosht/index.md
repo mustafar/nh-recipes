@@ -20,7 +20,7 @@ Difficulty: Medium
 - 1½ tsp coriander powder (_dhania powder_)
 - ½ tsp cumin (_zeera_) powder
 - ½ tsp haldi
-- 1 cinnamon stick (_darchini_)
+- 1 cinnamon stick (_dalchini_)
 - 2 large cardamom (_badi elaichi_)
 - 3-4 cloves (_laung_)
 - 3 tbsp yogurt

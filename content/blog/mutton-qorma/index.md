@@ -11,7 +11,7 @@ Ingredients
 * 4 medium onions
 * 200g yogurt (*dahi*)
 * 2-3 green cardamom pods (*elaichi*)
-* 1-2 small cinnamon sticks (*darchini*)
+* 1-2 small cinnamon sticks (*dalchini*)
 * 1-2 bay leaves (*tez patta*)
 * 1-2 tsp garam masala
 

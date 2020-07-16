@@ -7,7 +7,7 @@ description: Indian-Chinese style fried boneless chicken
 Recipe Credit: Salim Rizvi  
 Servings: 4  
 Prep Time: 15 mins  
-Cook Time: 30 mins  
+Cooking Time: 30 mins  
 Difficulty: Easy    
 
 # Ingredients
