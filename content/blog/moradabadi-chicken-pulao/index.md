@@ -1,7 +1,7 @@
 ---
-title: Moradabadi Pulao
+title: Moradabadi Chicken Pulao
 date: 2020-07-16T10:26:00Z
-description: Moradabadi recipe for pulao
+description: Moradabadi recipe for chicken pulao
 ---
 Recipe Credit: Ahmad Rizvi  
 Servings: 3  
