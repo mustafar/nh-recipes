@@ -1,5 +1,5 @@
 ---
-title: Lucknow Yakhani Pulao
+title: Lucknowi Yakhani Pulao
 date: 2020-07-16T22:03:21.108Z
 description: "Rice cooked in Yakhni "
 ---
