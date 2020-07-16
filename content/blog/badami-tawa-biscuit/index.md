@@ -1,7 +1,7 @@
 ---
 title: Badami Tawa Biscuit
 date: 2020-07-15T02:02:00.000Z
-description: Almond Cookies
+description: Almond cookies
 ---
 This recipe is a cross between Nankhatai and 22 Rajab ki Tikiya.
 

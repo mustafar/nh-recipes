@@ -1,7 +1,7 @@
 ---
 title: Lucknowi Biryani
 date: 2020-07-15T12:05:00.000Z
-description: Nayaz Bhai's famous Biryani, made with Mutton
+description: Nayaz Bhai's famous biryani, made with mutton
 ---
 
 Difficulty: Hard  
@@ -35,3 +35,5 @@ Cover the lid tightly and let the rice cook on low flame for 10 minutes.
 
 # Tips
 > Serve hot with raita.
+
+![](biryani.jpeg)
