@@ -43,11 +43,11 @@ Clean and soak the rice. Clean the chicken. Clean all Hara masala and finely cho
 ## Cooking the chicken
 Take a pressure cooker and roast the Sookha Sabut Masala for 15 sec in 30ml oil. Add half a litre water and chicken to it. Add the Potli, close the lid and cook on med flame with just 1 whistle (or 25 min with no whistle). Open the cooker when the pressure is down to zero.
 
-Drain and save the Yakhni (stalk). Separate the chicken pieces. Separate and mash ginger, garlic, and onion into a pulp. Throw out everything else (or compost).
+Drain and save the Yakhni (stock). Separate the chicken pieces. Separate and mash ginger, garlic, and onion into a pulp. Throw out everything else (or compost).
 
 ### Cooking the pulao
 Heat the remaining oil (120ml) in a bigger pot (at least 3-4 litre pot – very important). Add chopped onions and fry till it is golden (save a bit for garnishing). Add the cooked chicken and the pulp (onion, ginger, garlic) fry it for about a minute. Add whipped yogurt and give it a mix, cook for another minute.
 
-Add soaked rice (without water) cautiously so it doesn’t break. Add stalk to the mix, to the level that it just immerses the everything (and not beyond or over it). If stalk falls short, then add a little bit of warm water. Add salt to taste. Cook 5 minute on high and 15  min on simmer with the lid on (and tightly sealed – I use something heavy on the top)
+Add soaked rice (without water) cautiously so it doesn’t break. Add stock to the mix, to the level that it just immerses the everything (and not beyond or over it). If stock falls short, then add a little bit of warm water. Add salt to taste. Cook 5 minute on high and 15  min on simmer with the lid on (and tightly sealed – I use something heavy on the top)
 
-When you open the lid after 20 min, you will the top layer of rice almost standing in air (which means you are done). Garnish with saved fried onions (Optional: chopped dhania leaves).
+When you open the lid after 20 min, you will see the top layer of rice almost standing in air which means you are done. Garnish with saved fried onions, and optionally, chopped dhania leaves.
