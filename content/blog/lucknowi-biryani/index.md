@@ -3,23 +3,23 @@ title: Lucknowi Biryani
 date: 2020-07-15T12:05:00.000Z
 description: Nayaz Bhai's famous biryani, made with mutton
 ---
-
 Difficulty: Hard  
 
 # Ingredients
-- 500g mutton 
-- 500g onions (sliced)
-- 100g yogurt 
-- 2 tbsp ginger paste
-- 2 tbsp garlic paste 
-- 1½ teaspoons red chile powder 
-- 250g oil or ghee
-- 3-4 cloves (_laung_)
-- 3-4 green cardamoms (_elaichi_)
-- Salt, to taste 
-- 750g basmati rice 
-- ¼ tsp orange food colouring
-- 4-5 tbsp milk
+
+* 500g mutton 
+* 500g onions (sliced)
+* 100g yogurt 
+* 2 tbsp ginger paste
+* 2 tbsp garlic paste 
+* 1½ teaspoons red chile powder 
+* 250g oil or ghee
+* 3-4 cloves (*laung*)
+* 3-4 green cardamoms (*elaichi*)
+* Salt, to taste 
+* 750g basmati rice 
+* ¼ tsp orange food colouring
+* 4-5 tbsp milk
 
 # Preparation
 
@@ -29,11 +29,12 @@ Add ginger garlic paste cook for another 8-10 minutes on medium heat. Add in the
 
 Soak rice for 20 minutes. Boil it in water with salt cloves and cardamoms until it’s nearly cooked. The rice should break into two parts between the fingers. Drain excess water.
 
-Divide the rice into two parts. Layer the rice at the bottom of the pot then add a layer of the mutton gravy (_yakhni_) over it, but save some for later. Then add the remaining rice over the mutton layer. Mix orange colour in milk and sprinkle over the rice also the pour the remainder of the gravy over the rice.
+Divide the rice into two parts. Layer the rice at the bottom of the pot then add a layer of the mutton gravy (*yakhni*) over it, but save some for later. Then add the remaining rice over the mutton layer. Mix orange colour in milk and sprinkle over the rice also the pour the remainder of the gravy over the rice.
 
 Cover the lid tightly and let the rice cook on low flame for 10 minutes.
 
 # Tips
+
 > Serve hot with raita.
 
-![](biryani.jpeg)
+![](lucknowi-biryani.jpeg)
