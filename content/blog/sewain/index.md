@@ -3,15 +3,19 @@ title: Sewain
 date: 2020-07-12T02:15:53.089Z
 description: Lucknowi sewain (vermicelli) cooked in milk and khoya
 ---
+![](seewain.webp)
+
 Recipe credit: Saeeda Zaidi
+
 # Ingredients
-- ½ kg sewain
-- 1¼ kg sugar
-- 1½ kg milk
-- Ghee for frying
-- Khoya (optional)
-- Pinch of saffron (_zafran_)
-- Pinch of cardamom (_elaichi_) powder
+
+* ½ kg sewain
+* 1¼ kg sugar
+* 1½ kg milk
+* Ghee for frying
+* Khoya (optional)
+* Pinch of saffron (*zafran*)
+* Pinch of cardamom (*elaichi*) powder
 
 # Preparation
 
