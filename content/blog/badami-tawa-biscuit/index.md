@@ -5,6 +5,7 @@ description: Almond cookies
 ---
 This recipe is a cross between Nankhatai and 22 Rajab ki Tikiya.
 
+Recipe Credit: Homa Zaidi (inspired by Sigrun)  
 Difficulty: Medium 
 
 # Ingredients

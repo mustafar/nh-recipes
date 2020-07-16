@@ -19,7 +19,7 @@ description: Spice marinated mutton chops
 - ¾ cup oil
 
 ### For Garnishing
-- Onion,
+- Onion
 - Mint
 - Green chile (_hari mirch_)
 

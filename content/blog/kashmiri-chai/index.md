@@ -1,7 +1,7 @@
 ---
 title: Kashmiri Chai
 date: 2020-07-16T00:50:00.000Z
-description: Flavored milk tea
+description: Spiced milk tea
 ---
 Recipe Credit: Seema Rizvi  
 Servings: 20-30 cups
