@@ -1,6 +1,6 @@
 ---
 title: Lagan Chicken Masala
-date: 2020-07-16T12:20:51Z
+date: 2020-07-16T12:35:00Z
 description: Hyderabadi style chicken curry
 ---
 Recipe Credit: Masooma Zaidi  
@@ -29,9 +29,9 @@ Cooking Time: 40 mins
 
 # Preparation
 
-In a grinder add roasted cashews, and coconut (dont roast much the colour shouldnt change). Add fried onions and posta. Grind all into a fine paste.
+Lightly roast the dry coconut so that the color doesn't change. Add roasted cashews, coconut, fried onions and posta to a grinder and grind to a fine paste.
 
-Heat ghee, add laung, elaichi, dalchini, add chicken fry it well. Once chicken is cooked add onion paste. Then add ginger garlic paste. Add salt and red chilli powder and cook for 10 minutes.
+Heat ghee and add laung, elaichi, dalchini and chicken. Fry it well. Once chicken is cooked, add the onion paste. Then add ginger garlic paste. Add salt and red chile powder and cook for 10 minutes.
 
 Add well beaten yogurt and cook till chicken is half done. Add ground masala and cook well. If chicken turns dry you can add milk instead of water.
 
