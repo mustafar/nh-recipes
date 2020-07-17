@@ -9,7 +9,7 @@ description: Meat curry cooked with coarse and whole spices
 * 500g onion, finely chopped
 * 10g ginger (_adrak_), finely chopped
 * 20 cloves garlic (_lehsun_), coarsely chopped
-* 4 red chilies (_lal mirch_), coarsely cut
+* 4 red chiles (_lal mirch_), coarsely cut
 * 1 tbsp coriander seeds (_dhania_), roasted & coarsely ground
 * 100g mustard oil (_sarson ka tel_) or any other oil, ghee or butter
 * ½ tbsp lemon juice
@@ -24,7 +24,7 @@ description: Meat curry cooked with coarse and whole spices
 
 # Preparation
 
-In a heavy bottom pan put oil and let it burn by adding 1 whole red chili. Once the smoke comes out, remove from the burner and put aside for 30 – 45 secs. Let it cool down a bit.
+In a heavy bottom pan put oil and let it burn by adding 1 whole red chile. Once the smoke comes out, remove from the burner and put aside for 30 – 45 secs. Let it cool down a bit.
 
 Put all Khushbu masala * adrak, lehsun, lal mirch, dhania, namak and then half of the onions until you get a rich brown colour of your masala.
 

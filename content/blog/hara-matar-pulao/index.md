@@ -3,7 +3,7 @@ title: Hara Matar Pulao
 date: 2020-07-16T22:46:18.328Z
 description: Rice cooked with green peas
 ---
-Recipe: Reza Rizvi (Ammijaan's recipe)  
+Recipe Credit: Zahra Rizvi  
 
 # Ingredients
 * 1 Kg Basmati rice

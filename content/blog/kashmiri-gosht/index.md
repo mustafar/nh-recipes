@@ -39,4 +39,4 @@ Add oil and desi ghee to pressure cooker. When hot, add bay leaves, cinnamon sti
 
 Add mutton and salt and fry till water evaporates. Add onion paste and ginger garlic paste. Cook for 10 minutes. Add haldi, red chile powder, kashmiri chile powder and yogurt. Cook for about 5 minutes.
 
-Add tomato puree and green chilies close the lid. Pressure cook for 20-25 min. Check the mutton if tender. Add grounded masala, sweet neem and a handful of fresh green coriander leaves.
+Add tomato puree and green chiles close the lid. Pressure cook for 20-25 min. Check the mutton if tender. Add grounded masala, sweet neem and a handful of fresh green coriander leaves.

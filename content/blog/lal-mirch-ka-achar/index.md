@@ -3,19 +3,19 @@ title: Lal Mirch Ka Achaar
 date: 2020-07-13T17:32:21.332Z
 description: Red chile pickle in mustard oil
 ---
-Recipe Credit: Sultana Khala  
+Recipe Credit: Sultana Rizvi   
 Difficulty: Easy  
 
 # Ingredients
-* 1kg firm red chile (_lal mirch, moti achar wali_)
-* 100g cumin (_zeera_)
-* 100g fennel seeds (_moti saunf_)
-* 250g dry mango powder (_khatai_)
-* 30g onion seeds (_kalonji_)
-* 30g fenugreek seeds (_methi dana_)
-* 3-4 tbsp salt, or to taste
-* Mustard oil, enough to cover the chiles after they are filled and lined up in the achari or vessel.
-* Muslin cloth to cover the achari for a couple of weeks.
+- 1kg firm red chile (_lal mirch, moti achar wali_)
+- 100g cumin (_zeera_)
+- 100g fennel seeds (_moti saunf_)
+- 250g dry mango powder (_khatai_)
+- 30g onion seeds (_kalonji_)
+- 30g fenugreek seeds (_methi dana_)
+- 3-4 tbsp salt, or to taste
+- Mustard oil, enough to cover the chiles after they are filled and lined up in the achari or vessel.
+- Muslin cloth to cover the achari for a couple of weeks.
 
 # Preparation
 Wash and dry the chiles well. Cut the tops off and reserve. Scoop out the seeds and keep aside.

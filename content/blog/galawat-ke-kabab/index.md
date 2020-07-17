@@ -5,7 +5,7 @@ description: Soft Oudhi kababs
 ---
 # Ingredients 
 
-* 1 kg keema (beef or mutton)
+* 1 kg qeema (beef or mutton)
 * 200g kidney fat (optional – used for fine binding)
 
 ### Masala
@@ -13,16 +13,16 @@ description: Soft Oudhi kababs
 * 1 tsp brown onion paste
 * 1½ tbsp brown cashew paste (optional)
 * 2 tbsp ghee
-* salt, to taste
 * 1 tbsp ginger garlic juice
 * 2 tbsp raw papaya (with skin), paste
 * 1 tbsp prepared Galawat ka masala
 * 1 tsp Kewra water (careful / optional)
 * 1 tsp rose water (careful / optional)
-* a pinch of red chili powder
-* sprinkles of ghee (used while frying Kababs)
-* sprinkles of milk (used while frying Kababs)
-* 50–75g of bhuna besan (to be used less is mixing in the kidney fat)
+* a pinch of red chile powder
+* Sprinkle of ghee, used while frying kababs
+* Sprinkle of milk, used while frying kababs
+* 50–75g of bhuna besan, used to mix in the kidney fat
+* salt, to taste
 
 ### For Galawat ka masala
 
@@ -85,6 +85,6 @@ Remove the kababs on absorbent paper to remove the excess fat.
 
 > Always remove your pan from the stove, keep aside for 1 minute and then turn the other side, kababs would never break.
 
-> Never try to make a perfect tikki (patty), just role the keema in your wet hand and throw it on the pan.
+> Never try to make a perfect tikki (patty), just roll the qeema in your wet hand and throw it on the pan.
 
 > Just use 15 – 20% more papaya and you do not have to keep the masala away, just start frying.

@@ -60,7 +60,7 @@ Servings: 4-5
 
 **For Yakhani**
 
-1. In a pressure cooker put mutton, ginger garlic paste, salt and red chili powder.
+1. In a pressure cooker put mutton, ginger garlic paste, salt and red chile powder.
 2. Make a potli with muslin cloth with all the garam masala and Put it inside the pressure cooker.
 3. Add water (half the quantity of mutton)
 4. Close lid and cook mutton till 90% done. It takes around 20 min for fresh mutton.

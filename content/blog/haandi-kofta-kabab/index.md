@@ -3,8 +3,8 @@ title: Haandi Kofta Kabab
 date: 2020-07-14T13:56:00.000Z
 description: Meatballs cooked in a heavy pot
 ---
-Recipe credit: Kishwari Mustafa( submitted by Yasmin Naqvi
-Difficulty: Medium 
+Recipe credit: Yasmin Naqvi (via Kishwari Mustafa)  
+Difficulty: Medium  
 
 # Ingredients
 
@@ -39,7 +39,7 @@ Slice two onions and brown them. Keep aside.
 Now prepare the spices. Dry roast the coriander and cumin seed powder together and dry roast the poppy seeds separately. 
 Peel the cardamoms and dry roast with cinnamon, peppercorns, cloves. Now finely grind the above along with poppy seeds. Dry roast the gram flour.
 
-Now mix the spices, ginger and onion into the mince. Chop the green coriander and chilies. Mix in. Shape into medium kofta size balls.
+Now mix the spices, ginger and onion into the mince. Chop the green coriander and chiles. Mix in. Shape into medium kofta size balls.
 
 Choose wide haandi with a heavy base. Pour in oil and slice two onions. Brown them. Reduce the flame to simmer and carefully place the meatballs one next to the other. Do not use a lid.
 

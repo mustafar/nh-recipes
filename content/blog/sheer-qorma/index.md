@@ -12,9 +12,9 @@ Difficulty: Medium
 * 100g rice (any variety, I use basmati) soaked then ground till it feels grainy
 * 375g sugar
 * 125g roasted Benarsi sewain
-* fist full of unsalted pistachios, soaked and slivered
-* fist full of unsalted almonds, soaked, peeled, and slivered
-* ghee
+* Fistful of unsalted pistachios, soaked and slivered
+* Fistful of unsalted almonds, soaked, peeled and slivered
+* Ghee
 * Big pinch of saffron (_zafran_)
 * 1 tsp ground cardamom (_elaichi_)
 * 2 tsp kewra (optional)

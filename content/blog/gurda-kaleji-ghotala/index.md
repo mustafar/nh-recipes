@@ -11,7 +11,7 @@ Difficulty: Easy
 # Ingredients
 * 250g goat liver, cut into half inch squares
 * 150g goat kidneys, each kidney cut into 4 pieces
-* 100g goat keema, thickly cut
+* 100g goat qeema, thickly cut
 * 100ml mustard oil
 * Red chile (_lal mirch_) powder, to taste
 * Salt, to taste
@@ -39,9 +39,9 @@ Roast Sabut masala for 2 minutes and then grind it.
 
 Heat the oil in a thick bottom kadhai and mix in the Sookha Sabut Masala. Roast for 30 seconds. Add finely chopped onions and lightly brown it. Add 1 tbsp ginger garlic paste and stir it for another minute. Add pureed tomato and chiles, stir and cook for a minute. Then add ground Sookha Masala and cook it for 1 minute.
 
-Add keema and let it cook for 5 minutes in the gravy. Drain and add liver and kidneys to it and mix it well with the masala.
+Add qeema and let it cook for 5 minutes in the gravy. Drain and add liver and kidneys to it and mix it well with the masala.
 
-Cook everything with lid on for 5 minutes on high and then 15 min on simmer (keep checking and turning everything). Garnish with chopped green chilies and dhania leaves
+Cook everything with lid on for 5 minutes on high and then 15 min on simmer (keep checking and turning everything). Garnish with chopped green chiles and dhania leaves
 
 # Tips
 > This recipe goes best with Roghni or Kashmiri roti
