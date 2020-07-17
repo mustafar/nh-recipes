@@ -5,6 +5,8 @@ description: Nayaz Bhai's famous biryani, made with mutton
 ---
 ![](lucknowi-biryani.jpeg)
 
+Recipe Credit: Reza Rizvi (via Nayaz Bhai)  
+Photo Credit: Sameera Rizvi  
 Difficulty: Hard  
 
 # Ingredients
@@ -38,5 +40,3 @@ Cover the lid tightly and let the rice cook on low flame for 10 minutes.
 # Tips
 
 > Serve hot with raita.
-
-![](lucknowi-biryani.jpeg)

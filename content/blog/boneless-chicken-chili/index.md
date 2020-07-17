@@ -3,8 +3,10 @@ title: Boneless Chicken Chili
 date: 2020-07-12T15:12:07.131Z
 description: Indian-Chinese style fried boneless chicken
 ---
+![](boneless-chicken-chilly.jpg)
 
 Recipe Credit: Salim Rizvi  
+Photo Credit: Salim Rizvi  
 Servings: 4  
 Prep Time: 15 mins  
 Cooking Time: 30 mins  
@@ -36,5 +38,3 @@ Heat oil in a wok or a pan and deep-fry / shallow fry the chicken pieces dipping
 Heat 2 tbsp of oil in a wok, add onions and stir-fry over high heat until they are translucent. Add the green chiles, shallots and sauté for a minute. Add salt, vinegar, chilly garlic, sugar and after tossing just put some water.
 
 Add fried chicken pieces, soy sauce and make sure that you have a little bit of water dipping all the ingredients partly, add the mixture of cornflour with a little bit of water (make a thick paste) and toss all ingredients.
-
-![](boneless-chicken-chilly.jpg)
