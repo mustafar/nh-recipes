@@ -8,27 +8,27 @@ Difficulty: Medium
 
 # Ingredients
 
-- ½ kg lean beef or mutton mince
-- 100g raw papaya, ground
-- salt, to taste
-- 2 inch piece of ginger, peeled and ground
-- 4 medium onions
-- ½ tsp red chile powder
-- 1½ tsp coriander powder (_dhania powder_)
-- ½ tsp cumin (_zeera_) powder
-- 2 tsp poppy seeds (_posta_)
-- 3 tbsp gram flour
-- 3 medium thai green chile (_hari mirch_)
-- 50g green coriander (_dhania ki patti_)
-- 1 lemon, juiced
-- ½ cup mustard oil (_sarson ka tel_)
+* ½ kg lean beef or mutton mince
+* 100g raw papaya, ground
+* salt, to taste
+* 2 inch piece of ginger, peeled and ground
+* 4 medium onions
+* ½ tsp red chile powder
+* 1½ tsp coriander powder (_dhania powder_)
+* ½ tsp cumin (_zeera_) powder
+* 2 tsp poppy seeds (_posta_)
+* 3 tbsp gram flour
+* 3 medium thai green chile (_hari mirch_)
+* 50g green coriander (_dhania ki patti_)
+* 1 lemon, juiced
+* ½ cup mustard oil (_sarson ka tel_)
 
 ### Garam Masala
-- 1 cinnamon stick
-- 4 cardamom pods (_elaichi_) 
-- 1 large cardamom pod (_badi elaichi_) 
-- 6 black peppercorns (_kali mirch_)
-- 4 cloves (_laung_)
+* 1 cinnamon stick
+* 4 cardamom pods (_elaichi_) 
+* 1 large cardamom pod (_badi elaichi_) 
+* 6 black peppercorns (_kali mirch_)
+* 4 cloves (_laung_)
 
 # Preparation
 

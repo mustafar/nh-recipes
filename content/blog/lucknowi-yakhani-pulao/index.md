@@ -12,18 +12,18 @@ Servings: 4-5
 ### FOR YAKHANI
 
 * Mutton 1 kg
-* Red chilli powder - 1 tsp ( or according to taste)
+* Red chilli powder * 1 tsp ( or according to taste)
 * Salt to taste
 * Ginger garlic paste 2 tbsp
 
 ### POTLI MASALA
 
-* Fennel seeds- 2 tbsp
-* Black pepper corn- 1 tsp
-* Mace- 1
-* Nutmeg- 1/3
-* Cloves- 4-5
-* Black cardamon- 1
+* Fennel seeds* 2 tbsp
+* Black pepper corn* 1 tsp
+* Mace* 1
+* Nutmeg* 1/3
+* Cloves* 4-5
+* Black cardamon* 1
 
 ### FOR MILK
 

@@ -6,18 +6,18 @@ description: Deep fried bread soaked in flavored milk
 Recipe Credit: Shahnaz Zaidi  
 
 # Ingredients
-- 10 slices of white bread
-- 3 cups of sugar
-- 3 cups of water 
-- 3 cups of full fat milk
-- 4-5 green cardamom (_elaichi_) 
-- 250-300g ghee
-- ¼ tsp, edible orange colour
+* 10 slices of white bread
+* 3 cups of sugar
+* 3 cups of water 
+* 3 cups of full fat milk
+* 4-5 green cardamom (_elaichi_) 
+* 250-300g ghee
+* ¼ tsp, edible orange colour
 
 ### For garnishing
-- Khoya
-- Slivered pistachios 
-- Silver leaf (_chandi ka varaq_)
+* Khoya
+* Slivered pistachios 
+* Silver leaf (_chandi ka varaq_)
 
 # Preparation
 

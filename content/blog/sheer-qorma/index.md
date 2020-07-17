@@ -4,20 +4,20 @@ date: 2020-07-13T17:38:52.918Z
 description: Vermicelli cooked in milk
 ---
 
-Servings: 15-20 persons  
+Servings: 15-20  
 Difficulty: Medium  
 
 # Ingredients
-- 5 litres full fat milk
-- 100g rice (any variety, I use basmati) soaked then ground till it feels grainy
-- 375g sugar
-- 125g roasted Benarsi sewain
-- fist full of unsalted pistachios, soaked and slivered
-- fist full of unsalted almonds, soaked, peeled, and slivered
-- ghee
-- Big pinch of saffron (_zafran_)
-- 1 tsp ground cardamom (_elaichi_)
-- 2 tsp kewra (optional)
+* 5 litres full fat milk
+* 100g rice (any variety, I use basmati) soaked then ground till it feels grainy
+* 375g sugar
+* 125g roasted Benarsi sewain
+* fist full of unsalted pistachios, soaked and slivered
+* fist full of unsalted almonds, soaked, peeled, and slivered
+* ghee
+* Big pinch of saffron (_zafran_)
+* 1 tsp ground cardamom (_elaichi_)
+* 2 tsp kewra (optional)
 
 # Preparation
 

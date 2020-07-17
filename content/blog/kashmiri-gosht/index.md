@@ -8,31 +8,31 @@ Servings: 5
 Cooking Time: 45 mins  
 
 # Ingredients
-- 1kg mutton
-- 4-5 green thai chile (_hari mirch_), slit lengthwise
-- 10 sweet neem leaves (_kari patta_)
-- Handful coriander leaves (_dhania ki patti_)
-- 200g yogurt
-- 3 large onions, ground to a fine paste
-- 2 tbsp ginger garlic paste
-- 3 small tomatoes, peeled and puréed
-- 1 Bay leaf
-- ½ inch cinnamon stick
-- 2 green cardamon pods (_elaichi_)
-- 4 cloves (_laung_)
-- 2 tsp turmeric (_haldi_) powder
-- 1 tsp red chile powder
-- 2 tsp Kashmiri chile powder
-- 1 tsp oil
-- 1 tbsp desi ghee
-- Salt, to taste
+* 1kg mutton
+* 4-5 green thai chile (_hari mirch_), slit lengthwise
+* 10 sweet neem leaves (_kari patta_)
+* Handful coriander leaves (_dhania ki patti_)
+* 200g yogurt
+* 3 large onions, ground to a fine paste
+* 2 tbsp ginger garlic paste
+* 3 small tomatoes, peeled and puréed
+* 1 Bay leaf
+* ½ inch cinnamon stick
+* 2 green cardamon pods (_elaichi_)
+* 4 cloves (_laung_)
+* 2 tsp turmeric (_haldi_) powder
+* 1 tsp red chile powder
+* 2 tsp Kashmiri chile powder
+* 1 tsp oil
+* 1 tbsp desi ghee
+* Salt, to taste
 
 ### Ground Masala
 Roast and grind finely
-- 2 tsp coriander seeds (_dhania_)
-- 1½ tbsp fennel seeds (_saunf_)
-- 1 tsp cumin seeds (_zeera_)
-- ½ tsp black peppercorns (_kali mirch_)
+* 2 tsp coriander seeds (_dhania_)
+* 1½ tbsp fennel seeds (_saunf_)
+* 1 tsp cumin seeds (_zeera_)
+* ½ tsp black peppercorns (_kali mirch_)
 
 # Preparation
 Add oil and desi ghee to pressure cooker. When hot, add bay leaves, cinnamon stick, green cardamon and cloves. Allow it to crackle.

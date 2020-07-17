@@ -5,14 +5,14 @@ description: Date rounds rolled in coconut
 ---
 
 Recipe Credit: Homa Zaidi  
-Difficulty: Easy  
 Servings: Makes a little over half kg  
+Difficulty: Easy  
 
 # Ingredients
 
-- 500g dark pitted dates
-- 250ml milk
-- 1½ cups unsweetened desiccated coconut powder
+* 500g dark pitted dates
+* 250ml milk
+* 1½ cups unsweetened desiccated coconut powder
 
 # Preparation
 

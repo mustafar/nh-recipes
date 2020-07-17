@@ -5,46 +5,46 @@ description: Soft Oudhi kababs
 ---
 # Ingredients 
 
-- 1 kg keema (beef or mutton)
-- 200g kidney fat (optional – used for fine binding)
+* 1 kg keema (beef or mutton)
+* 200g kidney fat (optional – used for fine binding)
 
 ### Masala
 
-- 1 tsp brown onion paste
-- 1½ tbsp brown cashew paste (optional)
-- 2 tbsp ghee
-- salt, to taste
-- 1 tbsp ginger garlic juice
-- 2 tbsp raw papaya (with skin), paste
-- 1 tbsp prepared Galawat ka masala
-- 1 tsp Kewra water (careful / optional)
-- 1 tsp rose water (careful / optional)
-- a pinch of red chili powder
-- sprinkles of ghee (used while frying Kababs)
-- sprinkles of milk (used while frying Kababs)
-- 50–75g of bhuna besan (to be used less is mixing in the kidney fat)
+* 1 tsp brown onion paste
+* 1½ tbsp brown cashew paste (optional)
+* 2 tbsp ghee
+* salt, to taste
+* 1 tbsp ginger garlic juice
+* 2 tbsp raw papaya (with skin), paste
+* 1 tbsp prepared Galawat ka masala
+* 1 tsp Kewra water (careful / optional)
+* 1 tsp rose water (careful / optional)
+* a pinch of red chili powder
+* sprinkles of ghee (used while frying Kababs)
+* sprinkles of milk (used while frying Kababs)
+* 50–75g of bhuna besan (to be used less is mixing in the kidney fat)
 
 ### For Galawat ka masala
 
-- ¼ tsp allspice (optional)
-- 1 tsp black peppercorns (_kali mirch_)
-- 1 tsp black cumin Seeds (_zeera_)
-- 4-5 cloves (_laung_)
-- 5-6 green cardamom pods (_elaichi_)
-- 1 star anise
-- 2 bay leaves (_tez patta_)
-- 1 tbsp dry rose petals (for smell / optional)
-- ¼ tsp small nutmeg (_jaifal_)
-- 1 mace
-- ½ tsp black cardamom pods (_badi elaichi_)
-- a pinch of saffron (_zafran_)
-- 1-inch cinnamon (_dalchini_)
+* ¼ tsp allspice (optional)
+* 1 tsp black peppercorns (_kali mirch_)
+* 1 tsp black cumin Seeds (_zeera_)
+* 4-5 cloves (_laung_)
+* 5-6 green cardamom pods (_elaichi_)
+* 1 star anise
+* 2 bay leaves (_tez patta_)
+* 1 tbsp dry rose petals (for smell / optional)
+* ¼ tsp small nutmeg (_jaifal_)
+* 1 mace
+* ½ tsp black cardamom pods (_badi elaichi_)
+* a pinch of saffron (_zafran_)
+* 1-inch cinnamon (_dalchini_)
 
 ### For Smoking 
 
-- 2 small pieces of coal
-- 3-4 cloves
-- 1 tsp ghee
+* 2 small pieces of coal
+* 3-4 cloves
+* 1 tsp ghee
 
 # Preparation
 

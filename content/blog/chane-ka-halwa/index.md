@@ -7,17 +7,17 @@ Recipe Credit : Homa Zaidi (who learned it from Zakia baji)
 Difficulty: Hard  
 
 # Ingredients
-- 1 kg chane ki dal
-- 2 litres full fat milk, one for soaking and one for syrup
-- 1¼ kg sugar
-- 1 tsp ground cardamom (_elaichi_)
-- 1 big pinch saffron (_zafran_)
-- 400g calrified butter (_ghee_), some extra for smearing on the plate/thali
+* 1 kg chane ki dal
+* 2 litres full fat milk, one for soaking and one for syrup
+* 1¼ kg sugar
+* 1 tsp ground cardamom (_elaichi_)
+* 1 big pinch saffron (_zafran_)
+* 400g calrified butter (_ghee_), some extra for smearing on the plate/thali
 
 ### For Garnishing
-- Slivered almonds
-- Silver leaf (_chandi ka varaq_)
-- Sprinkle of ground cardamom
+* Slivered almonds
+* Silver leaf (_chandi ka varaq_)
+* Sprinkle of ground cardamom
 
 # Method
 Wash and soak dal in water for an hour. Grease a plate or thali with a little ghee.

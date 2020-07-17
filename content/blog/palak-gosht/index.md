@@ -7,24 +7,24 @@ Recipe Credit: Akhlaqun Nisa
 Difficulty: Medium  
 
 # Ingredients
-- ½ kg mutton
-- 1 kg fresh spinach (_palak_)
-- 2 medium onions, sliced
-- 2 medium tomatoes, chopped
-- 1 large onion, ground to a paste
-- 1½ tsp garlic paste
-- 1½ tsp ginger paste
-- ¼ cup oil
-- Salt, to taste
-- ½ tsp red chile powder
-- 1½ tsp coriander powder (_dhania powder_)
-- ½ tsp cumin (_zeera_) powder
-- ½ tsp turmeric (_haldi_) powder
-- 1 cinnamon stick (_dalchini_)
-- 2 large cardamom (_badi elaichi_)
-- 3-4 cloves (_laung_)
-- 3 tbsp yogurt
-- 2 tbsp dry fenugreek leaves (_kasuri methi_)
+* ½ kg mutton
+* 1 kg fresh spinach (_palak_)
+* 2 medium onions, sliced
+* 2 medium tomatoes, chopped
+* 1 large onion, ground to a paste
+* 1½ tsp garlic paste
+* 1½ tsp ginger paste
+* ¼ cup oil
+* Salt, to taste
+* ½ tsp red chile powder
+* 1½ tsp coriander powder (_dhania powder_)
+* ½ tsp cumin (_zeera_) powder
+* ½ tsp turmeric (_haldi_) powder
+* 1 cinnamon stick (_dalchini_)
+* 2 large cardamom (_badi elaichi_)
+* 3-4 cloves (_laung_)
+* 3 tbsp yogurt
+* 2 tbsp dry fenugreek leaves (_kasuri methi_)
 
 # Preparation
 

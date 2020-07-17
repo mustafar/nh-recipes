@@ -5,29 +5,29 @@ description: Goat liver and kidneys
 ---
 Recipe Credit: Ahmad Rizvi  
 Servings: 2-3  
-Difficulty: Easy  
 Cooking Time: 30 mins  
+Difficulty: Easy  
 
 # Ingredients
-- 250g goat liver, cut into half inch squares
-- 150g goat kidneys, each kidney cut into 4 pieces
-- 100g goat keema, thickly cut
-- 100ml mustard oil
-- Red chile (_lal mirch_) powder, to taste
-- Salt, to taste
+* 250g goat liver, cut into half inch squares
+* 150g goat kidneys, each kidney cut into 4 pieces
+* 100g goat keema, thickly cut
+* 100ml mustard oil
+* Red chile (_lal mirch_) powder, to taste
+* Salt, to taste
 
 ### Hara Masala
-- 1 big onion, for gravy
-- 6-8 cloves of garlic (_laung_), for washing liver and kidney
-- 1 tbsp fresh ginger garlic paste
-- ½ medium tomato, for gravy
-- 3-4 green chile (_hari mirch_), for garnishing
-- Dania leaves (_dhania ki patti_), for garnishing
+* 1 big onion, for gravy
+* 6-8 cloves of garlic (_laung_), for washing liver and kidney
+* 1 tbsp fresh ginger garlic paste
+* ½ medium tomato, for gravy
+* 3-4 green chile (_hari mirch_), for garnishing
+* Dania leaves (_dhania ki patti_), for garnishing
 
 ### Sookha Sabut Masala
-- 2-3 Bay leaves (_tez patta_)
-- 4-5 cloves (_laung_)
-- 8-10 whole black peppercorns (_kali mirch_)
+* 2-3 Bay leaves (_tez patta_)
+* 4-5 cloves (_laung_)
+* 8-10 whole black peppercorns (_kali mirch_)
 
 # Preparation
 

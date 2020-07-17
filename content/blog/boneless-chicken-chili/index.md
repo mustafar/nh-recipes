@@ -11,22 +11,22 @@ Cooking Time: 30 mins
 Difficulty: Easy    
 
 # Ingredients
-- 500g boneless chicken, sliced
-- 1 egg (slightly beaten)
-- ½ cup cornflour (¾ + ¼)
-- ¼ cup all-purpose flour (_maida_)
-- ½ tsp garlic paste / finely chopped 
-- ½ tsp ginger paste / finely chopped
-- ½ tsp white pepper powder 
-- 1 tsp chilly garlic paste (½ + ½)
-- 1 tbsp salt
-- 1 tbsp soy sauce (adjust according to strength) (¼ + ¾)
-- ½ tsp sugar 
-- 2 tbsp white vinegar
-- 2 onions, sliced
-- 4-5 tsp green thai chiles (_hari mirch_), sliced and de-seeded
-- ½ cup sliced green onion (_hari pyaaz ka saaga_) (optional – for colour)
-- Oil, to deep fry
+* 500g boneless chicken, sliced
+* 1 egg (slightly beaten)
+* ½ cup cornflour (¾ + ¼)
+* ¼ cup all-purpose flour (_maida_)
+* ½ tsp garlic paste / finely chopped 
+* ½ tsp ginger paste / finely chopped
+* ½ tsp white pepper powder 
+* 1 tsp chilly garlic paste (½ + ½)
+* 1 tbsp salt
+* 1 tbsp soy sauce (adjust according to strength) (¼ + ¾)
+* ½ tsp sugar 
+* 2 tbsp white vinegar
+* 2 onions, sliced
+* 4-5 tsp green thai chiles (_hari mirch_), sliced and de-seeded
+* ½ cup sliced green onion (_hari pyaaz ka saaga_) (optional – for colour)
+* Oil, to deep fry
 
 # Preparation
 Mix together the chicken, egg, cornflour, all-purpose flour, ginger and garlic, chilly garlic, 1tsp salt, and mix it together to form a sticky lump and that the chicken pieces are coated with the batter. Leave this for about 30 minutes.

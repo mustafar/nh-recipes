@@ -5,28 +5,28 @@ description: Meat curry cooked with coarse and whole spices
 ---
 # Ingredients 
 
-- 500g meat (mutton or goat)
-- 500g onion, finely chopped
-- 10g ginger (_adrak_), finely chopped
-- 20 cloves garlic (_lehsun_), coarsely chopped
-- 4 red chilies (_lal mirch_), coarsely cut
-- 1 tbsp coriander seeds (_dhania_), roasted & coarsely ground
-- 100g mustard oil (_sarson ka tel_) or any other oil, ghee or butter
-- ½ tbsp lemon juice
-- salt, to taste
+* 500g meat (mutton or goat)
+* 500g onion, finely chopped
+* 10g ginger (_adrak_), finely chopped
+* 20 cloves garlic (_lehsun_), coarsely chopped
+* 4 red chilies (_lal mirch_), coarsely cut
+* 1 tbsp coriander seeds (_dhania_), roasted & coarsely ground
+* 100g mustard oil (_sarson ka tel_) or any other oil, ghee or butter
+* ½ tbsp lemon juice
+* salt, to taste
 
 ### Khusbu ka Masala
 
-- 4 whole green cardamon (_choti elaichi_)
-- 4 whole cloves (_laung_)
-- a pinch of nutmeg (_jaifal_)
-- a small piece of cinnamon (_dalchini_)
+* 4 whole green cardamon (_choti elaichi_)
+* 4 whole cloves (_laung_)
+* a pinch of nutmeg (_jaifal_)
+* a small piece of cinnamon (_dalchini_)
 
 # Preparation
 
 In a heavy bottom pan put oil and let it burn by adding 1 whole red chili. Once the smoke comes out, remove from the burner and put aside for 30 – 45 secs. Let it cool down a bit.
 
-Put all Khushbu masala - adrak, lehsun, lal mirch, dhania, namak and then half of the onions until you get a rich brown colour of your masala.
+Put all Khushbu masala * adrak, lehsun, lal mirch, dhania, namak and then half of the onions until you get a rich brown colour of your masala.
 
 Then put in meat and the rest of the onions. Keep stirring (bhuna). You can sprinkle water from time to time.
 

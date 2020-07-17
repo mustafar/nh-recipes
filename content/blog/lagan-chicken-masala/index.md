@@ -8,24 +8,24 @@ Servings: 4-5
 Cooking Time: 40 mins  
 
 # Ingredients:
-- 1 kg chicken
-- 20g yogurt
- 8-10 cashews
-- 2 onions, ground to a fine paste
-- 1 onion, chopped and fried
-- 2 tbsp ginger garlic paste
-- 4 cloves (_laung_)
-- 2 tsp red chile (_lal mirch_) powder
-- 3 green cardamon pods (_elaichi_)
-- 1 small piece cinnamon (_dalchini_)
-- 1 tsp poppy seeds (_posta_),
-- 3 inch piece of dried coconut
-- ½ cup milk
-- 1 drop sweet essence (_meetha itr_)
-- Orange food colouring
-- ½ tsp kewra
-- 2 tbsp ghee
-- Salt, to taste
+* 1 kg chicken
+* 20g yogurt
+* 8-10 cashews
+* 2 onions, ground to a fine paste
+* 1 onion, chopped and fried
+* 2 tbsp ginger garlic paste
+* 4 cloves (_laung_)
+* 2 tsp red chile (_lal mirch_) powder
+* 3 green cardamon pods (_elaichi_)
+* 1 small piece cinnamon (_dalchini_)
+* 1 tsp poppy seeds (_posta_),
+* 3 inch piece of dried coconut
+* ½ cup milk
+* 1 drop sweet essence (_meetha itr_)
+* Orange food colouring
+* ½ tsp kewra
+* 2 tbsp ghee
+* Salt, to taste
 
 # Preparation
 

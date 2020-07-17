@@ -5,36 +5,36 @@ description: Moradabadi recipe for chicken pulao
 ---
 Recipe Credit: Ahmad Rizvi  
 Servings: 3  
-Difficulty: Easy  
 Cooking Time: 30 mins  
+Difficulty: Easy  
 
 # Ingredients
-- ½ kg long grain Basamti rice
-- ½ chicken with bones
-- 150ml vegetable oil
-- 2 tsp whipped yogurt
-- ½ liter water
-- Salt, to taste and mix a bit of MSG with it 
+* ½ kg long grain Basamti rice
+* ½ chicken with bones
+* 150ml vegetable oil
+* 2 tsp whipped yogurt
+* ½ liter water
+* Salt, to taste and mix a bit of MSG with it 
 
 ### Hara Masala
-- 1 big onion (for Yakhni)
-- 1 small onion (for frying)
-- 6-8 cloves of garlic
-- 1 square inch peeled ginger cube
-- 2-3 whole thai green chile (_hari mirch_)
+* 1 big onion (for Yakhni)
+* 1 small onion (for frying)
+* 6-8 cloves of garlic
+* 1 square inch peeled ginger cube
+* 2-3 whole thai green chile (_hari mirch_)
 
 ### Sookha Sabut Masala
-- ½ tsp cumin seeds (_zeera_)
-- ½ tsp whole black peppercorns (_kali mirch_)
-- ¼ tsp whole cloves (_laung_)
-- Few scraps of nutmeg (_jaifal_)
-- 2-3 bay leaves (_tez patta_)
-- 1 whole star anise
-- 2 inch cinnamon stick
+* ½ tsp cumin seeds (_zeera_)
+* ½ tsp whole black peppercorns (_kali mirch_)
+* ¼ tsp whole cloves (_laung_)
+* Few scraps of nutmeg (_jaifal_)
+* 2-3 bay leaves (_tez patta_)
+* 1 whole star anise
+* 2 inch cinnamon stick
 
 ### Potli
-- 2 tsp whole raw fennel seeds (_saunf_)
-- 2 tsp whole raw coriander seeds (_dhania_)
+* 2 tsp whole raw fennel seeds (_saunf_)
+* 2 tsp whole raw coriander seeds (_dhania_)
 
 # Preparation
 

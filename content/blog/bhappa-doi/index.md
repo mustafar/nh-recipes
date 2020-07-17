@@ -5,11 +5,11 @@ description: Hung yogurt dessert
 ---
 Recipe Credit: Homa Zaidi (who learned it from Nupur)  
 Servings: 4  
-Difficulty - Easy  
+Difficulty: Easy  
 
 ## Ingredients
-- 800g yogurt (_dahi_, 2 containers)
-- 1 tin condensed milk
+* 800g yogurt (_dahi_, 2 containers)
+* 1 tin condensed milk
 
 ## Preparation
 
