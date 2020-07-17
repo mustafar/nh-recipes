@@ -29,7 +29,7 @@ Cooking Time: 45 mins
 
 ### Ground Masala
 Roast and grind finely
-- tsp coriander seeds (_dhania_)
+- 2 tsp coriander seeds (_dhania_)
 - 1½ tbsp fennel seeds (_saunf_)
 - 1 tsp cumin seeds (_zeera_)
 - ½ tsp black peppercorns (_kali mirch_)

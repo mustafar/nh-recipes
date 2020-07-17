@@ -3,6 +3,8 @@ title: Shahi Tukda
 date: 2020-07-12T22:23:12.570Z
 description: Deep fried bread soaked in flavored milk
 ---
+Recipe Credit: Shahnaz Zaidi  
+
 # Ingredients
 - 10 slices of white bread
 - 3 cups of sugar

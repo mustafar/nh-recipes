@@ -46,7 +46,7 @@ Now make the potli. Thoroughly wash a 12 x12 inch muslin cloth piece. Put into i
 
 Add enough salt for the meat and pour in water so that the meat and potli are covered. Pressure cook for 15 minutes and keep aside.
 
-Now use a pot with a heavy base big enough for two kgs of pulao. Put in the ghee/oil. Peel and slice the onions. Fry till golden brown. Remove half and keep aside. Add three tablespoons of water and when it stops spluttering put in the cumin. When it crackles put in the rest of the spices.
+Now use a pot with a heavy base big enough for two kgs of pulao. Put in the ghee/oil. Peel and slice the onions. Fry till golden brown. Remove half and keep aside. Add three tbsp of water and when it stops spluttering put in the cumin. When it crackles put in the rest of the spices.
 
 Remove all the meat pieces from the pressure cooker and saute with the onions and whole spices. Add the garlic and ginger paste and 1½ tsp of salt or as per taste. Add the yogurt and continue to sauté till the ghee surfaces.
 

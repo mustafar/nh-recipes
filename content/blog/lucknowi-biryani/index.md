@@ -14,7 +14,7 @@ Difficulty: Hard
 * 100g yogurt 
 * 2 tbsp ginger paste
 * 2 tbsp garlic paste 
-* 1½ teaspoons red chile powder 
+* 1½ tsp red chile powder 
 * 250g oil or ghee
 * 3-4 cloves (*laung*)
 * 3-4 green cardamoms (*elaichi*)
