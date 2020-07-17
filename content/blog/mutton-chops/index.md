@@ -8,7 +8,7 @@ description: Spice marinated mutton chops
 - 1 kg mutton chops
 - 1½ tbsp ginger (_adrak_) paste
 - 1½ tbsp garlic (_lehsun_) paste
-- ½ tsp haldi
+- ½ tsp turmeric (_haldi_) powder
 - 1 tsp garam masala
 - 2 tsp roasted coriander powder (_dhania powder_)
 - 1 tsp cumin (_zeera_) powder

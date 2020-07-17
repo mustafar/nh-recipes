@@ -3,11 +3,9 @@ title: Lucknowi Yakhani Pulao
 date: 2020-07-16T22:03:21.108Z
 description: "Rice cooked in Yakhni "
 ---
-Recipe: Masooma Zaidi
-
-Cooking time: 1 hour
-
-Serves-4-5
+Recipe Credit: Masooma Zaidi  
+Cooking time: 1 hour  
+Servings: 4-5  
 
 # INGREDIENTS
 

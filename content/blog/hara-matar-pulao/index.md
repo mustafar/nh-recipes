@@ -1,11 +1,11 @@
 ---
 title: Hara Matar Pulao
 date: 2020-07-16T22:46:18.328Z
-description: Rice cooked in green peas
+description: Rice cooked with green peas
 ---
-Recipe: Reza Rizvi ( Ammijaan's recipe)
-# Ingredients
+Recipe: Reza Rizvi (Ammijaan's recipe)  
 
+# Ingredients
 * 1 Kg Basmati rice
 * 1/2 kg matar dana
 * 2 laung

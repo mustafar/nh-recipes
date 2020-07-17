@@ -8,7 +8,7 @@ Recipe Credit: Saeeda Zaidi
 # Ingredients
 - ½ kilo gosht (mutton)
 - 2 + 2 medium onions
-- 1 tsp turmeric (_haldi_)
+- 1 tsp turmeric (_haldi_) powder
 - 1 tsp cumin (_zeera_)
 - 1 tsp red chile (_lal mirch_) powder
 - 2 tsp coriander powder (_dhania powder_)

@@ -6,7 +6,7 @@ description: Green chile pickle cooked with garlic in mustard oil
 
 # Ingredients
 
-- 100g Green chiles, cut into 1 inch pieces
+- 100g green chiles, cut into 1 inch pieces
 - Garlic, enough to make 2 tbsp paste
 - 2½ tbsp mustard oil
 - ½ tsp turmeric (_haldi_) powder

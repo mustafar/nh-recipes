@@ -20,7 +20,7 @@ Cooking Time: 45 mins
 - ½ inch cinnamon stick
 - 2 green cardamon pods (_elaichi_)
 - 4 cloves (_laung_)
-- 2 tsp turmeric powder (_haldi_)
+- 2 tsp turmeric (_haldi_) powder
 - 1 tsp red chile powder
 - 2 tsp Kashmiri chile powder
 - 1 tsp oil
