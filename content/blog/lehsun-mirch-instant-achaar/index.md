@@ -16,4 +16,6 @@ description: Green chile pickle cooked with garlic in mustard oil
 * Salt, to taste
   
 # Preperation
-Heat oil in a pan/wok till it changes its colour. Add green chiles and cover for 10 seconds, remove the cover, add garlic paste and stir for 10-15 seconds until the raw smell goes away. Add rest of the ingredients and cook on medium heat. After a minute lower the heat and let it simmer for another minute. Turn off the heat. Cool and keep in an air tight container.
+Heat oil in a pan/wok till it changes its colour. Add green chiles and cover for 10 seconds, remove the cover, add garlic paste and stir for 10-15 seconds until the raw smell goes away.
+
+Add rest of the ingredients and cook on medium heat. After a minute lower the heat and let it simmer for another minute. Turn off the heat. Cool and keep in an air tight container.

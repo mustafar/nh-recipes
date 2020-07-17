@@ -3,10 +3,10 @@ title: Badami Tawa Biscuit
 date: 2020-07-15T02:02:00.000Z
 description: Almond cookies
 ---
-This recipe is a cross between Nankhatai and 22 Rajab ki Tikiya.
-
 Recipe Credit: Homa Zaidi (inspired by Sigrun)  
 Difficulty: Medium 
+
+This recipe is a cross between Nankhatai and 22 Rajab ki Tikiya.
 
 # Ingredients
 
@@ -24,7 +24,7 @@ Difficulty: Medium
 
 Sift flours and salt. Whip butter and sugar till fluffy. Add egg yolks, ground cardamom and saffron. Gradually add flour. Mix well. 
 
-Roll out into 1/2” thick and 3” diameter rounds. Press almonds on to biscuits. Place on tawa or frypan, better if dosa tawa, and cook till medium brown. Turn once, and cook the other side also. Edges may crack, it’s normal.
+Roll out into ½ inch thick and 3 inches diameter rounds. Press almonds on to biscuits. Place on tawa or frypan, better if dosa tawa, and cook till medium brown. Turn once, and cook the other side also. Edges may crack, it’s normal.
 
 # Tips
 

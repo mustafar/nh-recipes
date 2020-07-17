@@ -20,7 +20,6 @@ Difficulty: Medium
 * 2 tsp kewra (optional)
 
 # Preparation
-
 Put up room temperature milk to boil along with ground rice with saffron and ground cardamom on medium-high to high heat. Add more later if you think cardamom is not enough. Stir continuously till rice is cooked. You should be able to mush it with your fingers.
 
 Now add sugar, and keep stirring. Soon, the milk will start thickening. This is by experience that you get to know, but when you see the change, take out a spoon in a little bowl, and let cool. You will be able to judge it's consistency. Turn heat down to low.

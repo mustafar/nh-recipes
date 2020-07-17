@@ -7,7 +7,6 @@ Recipe credit: Yasmin Naqvi (via Kishwari Mustafa)
 Difficulty: Medium  
 
 # Ingredients
-
 * ½ kg lean beef or mutton mince
 * 100g raw papaya, ground
 * salt, to taste
@@ -31,7 +30,6 @@ Difficulty: Medium
 * 4 cloves (_laung_)
 
 # Preparation
-
 Wash the minced meat and drain well. Grind the raw papaya with skin and mix in well with the drained mince. Add salt as per taste. Refrigerate for two hours.
 
 Slice two onions and brown them. Keep aside.

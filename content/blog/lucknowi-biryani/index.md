@@ -26,7 +26,6 @@ Difficulty: Hard
 * 4-5 tbsp milk
 
 # Preparation
-
 In a pressure cooker heat oil and brown the onions. When lightly browned add the cloves and cardamom cook for a few seconds then add the meat. Cook till the meat changes colour.
 
 Add ginger garlic paste cook for another 8-10 minutes on medium heat. Add in the salt red chile powder and the yogurt. Keep stirring till the water dries up. Add about 1.5 cups of water and cook till the meat is tender (approximately for 15 minutes on low flame after the first whistle). Once the meat has cooked through, dry any remaining water on high flame. You should have a thick gravy now.

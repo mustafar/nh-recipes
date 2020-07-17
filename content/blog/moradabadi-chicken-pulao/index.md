@@ -37,7 +37,6 @@ Difficulty: Easy
 * 2 tsp whole raw coriander seeds (_dhania_)
 
 # Preparation
-
 Clean and soak the rice. Clean the chicken. Clean all Hara masala and finely chop the small onion.
 
 ## Cooking the chicken

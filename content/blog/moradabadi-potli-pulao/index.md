@@ -39,7 +39,6 @@ Difficulty: Medium
 * 1 large onions
 
 # Preparation
-
 Wash the rice well and soak at least 40 minutes before cooking. Wash the meat and put into a 5 liter pressure cooker.
 
 Now make the potli. Thoroughly wash a 12 x12 inch muslin cloth piece. Put into it the coriander, fennel and cumin seeds. Remove the top and bottom joints of the garlic pod, peel the onion and chop into 8-10 pieces, peel and chop the ginger and add to potli. Tie up the potli loosely and put into the cooker.

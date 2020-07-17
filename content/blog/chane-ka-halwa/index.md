@@ -7,7 +7,7 @@ Recipe Credit : Homa Zaidi (via Zakia baji)
 Difficulty: Hard  
 
 # Ingredients
-* 1 kg chane ki dal
+* 1 kg split chickpeas (_chane ki dal_)
 * 2 litres full fat milk, one for soaking and one for syrup
 * 1¼ kg sugar
 * 1 tsp ground cardamom (_elaichi_)
@@ -19,7 +19,7 @@ Difficulty: Hard
 * Silver leaf (_chandi ka varaq_)
 * Sprinkle of ground cardamom
 
-# Method
+# Preparation
 Wash and soak dal in water for an hour. Grease a plate or thali with a little ghee.
 
 Take one litre of milk and add sugar as well as cardamom and saffron, and boil, reduce to medium or medium high under watchful eyes. Soon milk will start to thicken, switch off stove.
