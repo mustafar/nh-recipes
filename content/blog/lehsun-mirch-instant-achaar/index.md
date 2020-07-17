@@ -1,19 +1,19 @@
 ---
 title: Lehsun Mirch Instant Achaar
 date: 2020-07-16T21:56:33.783Z
-description: Green Chili pickle cooked in Garlic and Mustard oil
+description: Green chile pickle cooked with garlic in mustard oil
 ---
 
 # Ingredients
 
-* Green chillies - 100 gms ( cut into 1"pieces)
-* Garlic :- enough to make 2 tbsp paste
-* Mustard Oil :- 2 1/2 tbsp
-* Haldi(turmeric) powder:- 1/2 tsp
-* Red chilli powder :-1 tsp
-* Kalaunji (nigella seeds) :- 1 tsp (leveled)
-* Lemon:- 1 big
-* Salt to taste.
+- 100g Green chiles, cut into 1 inch pieces
+- Garlic, enough to make 2 tbsp paste
+- 2½ tbsp mustard oil
+- ½ tsp turmeric (_haldi_) powder
+- 1 tsp red chile (_lal mirch_)
+- 1 tsp onion seeds (_kalaunji_), leveled
+- 1 big lemon
+- Salt, to taste
   
- # Method
-  Heat oil in a pan/wok till it changes its colour, add green chilies and cover for 10 seconds, remove the cover add garlic paste and stir for 10-15 seconds for the raw smell to disappear. Add rest of the ingredients and cook on medium heat, after a minute lower the heat a let it simmer for another minute. Turn off the heat. Cool and keep in an air tight container.
+# Preperation
+Heat oil in a pan/wok till it changes its colour. Add green chiles and cover for 10 seconds, remove the cover, add garlic paste and stir for 10-15 seconds until the raw smell goes away. Add rest of the ingredients and cook on medium heat. After a minute lower the heat and let it simmer for another minute. Turn off the heat. Cool and keep in an air tight container.

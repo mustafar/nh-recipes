@@ -19,7 +19,7 @@ Difficulty: Medium
 - ½ tsp red chile powder
 - 1½ tsp coriander powder (_dhania powder_)
 - ½ tsp cumin (_zeera_) powder
-- ½ tsp haldi
+- ½ tsp turmeric (_haldi_) powder
 - 1 cinnamon stick (_dalchini_)
 - 2 large cardamom (_badi elaichi_)
 - 3-4 cloves (_laung_)
