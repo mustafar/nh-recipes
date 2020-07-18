@@ -16,7 +16,7 @@ gatsby develop
 
 ## Edit
 
-Your site is now running at `http://localhost:8000`!
+Your site is now running at `http://localhost:8000`!  
 Blog posts live inside `content/blog`
 
 Gatsby docs: https://www.gatsbyjs.org/docs/

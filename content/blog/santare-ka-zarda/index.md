@@ -16,6 +16,7 @@ Difficulty: Medium
 - Few green cardamom pods (_elaichi_)
 - 1 tbsp ghee
 
+# Preparation
 Wash the rice and soak for 30 minutes. Cut the orange peel into thin matchstick- width strips and scrape off the pith. We will need a quarter cup of these strips.
 
 Take the orange strips and boil in water. Once it boils for about 2 minutes, throw water away, and repeat 3 more times, a total of four times. This removes the bitter taste. Put strips in a sieve till all water drains away. Next take 2 tablespoons of sugar, and cook strips over a slow fire, till all sugar has melted and strips are nicely coated. The sugar syrup should have become dry by now. Keep aside for garnishing. 
