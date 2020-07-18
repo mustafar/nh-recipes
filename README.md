@@ -23,4 +23,4 @@ Gatsby docs: https://www.gatsbyjs.org/docs/
 
 ## Deploy
 
-This static website is deployed on Netlify
+This static website is deployed from Netlify to https://nhrecipes.com

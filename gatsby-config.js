@@ -6,7 +6,7 @@ module.exports = {
       summary: `former nh resident.`,
     },
     description: `nh recipes`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://nhrecipes.com/`,
   },
   plugins: [
     {
