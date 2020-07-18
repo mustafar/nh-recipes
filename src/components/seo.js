@@ -9,6 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import socialSharingImage from '../../content/assets/social-pic.jpg'
 
 const SEO = ({ description, lang, meta, title, pathname }) => {
   const { site } = useStaticQuery(
@@ -18,6 +19,7 @@ const SEO = ({ description, lang, meta, title, pathname }) => {
           siteMetadata {
             title
             description
+            siteUrl
           }
         }
       }
@@ -25,7 +27,9 @@ const SEO = ({ description, lang, meta, title, pathname }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const canonical = pathname ? `${site.siteMetadata.siteUrl}${pathname}` : null
+  const canonical = pathname
+    ? `${site.siteMetadata.siteUrl}${pathname}`
+    : `${site.siteMetadata.siteUrl}$/`
 
   return (
     <Helmet
@@ -60,6 +64,14 @@ const SEO = ({ description, lang, meta, title, pathname }) => {
         {
           property: `og:type`,
           content: `website`,
+        },
+        {
+          property: `og:locale`,
+          content: `en_US`,
+        },
+        {
+          property: `og:image`,
+          content: socialSharingImage,
         },
         {
           name: `twitter:card`,
