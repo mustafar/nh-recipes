@@ -65,7 +65,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `NH Recipes`,
-        short_name: `GatsbyJS`,
+        short_name: `NH Recipes`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
