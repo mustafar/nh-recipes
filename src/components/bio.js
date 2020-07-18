@@ -34,7 +34,7 @@ const Bio = () => {
     >
       <Image
         fixed={data.avatar.childImageSharp.fixed}
-        alt="nh recipes"
+        alt="NH Recipes"
         style={{
           marginRight: rhythm(1 / 2),
           marginBottom: 0,

@@ -5,7 +5,7 @@ module.exports = {
       name: `Mustafa Rizvi`,
       summary: `former nh resident.`,
     },
-    description: `nh recipes`,
+    description: `Recipes from Narauli House`,
     siteUrl: `https://nhrecipes.com/`,
   },
   plugins: [
