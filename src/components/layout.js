@@ -53,6 +53,7 @@ const Layout = ({ location, title, children }) => {
   }
   return (
     <div
+      className="site"
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
@@ -61,7 +62,7 @@ const Layout = ({ location, title, children }) => {
       }}
     >
       <header className={`${!isHomePage ? "home-link" : ""}`}>{header}</header>
-      <main className={`${isHomePage ? "home-main" : ""}`}>{children}</main>
+      <main className={`${isHomePage ? "home-main" : ""} site-content`}>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}

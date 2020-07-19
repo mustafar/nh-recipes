@@ -49,6 +49,16 @@ main.home-main {
   margin-bottom: 100px;
 }
 
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.site-content {
+  flex-grow: 1;
+}
+
 ul li {
   margin-bottom: 0.3rem;
 }
