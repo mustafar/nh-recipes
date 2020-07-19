@@ -25,7 +25,7 @@ Degree of difficulty- medium
 # METHOD
 
 1. Wash and drain ground meat very well. Mix all the ingredient well including oil, and let marinate in the fridge overnight. If needed for dinner marinate in the morning.
-2. Grease an ovenproof dish, and pat marinated mixture into it.\
+2. Grease an ovenproof dish, and pat marinated mixture into it.
 3. Cook in 350F for 20 to 25 minutes depending on the oven. Don’t over cook, it will dry out the kababs. 
 
 *Everyone’s oven is different. This is approximately the time.*
