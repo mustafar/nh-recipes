@@ -8,7 +8,7 @@ Difficulty: Hard
 
 # Ingredients
 * 1 kg split chickpeas (_chane ki dal_)
-* 2 litres full fat milk, one for soaking and one for syrup
+* 2 liters full fat milk, one for soaking and one for syrup
 * 1¼ kg sugar
 * 1 tsp ground cardamom (_elaichi_)
 * 1 big pinch saffron (_zafran_)
@@ -22,9 +22,9 @@ Difficulty: Hard
 # Preparation
 Wash and soak dal in water for an hour. Grease a plate or thali with a little ghee.
 
-Take one litre of milk and add sugar as well as cardamom and saffron, and boil, reduce to medium or medium high under watchful eyes. Soon milk will start to thicken, switch off stove.
+Take one liters of milk and add sugar as well as cardamom and saffron, and boil, reduce to medium or medium high under watchful eyes. Soon milk will start to thicken, switch off stove.
 
-Throw water away, and now cook dal on a slow fire in one litre of milk till it is completely done, and all milk is absorbed.
+Throw water away, and now cook dal on a slow fire in one liter of milk till it is completely done, and all milk is absorbed.
 
 Spread dal on thick cotton cloth under a fan till it is dry. Grind in a food processor till done as fine as possible. Don't worry if there are a few grains. Dry roast in a karhai/wok continuously on medium to medium-high stirring continuously, else it can burn. It should be medium dark roast with a lovely aroma.
 

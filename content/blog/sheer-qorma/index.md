@@ -8,7 +8,7 @@ Servings: 15-20
 Difficulty: Medium  
 
 # Ingredients
-* 5 litres full fat milk
+* 5 liters full fat milk
 * 100g rice (any variety, I use basmati) soaked then ground till it feels grainy
 * 375g sugar
 * 125g roasted Benarsi sewain

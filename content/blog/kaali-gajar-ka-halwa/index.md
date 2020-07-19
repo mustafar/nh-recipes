@@ -9,7 +9,7 @@ Difficulty: Medium
 # Ingredients
 
 * 2 kg black carrot (_kaali gajar_)
-* 2 litres whole milk
+* 2 liters whole milk
 * 1 cup sugar, or to taste
 * 500g khoya
 * 5 kg pure ghee

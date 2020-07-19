@@ -8,7 +8,7 @@ Difficulty: Easy
 
 # Ingredients
 
-* 1 litre full fat milk
+* 1 liter full fat milk
 * ¼ cup sugar
 * 1½-2 grated apples (big shreds)
 * ¼ tsp ground cinnamon (optional)
