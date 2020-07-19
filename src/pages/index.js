@@ -69,6 +69,7 @@ const BlogIndex = props => {
         aria-label="Search"
         placeholder="🔍 Search..."
         onChange={debounceEventHandler(handleInputChange, DEBOUNCE_MS)}
+        style={{ marginBottom: rhythm(0.5) }}
       />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
@@ -77,14 +78,15 @@ const BlogIndex = props => {
             <header>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginTop: rhythm(1.25),
+                  marginBottom: rhythm(0.05),
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
+              <small>{node.frontmatter.description}&nbsp;|&nbsp;{node.frontmatter.date}</small>
             </header>
           </article>
         );

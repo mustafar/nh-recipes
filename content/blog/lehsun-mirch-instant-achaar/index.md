@@ -1,7 +1,7 @@
 ---
 title: Lehsun Mirch Instant Achaar
 date: 2020-07-16T21:56:33.783Z
-description: Green chile pickle cooked with garlic in mustard oil
+description: Instant garlic and green chile pickle
 ---
 Recipe credit: Deeba Haider
 # Ingredients

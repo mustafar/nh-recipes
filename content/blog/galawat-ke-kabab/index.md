@@ -1,7 +1,7 @@
 ---
 title: Galawat Ke Kabab
 date: 2020-07-05T02:20:00.000Z
-description: Soft Oudhi kababs
+description: Soft Awadhi kababs
 ---
 # Ingredients 
 

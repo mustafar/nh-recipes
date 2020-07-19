@@ -1,7 +1,7 @@
 ---
 title: Kalonji Gosht
 date: 2020-07-12T02:18:57.449Z
-description: Meat cooked in spices and topped with onion seeds
+description: Mutton and onion seed curry
 ---
 Recipe Credit: Saeeda Zaidi  
 
