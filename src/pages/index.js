@@ -62,7 +62,7 @@ const BlogIndex = props => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" pathname={location.pathname} />
+      <SEO title="NH Recipes" pathname={location.pathname} />
       <Bio />
       <input
         type="text"

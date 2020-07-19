@@ -34,7 +34,7 @@ const Bio = () => {
     >
       <Image
         fixed={data.avatar.childImageSharp.fixed}
-        alt="NH Recipes"
+        alt="Narauli House Recipes"
         style={{
           marginRight: rhythm(1 / 2),
           marginBottom: 0,

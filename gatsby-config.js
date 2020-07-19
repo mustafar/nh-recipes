@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `NH Recipes`,
+    title: `Narauli House Recipes`,
     author: {
       name: `Mustafa Rizvi`,
       summary: `former nh resident.`,
     },
-    description: `Recipes from Narauli House`,
+    description: `Recipes from inside and around Narauli House, Khayaliganj.`,
     siteUrl: `https://nhrecipes.com/`,
   },
   plugins: [
@@ -64,7 +64,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `NH Recipes`,
+        name: `Narauli House Recipes`,
         short_name: `NH Recipes`,
         start_url: `/`,
         background_color: `#ffffff`,
