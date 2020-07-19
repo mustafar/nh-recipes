@@ -2,7 +2,7 @@
 title: Bhappa Doi
 date: 2020-07-13T17:42:11.367Z
 description: Hung yogurt dessert
-credit: Homa Zaidi. Originally, Nupur
+credit: Homa Zaidi. Originally, Nupur Mishra
 ---
 Servings: 4  
 Difficulty: Easy  

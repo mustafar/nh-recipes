@@ -1,42 +1,40 @@
 ---
 title: Bhindi Gosht
 date: 2020-07-19T14:08:17.738Z
-description: Mutton Curry  with Okra
-credit: " Fakhrun Nisa -(Nanna)                          "
+description: Mutton curry with okra
+credit: Fakhrun Nisa (Nanna)
 ---
 # Ingredients:
-
-* Mutton.        half kg
-* Okra.             250 gms
-* Curd.             100 gms
-* Garlic paste. 1 1/2 tsp
-* Ginger paste  1 1/2 tsp
-* Onions            2 large
-* Salt.                 to taste
+* ½ kg mutton
+* 250g okra (_bhindi_)
+* 100g yogurt
+* 1½ tsp garlic paste
+* 1½ ginger paste
+* 2 large onions
+* Salt, to taste
 
 ### Spices
 
-* Chili pwd.      half tsp
-* Coriander pwd.  1 1/2 tsp
-* Tumeric pwd.  half tsp
-* Cumin pwd.     half tsp
-* Garam masala  half tsp
-* Kalaunji.           half tsp
-* Cinnamon.       1 stick
-* Oil.                      half cup and 
-                            some for 
-                             frying okra
+* ½ tsp red chile powder
+* 1½ tsp coriander powder (_dhania powder_)
+* ½ tsp turmeric (_haldi_) powder
+* ½ tsp cumin (_zeera_) powder
+* ½ tsp garam masala
+* ½ tsp onion seeds (_kalonji_)
+* 1 cinnamon stick (_dalchini)
+* ½ cup oil, and some more for frying okra
 
-# Method
+# Preparation
 
-1. Wash the okra and spread on paper towel to dry.
-2. Cut each into 2 or 3 pieces according to their size. Fry the okra lightly.
-3. Pour half cup oil into a pressure cooker. Add one large sliced onion and saute till golden brown.
-4. Add the washed and well drained mutton. Do not stir for a few minutes. Then saute till dry. Add garlic paste first then the ginger paste.
-5. Grind the onion and add the  paste.
-6. After the raw smell disappears add the curd, salt and spices. Keep stirring till the oil surfaces.
-7. Add water and pressure cook for 20 minutes. A thickish curry is desirable.
-8. Once the steam escapes, add the okra ....no stirring.
-9. Move the cooker around so that the okra mixes in well with the curry. Bring to a boil and check to see if tender.
+Wash the okra and spread on paper towel to dry. Cut each into 2 or 3 pieces according to their size. Fry the okra lightly.
 
-### *It is best if eaten with Rumaali Roti*
+Pour half cup oil into a pressure cooker. Add one large sliced onion and sauté till golden brown. Add the washed and well drained mutton. Do not stir for a few minutes. Then sauté till dry. 
+
+Add garlic paste first then the ginger paste. Grind the onion and add the paste. After the raw smell goes away add the yogurt, salt and spices. Keep stirring till oil surfaces.
+
+Add water and pressure cook for 20 minutes. A thickish curry is desirable. Once the steam escapes, add the okra — no stirring!
+
+Move the cooker around so that the okra mixes in well with the curry. Bring to a boil and check to see if tender.
+
+# Tips
+> This recipe is best server with Rumaali roti

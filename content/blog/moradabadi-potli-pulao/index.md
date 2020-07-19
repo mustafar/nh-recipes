@@ -47,7 +47,7 @@ Add enough salt for the meat and pour in water so that the meat and potli are co
 
 Now use a pot with a heavy base big enough for two kgs of pulao. Put in the ghee/oil. Peel and slice the onions. Fry till golden brown. Remove half and keep aside. Add three tbsp of water and when it stops spluttering put in the cumin. When it crackles put in the rest of the spices.
 
-Remove all the meat pieces from the pressure cooker and saute with the onions and whole spices. Add the garlic and ginger paste and 1½ tsp of salt or as per taste. Add the yogurt and continue to sauté till the ghee surfaces.
+Remove all the meat pieces from the pressure cooker and sauté with the onions and whole spices. Add the garlic and ginger paste and 1½ tsp of salt or as per taste. Add the yogurt and continue to sauté till the ghee surfaces.
 
 Squeeze the potli well and discard. Now pour the stock into the pot and allow to come to a boil. Strain the rice and put into the pot. The trick is in knowing whether the stock is enough to cook the rice or does more water have to be added. Do not close the lid and keep a close watch.
 

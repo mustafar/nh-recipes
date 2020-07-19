@@ -1,31 +1,31 @@
 ---
-title: Kaali Gajar ka Halwa
+title: Kaali Gajar Ka Halwa
 date: 2020-07-19T14:02:54.144Z
-description: "Rich Indian carrot dessert cooked in milk "
+description: Rich Indian carrot dessert coooked in milk
 credit: Yasmin Naqvi
 ---
-( Winter Special...Dark carrots can be replaced with orange ones)
-
-Difficulty: Average
+Difficulty: Medium
 
 # Ingredients
 
-* Carrots.             2 kgs
-* Whole Milk.       2 liters
-* Sugar.                 1 cup or as 
-                              per taste
-* Khoya.                 500 grams
-* Pure Ghee.         5 tbsp
-* Raisins.               100 grams
-* Cashew nuts.     100 grams
-* Saffron.                few strands
-* Silver Leaf.          optional
+* 2 kg black carrot (_kaali gajar_)
+* 2 litres whole milk
+* 1 cup sugar, or to taste
+* 500g khoya
+* 5 kg pure ghee
+* 100g raisins
+* 100g cashews
+* Few strands of saffron (_zafran_)
+* Silver leaf (_chandi ka varaq_)
 
-# Method
+# Preparation
+Wash the carrots well and peel off the skin. Grate the carrots by hand or in a food processor.
 
-1. Wash the carrots well and peel off the skin. Grate the carrots by hand or food process them.
-2. Soak the saffron in a tbsp of warm milk and cover it.
-3. In a fry pan saute the khoya so that the rawness goes away.
-4. In a pot with a heavy base boil the milk. Add the grated carrots. Boil and stir till the milk is nearly dry. Add the ghee, sugar, khoya and raisins. Add the saffron.
-5. Remove from flame.
-6. Garnish with cashew nuts and silver leaf.
+Soak the saffron in a tbsp of warm milk and cover it. In a fry pan sauté the khoya so that the rawness goes away.
+
+In a pot with a heavy base boil the milk. Add the grated carrots. Boil and stir till the milk is nearly dry. Add the ghee, sugar, khoya and raisins. Add the saffron.
+
+Remove from flame. Garnish with cashews and silver leaf.
+
+# Tips
+> Dark carrots can be replaced with orange ones.
