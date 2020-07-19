@@ -2,13 +2,13 @@
 title: Bhappa Doi
 date: 2020-07-13T17:42:11.367Z
 description: Hung yogurt dessert
-credit: Homa Zaidi, via Nupur
+credit: Homa Zaidi. Originally, Nupur
 ---
 Servings: 4  
 Difficulty: Easy  
 
 ## Ingredients
-* 800g yogurt (_dahi_, 2 containers)
+* 800g (or 2 containers) yogurt (_dahi_)
 * 1 tin condensed milk
 
 ## Preparation
