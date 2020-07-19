@@ -29,13 +29,14 @@ credit: " Fakhrun Nisa -(Nanna)                          "
 
 # Method
 
-1) Wash the okra and spread on paper towel to dry.
-2) Cut each into 2 or 3 pieces according to their size. Fry the okra lightly.
-3) Pour half cup oil into a pressure cooker. Add one large sliced onion and saute till golden brown.
-4) Add the washed and well drained mutton. Do not stir for a few minutes. Then saute till dry. Add garlic paste first then the ginger paste.
-5) Grind the onion and add the  paste.
-6) After the raw smell disappears add the curd, salt and spices. Keep stirring till the oil surfaces.
-7) Add water and pressure cook for 20 minutes. A thickish curry is desirable.
-8) Once the steam escapes, add the okra ....no stirring.
-9) Move the cooker around so that the okra mixes in well with the curry. Bring to a boil and check to see if tender.
-### It is best if eaten with Rumaali Roti
+1. Wash the okra and spread on paper towel to dry.
+2. Cut each into 2 or 3 pieces according to their size. Fry the okra lightly.
+3. Pour half cup oil into a pressure cooker. Add one large sliced onion and saute till golden brown.
+4. Add the washed and well drained mutton. Do not stir for a few minutes. Then saute till dry. Add garlic paste first then the ginger paste.
+5. Grind the onion and add the  paste.
+6. After the raw smell disappears add the curd, salt and spices. Keep stirring till the oil surfaces.
+7. Add water and pressure cook for 20 minutes. A thickish curry is desirable.
+8. Once the steam escapes, add the okra ....no stirring.
+9. Move the cooker around so that the okra mixes in well with the curry. Bring to a boil and check to see if tender.
+
+### *It is best if eaten with Rumaali Roti*
