@@ -9,7 +9,7 @@ Degree of difficulty- medium
 # Ingredients
 
 * 1kg ground mutton
-* 1 kiwi ground with skin and seeds or 100 grams raw papaya with skin
+* 1 kiwi ground with skin and seeds or 100 grams raw papaya with skin and 1tsp salt
 * 1 ½ tablespoons ginger paste
 * 1 tablespoon garlic paste
 * 3 medium onions thinly sliced, fried and ground.
@@ -20,12 +20,12 @@ Degree of difficulty- medium
 * 3 slices of bread soaked in water, squeezed and mashed well
 * ½ cup neutral oil
 * red chilli powder according to taste
-* 1 tsp salt or to taste 
+* Salt to taste
 
 # METHOD
 
-1) Wash and drain ground meat very well. Mix all the ingredient well including oil, and let marinate in the fridge overnight. If needed for dinner marinate in the morning.
-2) Grease an ovenproof dish, and pat marinated mixture into it.\
-3) Cook in 350F for 20 to 25 minutes depending on the oven. Don’t over cook, it will dry out the kababs. 
+1. Wash and drain ground meat very well. Mix all the ingredient well including oil, and let marinate in the fridge overnight. If needed for dinner marinate in the morning.
+2. Grease an ovenproof dish, and pat marinated mixture into it.\
+3. Cook in 350F for 20 to 25 minutes depending on the oven. Don’t over cook, it will dry out the kababs. 
 
 *Everyone’s oven is different. This is approximately the time.*
