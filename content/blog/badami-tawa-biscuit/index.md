@@ -2,8 +2,8 @@
 title: Badami Tawa Biscuit
 date: 2020-07-15T02:02:00.000Z
 description: Almond cookies
+credit: Homa Zaidi, inspired by Sigrun
 ---
-Recipe Credit: Homa Zaidi (inspired by Sigrun)  
 Difficulty: Medium 
 
 This recipe is a cross between Nankhatai and 22 Rajab ki Tikiya.

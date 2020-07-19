@@ -2,10 +2,10 @@
 title: Boneless Chicken Chili
 date: 2020-07-12T15:12:07.131Z
 description: Indian-Chinese style fried boneless chicken
+credit: Salim Rizvi
 ---
 ![](boneless-chicken-chilly.jpg)
 
-Recipe Credit: Salim Rizvi  
 Photo Credit: Salim Rizvi  
 Servings: 4  
 Prep Time: 15 mins  

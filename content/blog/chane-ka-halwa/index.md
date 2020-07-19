@@ -2,8 +2,8 @@
 title: Chane Ka Halwa
 date: 2020-07-15T12:12:18.029Z
 description: Traditional Indian halwa
+credit: Homa Zaidi, via Zakia baji
 ---
-Recipe Credit : Homa Zaidi (via Zakia baji)  
 Difficulty: Hard  
 
 # Ingredients

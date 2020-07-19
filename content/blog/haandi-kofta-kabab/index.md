@@ -2,8 +2,8 @@
 title: Haandi Kofta Kabab
 date: 2020-07-14T13:56:00.000Z
 description: Meatballs cooked in a heavy pot
+credit: Yasmin Naqvi, via Kishwari Mustafa
 ---
-Recipe credit: Yasmin Naqvi (via Kishwari Mustafa)  
 Difficulty: Medium  
 
 # Ingredients

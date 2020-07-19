@@ -2,8 +2,8 @@
 title: Palak Gosht
 date: 2020-07-15T12:28:00.000Z
 description: Mutton and spinach curry
+credit: Akhlaqun Nisa
 ---
-Recipe Credit: Akhlaqun Nisa  
 Difficulty: Medium  
 
 # Ingredients

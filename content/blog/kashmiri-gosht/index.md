@@ -2,8 +2,8 @@
 title: Kashmiri Gosht
 date: 2020-07-16T10:20:49Z
 description: Kashmiri style mutton curry
+credit: Masooma Zaidi
 ---
-Recipe Credit: Masooma Zaidi  
 Servings: 5  
 Cooking Time: 45 mins  
 

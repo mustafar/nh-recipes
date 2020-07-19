@@ -2,8 +2,8 @@
 title: Lucknowi Yakhni Pulao
 date: 2020-07-16T22:03:21.108Z
 description: "Rice cooked in a meat sauce"
+credit: Masooma Zaidi
 ---
-Recipe Credit: Masooma Zaidi  
 Servings: 4-5  
 Cooking time: 1 hour  
 Difficulty: Hard  

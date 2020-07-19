@@ -2,9 +2,9 @@
 title: Mutton Qorma
 date: 2020-07-12T22:27:16.448Z
 description: Meat simmered in ginger, garlic and yogurt gravy
+credit: Yasmin Naqvi, via Akhlaqun Nisa
 ---
-Recipe credit: Akhlaqun Nisa( submitted by Yasmin Naqvi)
-Ingredients
+# Ingredients
 
 * ½ kg mutton
 * 2-3 tbsp ginger garlic paste

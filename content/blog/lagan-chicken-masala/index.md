@@ -2,8 +2,8 @@
 title: Lagan Chicken Masala
 date: 2020-07-16T12:35:00Z
 description: Hyderabadi style chicken curry
+credit: Masooma Zaidi
 ---
-Recipe Credit: Masooma Zaidi  
 Servings: 4-5  
 Cooking Time: 40 mins  
 

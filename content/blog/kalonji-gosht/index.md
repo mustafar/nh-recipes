@@ -2,9 +2,8 @@
 title: Kalonji Gosht
 date: 2020-07-12T02:18:57.449Z
 description: Mutton and onion seed curry
+credit: Saeeda Zaidi
 ---
-Recipe Credit: Saeeda Zaidi  
-
 # Ingredients
 * ½ kilo gosht (mutton)
 * 2 + 2 medium onions

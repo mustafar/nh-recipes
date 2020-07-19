@@ -54,6 +54,20 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.date}
           </p>
+
+          {/* credit */}
+          {post.frontmatter.credit && <p
+            style={{
+              ...scale(-1 / 5),
+              display: `block`,
+              fontWeight: `lighter`,
+              marginTop: '-15px',
+              marginBottom: 30,
+            }}
+          >
+            by {post.frontmatter.credit}
+          </p>}
+
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -111,8 +125,9 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
         description
+        date(formatString: "MMMM DD, YYYY")
+        credit
       }
     }
   }

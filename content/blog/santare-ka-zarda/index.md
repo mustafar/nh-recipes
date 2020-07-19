@@ -2,8 +2,8 @@
 title: Santare Ka Zarda
 date: 2020-07-18T16:10:53.885Z
 description: Sweet rice cooked in orange juice
+credit: Homa Zaidi
 ---
-Recipe Credit: Homa Zaidi  
 Difficulty: Medium  
 
 # Ingredients

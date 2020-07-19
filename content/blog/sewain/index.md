@@ -2,10 +2,9 @@
 title: Sewain
 date: 2020-07-12T02:15:53.089Z
 description: Vermicelli cooked in milk and khoya
+credit: Saeeda Zaidi
 ---
 ![](seewain.webp)
-
-Recipe credit: Saeeda Zaidi
 
 # Ingredients
 

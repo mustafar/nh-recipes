@@ -2,9 +2,8 @@
 title: Khajoor Ke Laddoo
 date: 2020-07-17T00:28:16Z
 description: Date rounds rolled in coconut
+credit: Homa Zaidi
 ---
-
-Recipe Credit: Homa Zaidi  
 Servings: Makes a little over half kg  
 Difficulty: Easy  
 
