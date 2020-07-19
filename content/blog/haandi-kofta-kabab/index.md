@@ -35,7 +35,7 @@ Wash the minced meat and drain well. Grind the raw papaya with skin and mix in w
 Slice two onions and brown them. Keep aside.
 
 Now prepare the spices. Dry roast the coriander and cumin seed powder together and dry roast the poppy seeds separately. 
-Peel the cardamoms and dry roast with cinnamon, peppercorns, cloves. Now finely grind the above along with poppy seeds. Dry roast the gram flour.
+Peel the cardamom and dry roast with cinnamon, peppercorns, cloves. Now finely grind the above along with poppy seeds. Dry roast the gram flour.
 
 Now mix the spices, ginger and onion into the mince. Chop the green coriander and chiles. Mix in. Shape into medium kofta size balls.
 
