@@ -5,7 +5,7 @@ description: "Rich Indian dessert cooked in milk "
 credit: Fehmina Zaidi
 category: Dessert
 ---
-![](maande-ki-kheer.jpeg)
+![](78a1427f-daf1-45de-8a0a-ae1b0885bfa5.jpeg)
 
 ![]()
 
