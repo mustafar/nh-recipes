@@ -5,14 +5,16 @@ description: "Rich Indian dessert cooked in milk "
 credit: Fehmina Zaidi
 category: Dessert
 ---
+![](maande-ki-kheer.jpeg)
+
 ![]()
 
 # INGREDIENTS
 
-- Milk - 3L 
-- Chapati-4/5 depending on the size
-- Ghee to fry
-- Sugar- 1-2 cups or as per taste
+* Milk - 3L 
+* Chapati-4/5 depending on the size
+* Ghee to fry
+* Sugar- 1-2 cups or as per taste
 
 # METHOD
 
