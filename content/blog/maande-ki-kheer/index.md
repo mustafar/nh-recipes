@@ -5,6 +5,8 @@ description: "Rich Indian dessert cooked in milk "
 credit: Fehmina Zaidi
 category: Dessert
 ---
+![](5f344181-fd76-47b5-a5a5-9bd3f024f0d0.jpeg)
+
 # INGREDIENTS
 
 Milk - 3L 
