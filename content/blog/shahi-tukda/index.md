@@ -17,7 +17,7 @@ category: Dessert
 
 ### For garnishing
 * Khoya
-* Slivered pistachios 
+* Chopped pistachios 
 * Silver leaf (_chandi ka varaq_)
 
 # Preparation
