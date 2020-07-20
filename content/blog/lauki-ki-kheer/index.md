@@ -2,6 +2,7 @@
 title: Lauki Ki Kheer
 date: 2020-07-20T12:08:28Z
 description: Bottle gourd dessert
+credit: Samana Misra
 category: Dessert
 ---
 Servings: 6
