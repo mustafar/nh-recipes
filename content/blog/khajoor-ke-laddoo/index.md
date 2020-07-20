@@ -9,7 +9,6 @@ Servings: Makes a little over half kg
 Difficulty: Easy  
 
 # Ingredients
-
 * 500g dark pitted dates
 * 250ml milk
 * 1½ cups unsweetened desiccated coconut powder

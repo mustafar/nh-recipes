@@ -1,14 +1,13 @@
 ---
 title: Kaali Gajar Ka Halwa
 date: 2020-07-19T14:02:54.144Z
-description: Rich Indian carrot dessert coooked in milk
+description: Rich Indian carrot dessert cooked in milk
 credit: Yasmin Naqvi
 category: Dessert
 ---
 Difficulty: Medium
 
 # Ingredients
-
 * 2 kg black carrot (_kaali gajar_)
 * 2 liters whole milk
 * 1 cup sugar, or to taste

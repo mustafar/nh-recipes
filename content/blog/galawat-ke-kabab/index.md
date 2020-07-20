@@ -22,7 +22,7 @@ category: Non-Vegetarian Entrée
 * a pinch of red chile powder
 * Sprinkle of ghee, used while frying kababs
 * Sprinkle of milk, used while frying kababs
-* 50–75g of bhuna besan, used to mix in the kidney fat
+* 50–75g of gram flour (_bhuna besan_), used to mix in the kidney fat
 * salt, to taste
 
 ### For Galawat ka masala

@@ -6,7 +6,6 @@ credit: Yasmin Naqvi. Originally, Akhlaqun Nisa
 category: Non-Vegetarian Entrée
 ---
 # Ingredients
-
 * ½ kg mutton
 * 2-3 tbsp ginger garlic paste
 * 4 medium onions

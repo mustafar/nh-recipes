@@ -11,7 +11,6 @@ Photo Credit: Sameera Rizvi
 Difficulty: Hard  
 
 # Ingredients
-
 * 500g mutton 
 * 500g onions (sliced)
 * 100g yogurt 

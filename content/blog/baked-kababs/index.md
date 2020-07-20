@@ -8,7 +8,6 @@ category: Non-Vegetarian Entrée
 Difficulty: Medium
 
 # Ingredients
-
 * 1 kg ground mutton
 * 1 kiwi ground with skin and seeds or 100 grams raw papaya with skin and 1 tsp salt
 * 1½ tbsp ginger paste
@@ -23,10 +22,9 @@ Difficulty: Medium
 * Salt, to taste
 
 # Preparation
-
 Wash and drain ground meat very well. Mix all the ingredient including oil, and let marinate in the fridge overnight. If needed for dinner marinate in the morning.
 
-Grease an ovenproof dish, and pat marinated mixture into it. Cook in 350F for 20 to 25 minutes depending on the oven. Everyone’s oven is different so be careful to not overcook and dry out the kababs.
+Grease an ovenproof dish, and pat marinated mixture into it. Cook in 350F for 20 to 25 minutes depending on the oven. Everyone’s oven is different so be careful to not overcook or dry out the kababs.
 
 # Tips
 > Gram flour can be replaced with 3 slices of bread soaked in water, squeezed and mashed well.

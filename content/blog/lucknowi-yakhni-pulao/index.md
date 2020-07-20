@@ -12,14 +12,12 @@ Difficulty: Hard
 # Ingredients
 
 ### For yakhni
-
 * 1 kg mutton
 * 1 tsp red chile powder, or to taste
 * Salt, to taste
 * 2 tbsp ginger garlic paste
 
 ### Potli masala
-
 * 2 tbsp fennel seeds (_saunf_)
 * 1 tsp black peppercorn (_kali mirch_)
 * 1 mace
@@ -28,7 +26,6 @@ Difficulty: Hard
 * 1 black cardamon pod (_badi elaichi_)
 
 ### For the milk
-
 * 3 cups full fat milk
 * 1 tsp rose water
 * 1 tsp kewra water
@@ -42,7 +39,6 @@ Difficulty: Hard
 * 2 tbsp ghee
 
 ### For the rice
-
 * 1 kg rice
 * 1 tsp oil
 * 3 tbsp salt
@@ -63,7 +59,6 @@ In a pressure cooker put mutton, ginger garlic paste, salt and red chile powder.
 Once done remove the mutton from yakhni and keep aside.
 
 ### Pulao
-
 Take a large vessel and add milk with all the powder spices, ½ fried onions, kewra water, rose water, saffron and cook on high flame.
 
 Once the milk comes to a boil add the cooked mutton, yakhni and 2 tbsp ghee. Cook on high flame till the milk and yakhni mix together and the water dries up. Once mutton is cooked, put a layer of rice, remaining fried onion, food colour, 2 tsp ghee and kewra.

@@ -1,7 +1,7 @@
 ---
 title: Bhindi Gosht
 date: 2020-07-19T14:08:17.738Z
-description: Mutton curry with okra
+description: Mutton and okra curry
 credit: Fakhrun Nisa (Nanna)
 category: Non-Vegetarian Entrée
 ---
@@ -22,7 +22,7 @@ category: Non-Vegetarian Entrée
 * ½ tsp cumin (_zeera_) powder
 * ½ tsp garam masala
 * ½ tsp onion seeds (_kalonji_)
-* 1 cinnamon stick (_dalchini)
+* 1 cinnamon stick (_dalchini_)
 * ½ cup oil, and some more for frying okra
 
 # Preparation

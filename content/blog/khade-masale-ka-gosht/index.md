@@ -5,7 +5,6 @@ description: Meat curry cooked with coarse and whole spices
 category: Non-Vegetarian Entrée
 ---
 # Ingredients 
-
 * 500g meat (mutton or goat)
 * 500g onion, finely chopped
 * 10g ginger (_adrak_), finely chopped
@@ -17,7 +16,6 @@ category: Non-Vegetarian Entrée
 * salt, to taste
 
 ### Khusbu ka Masala
-
 * 4 whole green cardamon (_choti elaichi_)
 * 4 whole cloves (_laung_)
 * a pinch of nutmeg (_jaifal_)
@@ -35,7 +33,6 @@ Once all masalas settle down then cover and cook on medium flame; put a little b
 Once the mutton is nearly done, just add the squeezed lemon juice and cover ; cook till you reach the desired softness of the meat.
 
 # Tips
-
 > The lesser the water, the better the masala turns out.
 
 > Sarson ka tel gives that additional zing.

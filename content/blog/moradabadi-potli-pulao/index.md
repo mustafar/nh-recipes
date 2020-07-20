@@ -8,7 +8,6 @@ category: Non-Vegetarian Entrée
 Difficulty: Medium  
 
 # Ingredients
-
 * ½ kg mutton
 * 600-750g basmati rice
 * 2 tsp garlic paste
@@ -18,7 +17,6 @@ Difficulty: Medium
 * Salt, to taste
 
 ### Masala
-
 * 1 tsp cumin (*zeera*)
 * 2 bay leaves (*tez patta*)
 * 4 small cardamom pods (*elaichi*)
@@ -29,7 +27,6 @@ Difficulty: Medium
 * Pinch of orange food colouring
 
 ### Potli
-
 * Muslin cloth
 * 4 tbsp whole coriander 4 tbsp (*dhania*)
 * 4 tbsp fennel seeds (*saunf*)

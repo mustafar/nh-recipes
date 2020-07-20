@@ -9,7 +9,7 @@ Servings: 5
 Cooking Time: 45 mins  
 
 # Ingredients
-* 1kg mutton
+* 1 kg mutton
 * 4-5 green thai chile (_hari mirch_), slit lengthwise
 * 10 sweet neem leaves (_kari patta_)
 * Handful coriander leaves (_dhania ki patti_)
@@ -17,7 +17,7 @@ Cooking Time: 45 mins
 * 3 large onions, ground to a fine paste
 * 2 tbsp ginger garlic paste
 * 3 small tomatoes, peeled and puréed
-* 1 Bay leaf
+* 1 bay leaf
 * ½ inch cinnamon stick
 * 2 green cardamon pods (_elaichi_)
 * 4 cloves (_laung_)

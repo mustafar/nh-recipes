@@ -8,7 +8,6 @@ category: Dessert
 Difficulty: Easy  
 
 # Ingredients
-
 * 1 liter full fat milk
 * ¼ cup sugar
 * 1½-2 grated apples (big shreds)
@@ -16,7 +15,6 @@ Difficulty: Easy
 * Optional garnish: slivered almonds, and silver leaf (_chandi ka varaq_)
 
 # Preparation
-
 Boil milk and add sugar. Reduce until it is a little less than half of its original volume. Consistency should resemble thick kheer.
 
 Turn stove off and cool completely. Once it is room temperature, add one and half to two grated apples depending on the size of the apples. 
