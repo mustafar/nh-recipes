@@ -3,6 +3,7 @@ title: Gurda Kaleji Ghotala
 date: 2020-07-16T12:20:00Z
 description: Goat liver and kidneys
 credit: Ahmad Rizvi
+category: Non-Vegetarian Entrée
 ---
 Servings: 2-3  
 Cooking Time: 30 mins  

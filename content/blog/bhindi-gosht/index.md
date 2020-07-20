@@ -3,6 +3,7 @@ title: Bhindi Gosht
 date: 2020-07-19T14:08:17.738Z
 description: Mutton curry with okra
 credit: Fakhrun Nisa (Nanna)
+category: Non-Vegetarian Entrée
 ---
 # Ingredients:
 * ½ kg mutton

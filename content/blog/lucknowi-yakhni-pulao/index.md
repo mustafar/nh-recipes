@@ -1,8 +1,9 @@
 ---
 title: Lucknowi Yakhni Pulao
 date: 2020-07-16T22:03:21.108Z
-description: "Rice cooked in a meat sauce"
+description: Rice cooked in a meat sauce
 credit: Masooma Zaidi
+category: Non-Vegetarian Entrée
 ---
 Servings: 4-5  
 Cooking time: 1 hour  

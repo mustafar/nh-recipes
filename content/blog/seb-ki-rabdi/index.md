@@ -3,6 +3,7 @@ title: Seb Ki Rabdi
 date: 2020-07-19T15:20:06.190Z
 description: Grated apples dessert with thickened milk
 credit: Homa Zaidi, courtesy Nupur Mishra
+category: Dessert
 ---
 Difficulty: Easy  
 

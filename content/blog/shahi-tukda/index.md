@@ -3,6 +3,7 @@ title: Shahi Tukda
 date: 2020-07-12T22:23:12.570Z
 description: Deep fried bread soaked in flavored milk
 credit: Shahnaz Zaidi
+category: Dessert
 ---
 
 # Ingredients

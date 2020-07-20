@@ -3,6 +3,7 @@ title: Badami Tawa Biscuit
 date: 2020-07-15T02:02:00.000Z
 description: Almond cookies
 credit: Homa Zaidi, inspired by Sigrun
+category: Dessert
 ---
 Difficulty: Medium 
 

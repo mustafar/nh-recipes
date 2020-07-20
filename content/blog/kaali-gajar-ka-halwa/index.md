@@ -3,6 +3,7 @@ title: Kaali Gajar Ka Halwa
 date: 2020-07-19T14:02:54.144Z
 description: Rich Indian carrot dessert coooked in milk
 credit: Yasmin Naqvi
+category: Dessert
 ---
 Difficulty: Medium
 

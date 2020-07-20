@@ -21,4 +21,18 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Credit', name: 'credit', widget: 'string' }
+      - label: Category
+        name: category
+        widget: "select"
+        multiple: false
+        options:
+          - { label: "Condiment", value: "Condiment" }
+          - { label: "Appetizer", value: "Appetizer" }
+          - { label: "Non-Vegetarian Entrée", value: "Non-Vegetarian Entrée" }
+          - { label: "Vegetarian Entrée", value: "Vegetarian Entrée" }
+          - { label: "Rice Entrée", value: "Rice Entrée" }
+          - { label: "Dessert", value: "Dessert" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+# when using the default proxy server port
+local_backend: true

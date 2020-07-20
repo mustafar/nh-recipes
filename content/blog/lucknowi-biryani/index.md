@@ -3,6 +3,7 @@ title: Lucknowi Biryani
 date: 2020-07-15T12:05:00.000Z
 description: Nayaz Bhai's famous biryani, made with mutton
 credit: Reza Rizvi. Originally, Nayaz Bhai
+category: Non-Vegetarian Entrée
 ---
 ![](lucknowi-biryani.jpeg)
 

@@ -25,6 +25,7 @@ Difficulty: Medium
 * 3-4 cloves (_laung_)
 * 3 tbsp yogurt
 * 2 tbsp dry fenugreek leaves (_kasuri methi_)
+category: Non-Vegetarian Entrée
 
 # Preparation
 Wash the mutton and keep aside to drain. Break off the leaves from the spinach, wash and dry them, and then chop them.

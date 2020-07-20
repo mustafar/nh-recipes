@@ -3,6 +3,7 @@ title: Lehsun Mirch Instant Achaar
 date: 2020-07-16T21:56:33.783Z
 description: Instant garlic and green chile pickle
 credit: Deeba Haider
+category: Condiment
 ---
 # Ingredients
 

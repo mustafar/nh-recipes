@@ -3,6 +3,7 @@ title: Mutton Qorma
 date: 2020-07-12T22:27:16.448Z
 description: Meat simmered in ginger, garlic and yogurt gravy
 credit: Yasmin Naqvi. Originally, Akhlaqun Nisa
+category: Non-Vegetarian Entrée
 ---
 # Ingredients
 

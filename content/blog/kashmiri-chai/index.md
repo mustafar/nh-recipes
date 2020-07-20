@@ -3,6 +3,7 @@ title: Kashmiri Chai
 date: 2020-07-16T00:50:00.000Z
 description: Spiced milk tea
 credit: Seema Rizvi
+category: Appetizer
 ---
 Servings: 20-30 cups
 

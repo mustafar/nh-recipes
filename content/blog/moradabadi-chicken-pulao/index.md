@@ -3,6 +3,7 @@ title: Moradabadi Chicken Pulao
 date: 2020-07-16T10:26:00Z
 description: Moradabadi recipe for chicken pulao
 credit: Ahmad Rizvi
+category: Non-Vegetarian Entrée
 ---
 Servings: 3  
 Cooking Time: 30 mins  

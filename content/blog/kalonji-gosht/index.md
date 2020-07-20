@@ -3,6 +3,7 @@ title: Kalonji Gosht
 date: 2020-07-12T02:18:57.449Z
 description: Mutton and onion seed curry
 credit: Saeeda Zaidi
+category: Non-Vegetarian Entrée
 ---
 # Ingredients
 * ½ kilo gosht (mutton)

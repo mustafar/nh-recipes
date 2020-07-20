@@ -3,6 +3,7 @@ title: Kashmiri Gosht
 date: 2020-07-16T10:20:49Z
 description: Kashmiri style mutton curry
 credit: Masooma Zaidi
+category: Non-Vegetarian Entrée
 ---
 Servings: 5  
 Cooking Time: 45 mins  

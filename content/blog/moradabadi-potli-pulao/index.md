@@ -3,6 +3,7 @@ title: Moradabadi Potli Pulao
 date: 2020-07-16T10:26:00.000Z
 description: Moradabadi recipe for mutton pulao
 credit: Yasmeen Naqvi. Originally, Kishwari Mustafa
+category: Non-Vegetarian Entrée
 ---
 Difficulty: Medium  
 

@@ -128,6 +128,7 @@ export const pageQuery = graphql`
         description
         date(formatString: "MMMM DD, YYYY")
         credit
+        category
       }
     }
   }

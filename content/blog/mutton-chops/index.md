@@ -3,6 +3,7 @@ title: Mutton Chops
 date: 2020-07-16T00:10:00.000Z
 description: Spice marinated mutton chops
 credit : Seema Rizvi
+category: Non-Vegetarian Entrée
 ---
 # Ingredients
 * 1 kg mutton chops
