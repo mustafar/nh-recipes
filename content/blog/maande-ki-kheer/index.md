@@ -9,10 +9,10 @@ category: Dessert
 
 # INGREDIENTS
 
-Milk - 3L 
-Chapati-4/5 depending on the size
-Ghee to fry
-Sugar- 1-2 cups or as per taste
+- Milk - 3L 
+- Chapati-4/5 depending on the size
+- Ghee to fry
+- Sugar- 1-2 cups or as per taste
 
 # METHOD
 
