@@ -1,5 +1,5 @@
 ---
-title: Maande ki kheer
+title: Maande ki Kheer
 date: 2020-07-20T21:07:02.291Z
 description: "Rich Indian dessert cooked in milk "
 credit: Fehmina Zaidi
