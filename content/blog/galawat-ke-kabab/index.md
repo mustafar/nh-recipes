@@ -4,7 +4,7 @@ date: 2020-07-05T02:20:00.000Z
 description: Soft Awadhi kababs
 category: Non-Vegetarian Entrée
 ---
-# Ingredients 
+# Ingredients
 
 * 1 kg qeema (beef or mutton)
 * 200g kidney fat (optional – used for fine binding)
