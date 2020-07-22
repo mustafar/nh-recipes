@@ -31,13 +31,15 @@ const BlogIndex = props => {
      // return all filtered posts
     const filteredPosts = posts.filter(post => {
       // destructure data from post frontmatter
-      const { description, title, tags } = post.node.frontmatter;
+      const { category, credit, description, title, tags } = post.node.frontmatter;
       return (
         // standardize data with .toLowerCase()
         // return true if the description, title or tags
         // contains the query string
         description.toLowerCase().includes(query.toLowerCase()) ||
         title.toLowerCase().includes(query.toLowerCase()) ||
+        category?.toLowerCase().includes(query.toLowerCase()) ||
+        credit?.toLowerCase().includes(query.toLowerCase()) ||
         (tags && tags
           .join("") // convert tags from an array to string
           .toLowerCase()
@@ -115,6 +117,8 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            category
+            credit
           }
         }
       }

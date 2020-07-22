@@ -2,7 +2,7 @@
 title: Lauki Gosht
 date: 2020-07-20T17:35:48.678Z
 description: Mutton cooked with bottle gourd
-credit: Sameera Rizvi taught by Nayaaz
+credit: Sameera Rizvi. Originally, Nayaz Bhai
 category: Non-Vegetarian Entrée
 ---
 # Ingredients:
