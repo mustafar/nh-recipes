@@ -1,5 +1,5 @@
 ---
-title: Simple Chicken Biryani
+title: " Chicken Biryani"
 date: 2020-07-22T18:38:12.433Z
 description: Rice layered with meat and spices
 credit: Hala Jafri
