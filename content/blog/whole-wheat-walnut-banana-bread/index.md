@@ -5,7 +5,7 @@ description: Bread flavored with Walnuts and Bananas
 credit: Hera Fatima ( Inspired by Homa Zaidi)
 category: Dessert
 ---
-
+![](banana-bread.jpeg)
 
 Prep time  15 minutes
 Cook time  50 minutes
@@ -16,17 +16,17 @@ Cuisine: Bread
 
 # Ingredients
 
-- ½ Cup butter (at room temperature) 
-- 3/4 Cup Light Brown Sugar
-- 2 Medium Eggs
-- 1 Cup mashed ripe bananas ( about 3 medium)
-- 1 Cup all-purpose flour 
-- 1 Cup whole-wheat flour
-- 1 Teaspoon baking powder
-- ½ Teaspoon baking soda
-- ½ Teaspoon vanilla extract 
-- ½ Teaspoon salt
-- ½ Cup chopped walnuts
+* ½ Cup butter (at room temperature) 
+* 3/4 Cup Light Brown Sugar
+* 2 Medium Eggs
+* 1 Cup mashed ripe bananas ( about 3 medium)
+* 1 Cup all-purpose flour 
+* 1 Cup whole-wheat flour
+* 1 Teaspoon baking powder
+* ½ Teaspoon baking soda
+* ½ Teaspoon vanilla extract 
+* ½ Teaspoon salt
+* ½ Cup chopped walnuts
 
 # Method
 
@@ -39,4 +39,4 @@ Stir in the nuts and turn into prepared pan
 Bake 50 mins or until it is done.
 
 > Tip:
-Add walnut powder for more flavor.
+> Add walnut powder for more flavor.
