@@ -1,7 +1,7 @@
 ---
-title: Asian Noodle Salad (Cold Starter)
+title: Asian Noodle Salad
 date: 2020-07-22T18:18:41.544Z
-description: Ramen salad
+description: Cold ramen noodle salad
 credit: Michele Jafri
 category: Appetizer
 ---

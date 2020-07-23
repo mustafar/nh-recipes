@@ -88,7 +88,10 @@ const BlogIndex = props => {
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.description}&nbsp;|&nbsp;{node.frontmatter.date}</small>
+              <div><small>{node.frontmatter.description}</small></div>
+              <div>
+                <small>{node.frontmatter.category}&nbsp;|&nbsp;{node.frontmatter.date}</small>
+              </div>
             </header>
           </article>
         );

@@ -1,7 +1,7 @@
 ---
 title: Whole Wheat Walnut Banana Bread
 date: 2020-07-22T19:20:16.091Z
-description: Bread flavored with walnuts and bananas
+description: Banana bread with walnuts
 credit: Hera Fatima. Inspired by Homa Zaidi
 category: Dessert
 ---
@@ -26,7 +26,7 @@ Course: Tea Time
 * ½ cup chopped walnuts
 
 # Directions
-Preheat oven (with fan) to 150°C . 
+Preheat oven (with fan) to 150°C. 
 
 Grease and flour one 9½ x 5½ inch loaf pan. In a large mixing bowl, cream the butter and sugar until well blended. Beat in the eggs, vanilla extract and mashed bananas.
 
