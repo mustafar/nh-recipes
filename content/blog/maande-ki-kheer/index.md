@@ -1,5 +1,5 @@
 ---
-title: Maande Ki Kheer
+title: Maande ki Kheer
 date: 2020-07-20T21:07:02.291Z
 description: Flatbread dessert cooked in milk
 credit: Fehmina Zaidi

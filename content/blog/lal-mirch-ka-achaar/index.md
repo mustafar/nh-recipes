@@ -1,5 +1,5 @@
 ---
-title: Lal Mirch Ka Achaar
+title: Lal Mirch ka Achaar
 date: 2020-07-13T17:32:21.332Z
 description: Red chile pickle in mustard oil
 credit: Sultana Rizvi

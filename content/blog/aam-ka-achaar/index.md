@@ -1,5 +1,5 @@
 ---
-title: Aam Ka Achaar
+title: Aam ka Achaar
 date: 2020-07-22T18:31:00.481Z
 description: Classic mango pickle
 credit: Hala Jafri
