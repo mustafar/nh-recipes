@@ -5,9 +5,9 @@ description: Nayaz Bhai's famous biryani, made with mutton
 credit: Reza Rizvi. Originally, Nayaz Bhai
 category: Non-Vegetarian Entrée
 ---
-![](lucknowi-biryani.jpeg)
-
+![biryani](lucknowi-biryani.jpeg)
 Photo Credit: Sameera Rizvi  
+
 Difficulty: Hard  
 
 # Ingredients

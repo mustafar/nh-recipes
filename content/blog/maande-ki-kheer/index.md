@@ -1,12 +1,12 @@
 ---
 title: Maande Ki Kheer
 date: 2020-07-20T21:07:02.291Z
-description: Rich Indian dessert cooked in milk
+description: Flatbread dessert cooked in milk
 credit: Fehmina Zaidi
 category: Dessert
 ---
-![](78a1427f-daf1-45de-8a0a-ae1b0885bfa5.jpeg)
-
+![kheer](78a1427f-daf1-45de-8a0a-ae1b0885bfa5.jpeg)
+Photo Credit: Fehmina Zaidi  
 
 # Ingredients
 * 3 liters whole milk
@@ -15,9 +15,9 @@ category: Dessert
 * 1-2 cups sugar, or to taste
 
 # Preparation
-Boil the milk until it reduces a littlw and keep it aside.
+Boil the milk until it reduces a little and keep it aside.
 
-Sieve normal whole wheat flour through a mulmul cloth to get refined flour. Knead this flour and form a soft dough. Using a rolling pin make thin chapatis (flatbread). We will need 4-5 of these chapatis. 
+Sieve normal whole wheat flour through a cotton mulsin (_mulmul_) cloth. Knead this flour and form a soft dough. Using a rolling pin make thin chapatis (flatbread). We will need 4-5 of these chapatis. 
 
 Heat griddle (_tawa_) on gas and semi cook these chapatis from both the sides just enough that the chapati comes in hand. Do not overcook it. Cool and cut the chapatis fine (first cut the chapati into halves, then the halves cut in quarter, each quarter into strips and then cut each strip finely).
 

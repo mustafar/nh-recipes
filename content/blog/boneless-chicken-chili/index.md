@@ -5,9 +5,9 @@ description: Indian-Chinese style fried boneless chicken
 credit: Salim Rizvi
 category: Non-Vegetarian Entrée
 ---
-![](boneless-chicken-chilly.jpg)
-
+![chicken chili](boneless-chicken-chilly.jpg)
 Photo Credit: Salim Rizvi  
+
 Servings: 4  
 Prep Time: 15 mins  
 Cooking Time: 30 mins  

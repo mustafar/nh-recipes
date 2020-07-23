@@ -1,26 +1,28 @@
 ---
-title: Aam ka Achaar
+title: Aam Ka Achaar
 date: 2020-07-22T18:31:00.481Z
-description: Mango pickle in spices and oil
+description: Classic mango pickle
 credit: Hala Jafri
 category: Condiment
 ---
+Difficulty: Easy  
+
 # Ingredients
 
-* 250 grams Raw Mango
-*  25 grams Ginger
-*  25 grams Green chilies
-* 25 grams or as per taste Salt
-* 1 tsp haldi (turmeric)
-* 1 tsp red chilli powder
-* 2 tsps saunf ( Fennel seeds)
-* 1 1/2 tsps rai powder (mustard seeds)
-* 1/4 tsp methi powder ( fenugreek)
-* 1/2 tsp kalonji (onion seeds)
-* 1/2 to 1 cup mustard oil
+* 250g raw mango
+* 25g ginger (_adrak_)
+* 25g green thai chile (_hari mirch_)
+* 25g salt, or to taste
+* 1 tsp turmeric powder (_haldi_)
+* 1 tsp red chile (_lal mirch_) powder
+* 2 tsps fennel seeds (_saunf_)
+* 1½ tsps mustard seed (_rai_) powder
+* ¼ tsp fenugreeg (_methi_) powder
+* ½ tsp onion seeds (_kalonji_)
+* ½ to 1 cup mustard oil
 
 # Method
 
-Peel and chop raw mangoes into desired shape ( thin matchstick ) is a preferable cut.
-Mix all the powders and oil and add to the mangoes. 
+Peel and chop raw mangoes into desired shape — thin matchstick is a preferable cut. Mix all the powders and oil and add to the mangoes.
+
 It needs to sit in the  sun for 2-3 days before consuming.
