@@ -28,7 +28,7 @@ category: Rice Entrée
 
 ### Aromatics for rice
 - cinnamon (_dalchini_)
-- bay leaf (_kari patta_)
+- bay leaf (_tez patta_)
 - cloves (_laung_)
 - cardamoms pods (_elaichi_)
 
