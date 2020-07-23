@@ -16,7 +16,7 @@ category: Appetizer
 * 1 packet of seasoned sunflower kernels
 * ½ green onions chopped 
 
-# Preparation 
+# Directions 
 Take both packets of ramen and crushed the noodles inside without opening the packet (use fist or back of cooking spoon) 
 
 Take a bowl, pour the crushed ramen noodles (raw) into the bowl. Add sugar, mix with noodles. Add oil, mix with noodles. Add vinegar, mix with noodles. Add two packets of ramen noodle seasoning (found in packets of ramen), mix with noodles.

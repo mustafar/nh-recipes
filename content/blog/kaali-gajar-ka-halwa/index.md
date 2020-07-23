@@ -18,7 +18,7 @@ Difficulty: Medium
 * Few strands of saffron (_zafran_)
 * Silver leaf (_chandi ka varaq_)
 
-# Preparation
+# Directions
 Wash the carrots well and peel off the skin. Grate the carrots by hand or in a food processor.
 
 Soak the saffron in a tbsp of warm milk and cover it. In a fry pan sauté the khoya so that the rawness goes away.

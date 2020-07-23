@@ -24,7 +24,7 @@ category: Non-Vegetarian Entrée
 * 2 tablespoons chopped coriander leaves for garnishing
 * Salt, to taste
 
-# Preparation
+# Directions
 
 Wet grind with a little water one onion, garlic, and ginger. Keep aside.
 

@@ -15,7 +15,7 @@ category: Non-Vegetarian Entrée
 * 1-2 bay leaves (*tez patta*)
 * 1-2 tsp garam masala
 
-# Preparation
+# Directions
 Peel and slice 4 onions (medium). Fry till golden brown but don't overdo. Remove nearly all of it.
 
 Put in meat and stir till dry. Add 2-3 small elaichi, cinnamon sticks and bay leaves. Add garlic first then ginger, all on medium flame. Then add salt.

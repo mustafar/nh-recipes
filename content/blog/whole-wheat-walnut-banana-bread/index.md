@@ -25,7 +25,7 @@ Course: Tea Time
 * ½ tsp salt
 * ½ cup chopped walnuts
 
-# Preparation
+# Directions
 Preheat oven (with fan) to 150°C . 
 
 Grease and flour one 9½ x 5½ inch loaf pan. In a large mixing bowl, cream the butter and sugar until well blended. Beat in the eggs, vanilla extract and mashed bananas.

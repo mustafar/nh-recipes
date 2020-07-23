@@ -18,7 +18,7 @@ Difficulty: Easy
 - Mustard oil, enough to cover the chiles after they are filled and lined up in the container (_achaari_).
 - Muslin cloth to cover the achaari for a couple of weeks.
 
-# Preparation
+# Directions
 Wash and dry the chiles well. Cut the tops off and reserve. Scoop out the seeds and keep aside.
 
 Roast the zeera lightly till the aroma wafts in the air. Do the same and separately with saunf, kalonji, and methi. Cool, then grind together till coarse.

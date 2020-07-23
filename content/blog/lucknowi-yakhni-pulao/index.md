@@ -48,7 +48,7 @@ Difficulty: Hard
 * 1 black cardamon (_badi elaichi_)
 * 2 inch cinnamon stick (_dalchini_)
 
-# Preparation
+# Directions
 
 ### Rice
 Wash and soak the rice. Boil 3 liters water. Add all khada (whole) garam masala to the water with 1 tsp oil and salt. Add soaked rice to boiling water and cook on high flame till rice is 80% done. Strain and keep aside.

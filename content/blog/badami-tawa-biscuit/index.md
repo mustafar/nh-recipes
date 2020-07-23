@@ -20,7 +20,7 @@ This recipe is a cross between Nankhatai and 22 Rajab ki Tikiya.
 * 1 tsp ground cardamom (*elaichi*)
 * 1 big pinch of saffron (*zafran*), crushed
 
-# Preparation
+# Directions
 Sift flours and salt. Whip butter and sugar till fluffy. Add egg yolks, ground cardamom and saffron. Gradually add flour. Mix well. 
 
 Roll out into ½ inch thick and 3 inches diameter rounds. Press almonds on to biscuits. Place on tawa or frypan, better if dosa tawa, and cook till medium brown. Turn once, and cook the other side also. Edges may crack, it’s normal.

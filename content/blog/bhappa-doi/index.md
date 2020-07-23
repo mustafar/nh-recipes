@@ -12,7 +12,7 @@ Difficulty: Easy
 * 800g (or 2 containers) yogurt (_dahi_)
 * 1 tin condensed milk
 
-## Preparation
+## Directions
 
 ### Hung yogurt
 The recipe calls for yogurt that has been hung (made into yoghurt cheese). During Indian summers, hang in the fridge for 6-8 hours. You can put muslin in a sieve over a bowl to collect the water.

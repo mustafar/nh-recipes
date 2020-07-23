@@ -26,7 +26,7 @@ Difficulty: Medium
 * Red chile powder, to taste
 * Salt, to taste
 
-# Preparation
+# Directions
 
 Wash and drain ground meat very well. Mix all the ingredient including oil, and let marinate in the fridge overnight. If needed for dinner marinate in the morning.
 

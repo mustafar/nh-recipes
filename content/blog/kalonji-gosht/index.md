@@ -18,7 +18,7 @@ category: Non-Vegetarian Entrée
 * 2-3 serrano peppers
 * Fresh coriander for garnish
 
-# Preparation
+# Directions
 First brown the onions then fry the meat till the raw smell goes away. Put all the spice powders and fry it till oil floats on top. If required, add more water. Put two more chopped onions and two to three tomatoes and keep frying it. Add more water and cook the meat till done.
 
 Once the meat is cooked, put fresh coriander leaves and Garam masala on top. Add the peppers and kalonji on top.

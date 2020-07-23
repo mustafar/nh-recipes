@@ -20,7 +20,7 @@ category: Dessert
 * Chopped pistachios 
 * Silver leaf (_chandi ka varaq_)
 
-# Preparation
+# Directions
 Remove the crust of the bread and cut the slices into halves, diagonally. Deep fry the slices individually.
 
 Make the syrup (_sheera_) by boiling together water, sugar, cardamom and food colour. Cook the syrup till it gets thick and reaches a single thread consistency.

@@ -31,7 +31,7 @@ Difficulty: Easy
 * ½ cup sliced green onion (_hari pyaaz ka saaga_) (optional – for colour)
 * Oil, to deep fry
 
-# Preparation
+# Directions
 Mix together the chicken, egg, cornflour, all-purpose flour, ginger and garlic, chilly garlic, 1tsp salt, and mix it together to form a sticky lump and that the chicken pieces are coated with the batter. Leave this for about 30 minutes.
 
 Heat oil in a wok or a pan and deep-fry / shallow fry the chicken pieces dipping each piece separately from the lump marinated over high heat to begin with and then lower the flame. Fry until the chicken is cooked through. Drain on absorbent paper.

@@ -32,7 +32,7 @@ category: Rice Entrée
 - cloves (_laung_)
 - cardamoms pods (_elaichi_)
 
-# Preparation
+# Directions
 Marinate the chicken with all the ingredients and keep aside for 30-45 minutes.
 
 Boil rice with aromatics and 3-4 tbsp salt till 75% done or just about tender. Drain and keep aside.

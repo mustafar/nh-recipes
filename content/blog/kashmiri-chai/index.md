@@ -25,7 +25,7 @@ Servings: 20-30 cups
 * 2-3 drops sweet essence (_meetha itr_, used in Awadhi cuisine)
 * Red rouge food colouring
 
-# Preparation
+# Directions
 Boil around 500ml of water in a pot. When it starts to boil, put tea leaves in a pouch (_potli_) and add to it. Add a pinch of soda, bay leaves and cinnamon stick. Cover and let it simmer on medium heat.
 
 Meanwhile make another potli with nutmeg powder,mace powder, whole clove and green cardamom in it. When water gets a tinge of colour add about 250ml room temperature water and toss using a steel mug from a sufficient height. Keep adding room temperature water, while simultaneously tossing till it turns pink/red.

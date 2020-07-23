@@ -30,7 +30,7 @@ Difficulty: Easy
 * 4-5 cloves (_laung_)
 * 8-10 whole black peppercorns (_kali mirch_)
 
-# Preparation
+# Directions
 In 250ml water, crush garlic, add quarter tsp of salt. Soak liver and kidney in it till the time it is used (10-15 minutes).
 
 Puree the whole onion. Puree half tomato seprately with 2 whole green chiles.

@@ -14,7 +14,7 @@ Photo Credit: Fehmina Zaidi
 * Ghee, fir frying
 * 1-2 cups sugar, or to taste
 
-# Preparation
+# Directions
 Boil the milk until it reduces a little and keep it aside.
 
 Sieve normal whole wheat flour through a cotton mulsin (_mulmul_) cloth. Knead this flour and form a soft dough. Using a rolling pin make thin chapatis (flatbread). We will need 4-5 of these chapatis. 

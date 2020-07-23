@@ -21,7 +21,7 @@ category: Non-Vegetarian Entrée
 * a pinch of nutmeg (_jaifal_)
 * a small piece of cinnamon (_dalchini_)
 
-# Preparation
+# Directions
 In a heavy bottom pan put oil and let it burn by adding 1 whole red chile. Once the smoke comes out, remove from the burner and put aside for 30 – 45 secs. Let it cool down a bit.
 
 Put all Khushbu masala * adrak, lehsun, lal mirch, dhania, namak and then half of the onions until you get a rich brown colour of your masala.

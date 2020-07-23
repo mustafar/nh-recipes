@@ -20,7 +20,7 @@ Difficulty: Hard
 * Silver leaf (_chandi ka varaq_)
 * Sprinkle of ground cardamom
 
-# Preparation
+# Directions
 Wash and soak dal in water for an hour. Grease a plate or thali with a little ghee.
 
 Take one liters of milk and add sugar as well as cardamom and saffron, and boil, reduce to medium or medium high under watchful eyes. Soon milk will start to thicken, switch off stove.

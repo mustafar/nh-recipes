@@ -14,7 +14,7 @@ Difficulty: Easy
 * A little ghee for smearing on plate 
 * 50g melon seeds (optional)
 
-# Preparation
+# Directions
 Wash poppy seeds well. Turn over on a dry cotton cloth, and dry completely under a fan. Once dry, roast till they are medium dark and emit a nice aroma. Keep aside and let cool.
 
 If khoya is not available, make it by reducing two litres of milk till only the solids (_khoya_) remain. 

@@ -27,7 +27,7 @@ Difficulty: Medium
 * 2 tbsp dry fenugreek leaves (_kasuri methi_)
 category: Non-Vegetarian Entrée
 
-# Preparation
+# Directions
 Wash the mutton and keep aside to drain. Break off the leaves from the spinach, wash and dry them, and then chop them.
 
 In a 5 kg pressure cooker pour in the oil and add the sliced onions to brown. Lower the flame and sprinkle some water. Put in the mutton. Do not stir for 3-4 minutes. Add the whole spices then sauté the mutton till all the water dries up. 

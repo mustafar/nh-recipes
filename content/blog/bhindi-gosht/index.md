@@ -25,7 +25,7 @@ category: Non-Vegetarian Entrée
 * 1 cinnamon stick (_dalchini_)
 * ½ cup oil, and some more for frying okra
 
-# Preparation
+# Directions
 
 Wash the okra and spread on paper towel to dry. Cut each into 2 or 3 pieces according to their size. Fry the okra lightly.
 

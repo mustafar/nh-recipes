@@ -13,7 +13,7 @@ Servings: 6
 * 3 liters whole milk
 * ¼ tsp kewra
 
-# Preparation
+# Directions
 Boil the milk in a heavy bottom pot and leave it on low heat. Stir occasionally till the milk thickens.
 
 Wash and peel the lauki. Grate and boil it till it softens. Strain and keep it aside.

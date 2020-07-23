@@ -13,7 +13,7 @@ Difficulty: Easy
 * 250ml milk
 * 1½ cups unsweetened desiccated coconut powder
 
-# Preparation
+# Directions
 Put milk up to boil in a karhai/wok. When it boils, reduce to a slow fire, add pitted dates, and cook continuously while mashing. Let all the milk be absorbed, and the dates mass becomes lumpy. 
 
 Cool completely. Put desiccated coconut in a plate.

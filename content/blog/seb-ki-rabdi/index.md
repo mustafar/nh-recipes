@@ -14,7 +14,7 @@ Difficulty: Easy
 * ¼ tsp ground cinnamon (optional)
 * Optional garnish: slivered almonds, and silver leaf (_chandi ka varaq_)
 
-# Preparation
+# Directions
 Boil milk and add sugar. Reduce until it is a little less than half of its original volume. Consistency should resemble thick kheer.
 
 Turn stove off and cool completely. Once it is room temperature, add one and half to two grated apples depending on the size of the apples. 

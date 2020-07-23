@@ -47,7 +47,7 @@ category: Non-Vegetarian Entrée
 * 3-4 cloves
 * 1 tsp ghee
 
-# Preparation
+# Directions
 
 ### Mincing
 

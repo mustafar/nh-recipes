@@ -28,7 +28,7 @@ Cooking Time: 40 mins
 * 2 tbsp ghee
 * Salt, to taste
 
-# Preparation
+# Directions
 Lightly roast the dry coconut so that the color doesn't change. Add roasted cashews, coconut, fried onions and posta to a grinder and grind to a fine paste.
 
 Heat ghee and add laung, elaichi, dalchini and chicken. Fry it well. Once chicken is cooked, add the onion paste. Then add ginger garlic paste. Add salt and red chile powder and cook for 10 minutes.

@@ -35,7 +35,7 @@ Roast and grind finely
 * 1 tsp cumin seeds (_zeera_)
 * ½ tsp black peppercorns (_kali mirch_)
 
-# Preparation
+# Directions
 Add oil and desi ghee to pressure cooker. When hot, add bay leaves, cinnamon stick, green cardamon and cloves. Allow it to crackle.
 
 Add mutton and salt and fry till water evaporates. Add onion paste and ginger garlic paste. Cook for 10 minutes. Add haldi, red chile powder, kashmiri chile powder and yogurt. Cook for about 5 minutes.

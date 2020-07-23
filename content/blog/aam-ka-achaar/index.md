@@ -21,7 +21,7 @@ Difficulty: Easy
 * ½ tsp onion seeds (_kalonji_)
 * ½ to 1 cup mustard oil
 
-# Method
+# Directions
 
 Peel and chop raw mangoes into desired shape — thin matchstick is a preferable cut. Mix all the powders and oil and add to the mangoes.
 
