@@ -1,5 +1,5 @@
 ---
-title: Palak Gosht
+title: Paalak Gosht
 date: 2020-07-15T12:28:00.000Z
 description: Mutton and spinach curry
 credit: Akhlaqun Nisa
@@ -9,7 +9,7 @@ Difficulty: Medium
 
 # Ingredients
 * ½ kg mutton
-* 1 kg fresh spinach (_palak_)
+* 1 kg fresh spinach (_paalak_)
 * 2 medium onions, sliced
 * 2 medium tomatoes, chopped
 * 1 large onion, ground to a paste
@@ -26,7 +26,6 @@ Difficulty: Medium
 * 3-4 cloves (_laung_)
 * 3 tbsp yogurt
 * 2 tbsp dry fenugreek leaves (_kasuri methi_)
-category: Non-Vegetarian Entrée
 
 # Directions
 Wash the mutton and keep aside to drain. Break off the leaves from the spinach, wash and dry them, and then chop them.
