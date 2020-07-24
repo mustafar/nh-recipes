@@ -5,19 +5,19 @@ description: Indian-Chinese style fried boneless chicken
 credit: Salim Rizvi
 category: Non-Vegetarian Entrée
 ---
-![chicken chili](boneless-chicken-chilly.jpg)
-Photo Credit: Salim Rizvi  
 
-Servings: 4  
-Prep Time: 15 mins  
-Cooking Time: 30 mins  
+
+Servings: 4\
+Prep Time: 15 mins\
+Cooking Time: 30 mins\
 Difficulty: Easy    
 
 # Ingredients
+
 * 500g boneless chicken, sliced
 * 1 egg (slightly beaten)
 * ½ cup cornflour (¾ + ¼)
-* ¼ cup all-purpose flour (_maida_)
+* ¼ cup all-purpose flour (*maida*)
 * ½ tsp garlic paste / finely chopped 
 * ½ tsp ginger paste / finely chopped
 * ½ tsp white pepper powder 
@@ -27,11 +27,12 @@ Difficulty: Easy
 * ½ tsp sugar 
 * 2 tbsp white vinegar
 * 2 onions, sliced
-* 4-5 tsp green thai chiles (_hari mirch_), sliced and de-seeded
-* ½ cup sliced green onion (_hari pyaaz ka saaga_) (optional – for colour)
+* 4-5 tsp green thai chiles (*hari mirch*), sliced and de-seeded
+* ½ cup sliced green onion (*hari pyaaz ka saaga*) (optional – for colour)
 * Oil, to deep fry
 
 # Directions
+
 Mix together the chicken, egg, cornflour, all-purpose flour, ginger and garlic, chilly garlic, 1tsp salt, and mix it together to form a sticky lump and that the chicken pieces are coated with the batter. Leave this for about 30 minutes.
 
 Heat oil in a wok or a pan and deep-fry / shallow fry the chicken pieces dipping each piece separately from the lump marinated over high heat to begin with and then lower the flame. Fry until the chicken is cooked through. Drain on absorbent paper.
