@@ -64,9 +64,15 @@ const Layout = ({ location, title, children }) => {
       <header className={`${!isHomePage ? "home-link" : ""}`}>{header}</header>
       <main className={`${isHomePage ? "home-main" : ""} site-content`}>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <div
+          style={{
+            fontSize: 'small',
+          }}
+        >
+          © {new Date().getFullYear()}, built with
+          {` `}
+          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        </div>
       </footer>
     </div>
   )
