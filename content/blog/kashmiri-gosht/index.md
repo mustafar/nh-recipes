@@ -17,7 +17,7 @@ Cooking Time: 45 mins
 * 3 large onions, ground to a fine paste
 * 2 tbsp ginger garlic paste
 * 3 small tomatoes, peeled and puréed
-* 1 bay leaf
+* 1 bay leaf (_tez patta_)
 * ½ inch cinnamon stick
 * 2 green cardamon pods (_elaichi_)
 * 4 cloves (_laung_)

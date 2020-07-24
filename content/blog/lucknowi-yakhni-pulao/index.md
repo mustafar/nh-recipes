@@ -42,7 +42,7 @@ Difficulty: Hard
 * 1 kg rice
 * 1 tsp oil
 * 3 tbsp salt
-* 1 bay leaf (_kari patta_)
+* 1 bay leaf (_tez patta_)
 * 4-5 cloves (_laung_)
 * 4 green cardamon pods (_elaichi_)
 * 1 black cardamon (_badi elaichi_)
