@@ -112,6 +112,10 @@ const BlogIndex = props => {
             border: 0,
             padding: '0 6px 6px',
             '-webkit-appearance': 'none',
+            '-moz-appearance': 'none',
+            appearance: 'none',
+            fontWeight: 'bold',
+            color: '#ff5700',
           }}
         >
           <option value="">All</option>
