@@ -24,7 +24,7 @@ header.home-link {
     border-bottom: 2px solid black;
 }
 
-input {
+input, textarea {
   border-width: 0 0 2px;
   border-color: gray;
 
@@ -40,7 +40,12 @@ input {
   width: 90%;
 }
 
-input:focus {
+textarea {
+  border-width: 2px;
+
+}
+
+input:focus, textarea:focus {
   border-color: black;
 }
 
