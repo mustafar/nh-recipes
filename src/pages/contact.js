@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+import { rhythm } from "../utils/typography"
 
 const ContactPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -23,29 +23,29 @@ const ContactPage = ({ data, location }) => {
         data-netlify-honeypot="bot-field"
       >
         <h3>Send us a message.</h3>
-        <h6>Please be nice 🙏</h6>
+        <h6>Please be nice <span role="img" aria-label="please">🙏</span></h6>
         <input type="hidden" name="form-name" value="contact" />
-        <p
+        <div
           style={{
             marginTop: rhythm(2.0),
             marginBottom: rhythm(1.5),
           }}
         >
-          <label>Your Name <input type="text" name="name" /></label>
-        </p>
-        <p
+          <div>Your Name <input type="text" name="name" /></div>
+        </div>
+        <div
           style={{
             marginBottom: rhythm(1.5),
           }}
         >
-          <label>Your Email <input type="email" name="email" /></label>
-        </p>
-        <p
+          <div>Your Email <input type="email" name="email" /></div>
+        </div>
+        <div
           style={{
             marginBottom: rhythm(1.5),
           }}
         >
-          <label>
+          <div>
             Message
             <div>
               <textarea
@@ -58,9 +58,9 @@ const ContactPage = ({ data, location }) => {
                 name="message"
               ></textarea>
             </div>
-          </label>
-        </p>
-        <p
+          </div>
+        </div>
+        <div
           style={{
             marginBottom: rhythm(2.0),
           }}
@@ -73,7 +73,7 @@ const ContactPage = ({ data, location }) => {
             We will not share, sell or spam your email.
           </div>
           <button type="submit">Send</button>
-        </p>
+        </div>
       </form>
     </Layout>
   )
