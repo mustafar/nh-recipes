@@ -24,6 +24,7 @@ const ContactPage = ({ data, location }) => {
       >
         <h3>Send us a message.</h3>
         <h6>Please be nice 🙏</h6>
+        <input type="hidden" name="form-name" value="contact" />
         <p
           style={{
             marginTop: rhythm(2.0),
