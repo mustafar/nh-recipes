@@ -76,7 +76,7 @@ const Layout = ({ location, title, children }) => {
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </div>
-        <div>
+        <div style={{ marginRight: rhythm(0.5) }}>
           <a href="/contact">Contact</a>
         </div>
       </footer>

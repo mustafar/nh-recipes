@@ -3,7 +3,7 @@ title: Hara Matar Pulao
 date: 2020-07-16T22:46:18.328Z
 description: Rice with green peas
 credit: Zahra Rizvi  
-category: Vegetarian Entrée
+category: Rice Entrée
 ---
 
 # Ingredients

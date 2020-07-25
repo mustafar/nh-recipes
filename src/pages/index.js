@@ -18,39 +18,65 @@ const BlogIndex = props => {
   const [state, setState] = useState({
     filteredPosts: [],
     query: undefined,
+    category: undefined,
   });
 
-  const { filteredPosts, query } = state;
-  const posts = filteredPosts && query ? filteredPosts : allPosts;
+  const { filteredPosts, query, category } = state;
+  const posts = filteredPosts && (query || category) ? filteredPosts : allPosts;
 
   const handleInputChange = event => {
     const query = event.target.value;
-    const { data } = props;
-    // this is how we get all of our posts
+    const { data  } = props;
+    const { category } = state;
     const posts = data.allMarkdownRemark.edges || [];
-     // return all filtered posts
-    const filteredPosts = posts.filter(post => {
+    const filteredPosts = filterPosts({ posts, query, requestedCategory: category })
+
+    // update state according to the latest query and results
+    setState({
+      query,
+      category,
+      filteredPosts,
+    });
+  }
+
+  const handleCategoryChange = event => {
+    const category = event.target.value;
+    const { data } = props;
+    const { query } = state;
+    const posts = data.allMarkdownRemark.edges || [];
+    const filteredPosts = filterPosts({ posts, query, requestedCategory: category })
+
+    // update state according to the latest query and results
+    setState({
+      query,
+      category,
+      filteredPosts,
+    });
+  }
+
+  const filterPosts = ({ posts, query, requestedCategory }) => {
+    console.log(query, requestedCategory)
+    return posts.filter(post => {
       // destructure data from post frontmatter
       const { category, credit, description, title, tags } = post.node.frontmatter;
-      return (
-        // standardize data with .toLowerCase()
-        // return true if the description, title or tags
-        // contains the query string
+      // standardize data with .toLowerCase()
+      // return true if the description, title or tags
+      // contains the query string
+      const queryMatches = !query ||
         description.toLowerCase().includes(query.toLowerCase()) ||
         title.toLowerCase().includes(query.toLowerCase()) ||
-        category?.toLowerCase().includes(query.toLowerCase()) ||
         credit?.toLowerCase().includes(query.toLowerCase()) ||
         (tags && tags
           .join("") // convert tags from an array to string
           .toLowerCase()
           .includes(query.toLowerCase()))
-      );
-    });
 
-    // update state according to the latest query and results
-    setState({
-      query, // with current query string from the `Input` event
-      filteredPosts, // with filtered data from posts.filter(post => (//filteredPosts)) above
+      // category should match exactly unless empty
+      const categoryMatches = requestedCategory
+          ? requestedCategory === category
+          : true
+
+      return queryMatches && categoryMatches
     });
   }
 
@@ -66,13 +92,37 @@ const BlogIndex = props => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Narauli House Recipes" pathname={location.pathname} />
       <Bio />
-      <input
-        type="text"
-        aria-label="Search"
-        placeholder="🔍 Search..."
-        onChange={debounceEventHandler(handleInputChange, DEBOUNCE_MS)}
-        style={{ marginBottom: rhythm(0.5) }}
-      />
+      <div
+        style={{
+          display: 'flex',
+          alignItems: 'flex-end',
+          borderBottom: '2px solid gray',
+        }}
+      >
+        <input
+          type="text"
+          aria-label="Search"
+          placeholder="🔍 Search..."
+          onChange={debounceEventHandler(handleInputChange, DEBOUNCE_MS)}
+          style={{ border: 0, marginBottom: 0 }}
+        />
+        <select
+          onChange={handleCategoryChange}
+          style={{
+            border: 0,
+            padding: '0 6px 6px',
+          }}
+        >
+          <option value="">All</option>
+          <option value="Condiment">Condiments</option>
+          <option value="Appetizer">Appetizers</option>
+          <option value="Non-Vegetarian Entrée">Non-Veg</option>
+          <option value="Vegetarian Entrée">Veg</option>
+          <option value="Rice Entrée">Rice</option>
+          <option value="Dessert">Desserts</option>
+        </select>
+      </div>
+
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
