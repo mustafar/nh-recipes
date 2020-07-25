@@ -111,6 +111,7 @@ const BlogIndex = props => {
           style={{
             border: 0,
             padding: '0 6px 6px',
+            '-webkit-appearance': 'none',
           }}
         >
           <option value="">All</option>
