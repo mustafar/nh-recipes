@@ -1,5 +1,5 @@
 ---
-title: Saghpehta
+title: "Saghpeita (Sarpehta) "
 date: 2020-07-24T13:31:38.243Z
 description: Daal spinach dish
 credit: "Yasmin Naqvi "
