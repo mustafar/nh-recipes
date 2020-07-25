@@ -1,16 +1,18 @@
 ---
 title: Dahi Baigan
 date: 2020-07-24T13:23:23.449Z
-description: Eggplant and yogurt
+description: Eggplant and yogurt mash
 credit: Yasmin Naqvi (Zeba Zaidi)
 category: Vegetarian Entrée
 ---
+Difficulty: Easy  
+
 # Ingredients:
-* 300g ound eggplant (_baigan_)
+* 300g round eggplant (_baigan_)
 * 250g yogurt
 * 100g oil
 * 1 medium onion, chopped
-* 2 green chile (_hari mirch_)
+* 2 green thai chiles (_hari mirch_)
 * 75g green coriander (_dhania ki patti_)
 * Salt, to taste
 * ¼ tsp red chile (_lal mirch_) powder
@@ -18,7 +20,6 @@ category: Vegetarian Entrée
 * Pinch of black mustard seeds (_rai_)
 * Few leaves of sweet neem (_kari patta_)
 * 2 whole dry red chiles
-      
 
 # Directions
 Wash the eggplants and dry. Cut them into thick round slices. 

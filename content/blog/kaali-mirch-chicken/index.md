@@ -10,7 +10,7 @@ category: Non-Vegetarian Entrée
 Servings: 4  
 Prep Time: 40 mins  
 Cooking Time: 15 - 20 mins  
-Difficult: Easy  
+Difficult: Medium  
 
 # Ingredients
 - 1kg chicken, medium pieces, bone-in
@@ -22,7 +22,7 @@ Difficult: Easy
 - 1-2 bay leaves (_tez patta_)
 - 2 onions, finely chopped
 - 300g yogurt, whisked
-- 2-3 green chiles (_hari mirch_) (optional)
+- 2-3 green thai chiles (_hari mirch_) (optional)
 - 1 tbsp coriander powder (_dhania powder_) (optional)
 - 1 tsp garam masala 
 - 2-3 tbsp cream (optional)

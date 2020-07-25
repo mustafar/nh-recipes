@@ -10,7 +10,7 @@ category: Vegetarian Entrée
 * 100g bathua saaf or spinach (_palak_)
 * 50g fresh dill (_soya_)
 * 1 inch piece ginger
-* 3 medium green chiles (_hari mirch_)
+* 3 medium green thai chiles (_hari mirch_)
 * Salt, tsp per taste
 * ¼ tsp red chile (_lal mirch_) powder
 * 1 medium onion
