@@ -63,15 +63,21 @@ const Layout = ({ location, title, children }) => {
     >
       <header className={`${!isHomePage ? "home-link" : ""}`}>{header}</header>
       <main className={`${isHomePage ? "home-main" : ""} site-content`}>{children}</main>
-      <footer>
-        <div
-          style={{
-            fontSize: 'small',
-          }}
-        >
+      <footer
+        style={{
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'flex-end',
+          fontSize: 'small',
+        }}
+      >
+        <div>
           © {new Date().getFullYear()}, built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
+        </div>
+        <div>
+          <a href="/contact">Contact</a>
         </div>
       </footer>
     </div>
