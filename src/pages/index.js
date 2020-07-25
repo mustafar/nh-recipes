@@ -116,6 +116,7 @@ const BlogIndex = props => {
             appearance: 'none',
             fontWeight: 'bold',
             color: '#ff5700',
+            cursor: 'pointer',
           }}
         >
           <option value="">All</option>
