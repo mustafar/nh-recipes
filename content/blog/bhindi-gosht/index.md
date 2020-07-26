@@ -38,4 +38,4 @@ Add water and pressure cook for 20 minutes. A thickish curry is desirable. Once 
 Move the cooker around so that the okra mixes in well with the curry. Bring to a boil and check to see if tender.
 
 # Tips
-> This recipe is best server with Rumaali roti
+> This recipe is best served with Rumaali roti
