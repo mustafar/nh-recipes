@@ -1,11 +1,11 @@
 ---
-title: Saghpeita (Sarpehta)
+title: Saghpehta (Sarpehta)
 date: 2020-07-24T13:31:38.243Z
 description: Daal and spinach dish
 credit: Yasmin Naqvi
 category: Vegetarian Entrée
 ---
-# Ingredients:
+# Ingredients
 * 100g maash or urad daal (green variety with skin (_chilka_))             
 * 100g bathua saaf or spinach (_palak_)
 * 50g fresh dill (_soya_)
@@ -22,6 +22,6 @@ category: Vegetarian Entrée
 # Directions
 First clean and chop the bathua and soya. Remove all the thick stems. Wash and drain.
 
-Wash the daal and put into a pressure cooker. Add the chopped and well drained greens. Add chopped ginger, green chile, salt, red chile powder. Add 2½ cups of water. Pressure cook for 10-12 minutes. On opening, stir well and adjust the thickness of the saghpaeta. It should not be too thin.
+Wash the daal and put into a pressure cooker. Add the chopped and well drained greens. Add chopped ginger, green chile, salt, red chile powder. Add 2½ cups of water. Pressure cook for 10-12 minutes. On opening, stir well and adjust the thickness of the saghpehta. It should not be too thin.
 
-Now prepare the seasoning. In a small fry pan warm the ghee and add the sliced onions. Once nearly brown add the whole red chile, cumin and asafoetida. Pour over the saghpaeta and serve. It is eaten with plain rice.
+Now prepare the seasoning. In a small fry pan warm the ghee and add the sliced onions. Once nearly brown add the whole red chile, cumin and asafoetida. Pour over the saghpehta and serve. It is eaten with plain rice.

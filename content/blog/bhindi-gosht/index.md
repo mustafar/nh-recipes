@@ -5,7 +5,7 @@ description: Mutton and okra curry
 credit: Fakhrun Nisa (Nanna)
 category: Non-Vegetarian Entrée
 ---
-# Ingredients:
+# Ingredients
 * ½ kg mutton
 * 250g okra (_bhindi_)
 * 100g yogurt

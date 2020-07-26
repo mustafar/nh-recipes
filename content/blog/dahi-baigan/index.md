@@ -7,7 +7,7 @@ category: Vegetarian Entrée
 ---
 Difficulty: Easy  
 
-# Ingredients:
+# Ingredients
 * 300g round eggplant (_baigan_)
 * 250g yogurt
 * 100g oil

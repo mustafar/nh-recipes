@@ -68,7 +68,7 @@ const Layout = ({ location, title, children }) => {
           display: 'flex',
           justifyContent: 'space-between',
           alignItems: 'flex-end',
-          fontSize: 'small',
+          fontSize: 'medium',
         }}
       >
         <div>

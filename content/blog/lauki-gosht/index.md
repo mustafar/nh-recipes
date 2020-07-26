@@ -5,7 +5,7 @@ description: Mutton cooked with bottle gourd
 credit: Sameera Rizvi. Originally, Nayaz Bhai
 category: Non-Vegetarian Entrée
 ---
-# Ingredients:
+# Ingredients
 
 * 500 gms of mutton
 * 1 kg of bottle gourd (lauki), peeled, de-seeded and diced

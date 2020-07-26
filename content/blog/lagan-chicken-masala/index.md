@@ -8,7 +8,7 @@ category: Non-Vegetarian Entrée
 Servings: 4-5  
 Cooking Time: 40 mins  
 
-# Ingredients:
+# Ingredients
 * 1 kg chicken
 * 20g yogurt
 * 8-10 cashews
