@@ -27,14 +27,23 @@ category: Non-Vegetarian Entrée
 # Method
 
 Wash the liver and kidney pieces well....with at least three rounds of water. Drain well and then mix in 1tsp cumin pwd and 1tsp of garlic
+
 Set aside for 15-20 minutes.
+
 Now finally wash once again. The cumin and garlic should have completely removed the raw smell of the meat.
+
 Now drain well.
+
 In the meanwhile chop the onions. In a 5 liter pressure cooker pour in the oil. 
+
  Once it is warm enough add the sliced onions and saute to a golden brown. Add the meat and saute till dry.
-Now add the remainder of the garlic paste and ginger
- Add the cinnamon stick, large cardamom and bay leaves
-When.the oil separates add salt, chili powder, turmeric, roasted  coriander and cumin powder, and garam masala.
+
+Now add the remainder of the garlic paste and ginger.Add the cinnamon stick, large cardamom and bay leaves
+When the oil separates add salt, chili powder, turmeric, roasted  coriander and cumin powder, and garam masala.
+
 Now add the curd and continue to saute
-When the oil separates add some water and pressure cook for about 12-15 minutes. The curry should be thickish. Garnish with green coriander leaves.
+
+When the oil separates add some water and pressure cook for about 12-15 minutes. The curry should be thickish. 
+Garnish with green coriander leaves.
+
 This preparation along with roghani tikiya makes a popular and delicious  breakfast on Bakhreed day.
