@@ -2,7 +2,7 @@
 title: Gurda Kaleji
 date: 2020-07-28T18:25:50.872Z
 description: Specialty consisting of  liver and kidney in a curry
-credit: "By Yasmin Naqvi (Akhlaqun Nisa )  "
+credit: " Yasmin Naqvi (Akhlaqun Nisa )  "
 category: Non-Vegetarian Entrée
 ---
 # Ingredients:
