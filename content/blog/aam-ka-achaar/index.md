@@ -17,7 +17,7 @@ Difficulty: Easy
 * 1 tsp red chile (*lal mirch*) powder
 * 2 tsps fennel seeds (*saunf*)
 * 1½ tsps mustard seed (*rai*) powder
-* ¼ tsp fenugreeg (*methi*) powder
+* ¼ tsp fenugreek (*methi*) powder
 * ½ tsp onion seeds (*kalonji*)
 * ½ to 1 cup mustard oil
 
