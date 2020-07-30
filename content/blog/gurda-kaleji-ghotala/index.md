@@ -22,7 +22,7 @@ Difficulty: Easy
 * 6-8 cloves of garlic (_laung_), for washing liver and kidney
 * 1 tbsp fresh ginger garlic paste
 * ½ medium tomato, for gravy
-* 3-4 green chile (_hari mirch_), for garnishing
+* 3-4 green thai chiles (_hari mirch_), for garnishing
 * Dania leaves (_dhania ki patti_), for garnishing
 
 ### Sookha Sabut Masala
