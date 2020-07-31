@@ -26,7 +26,7 @@ Difficulty: Medium
 ### Garam Masala
 * 1 cinnamon stick
 * 4 cardamom pods (_elaichi_) 
-* 1 large cardamom pod (_badi elaichi_) 
+* 1 large black cardamom pod (_badi elaichi_) 
 * 6 black peppercorns (_kali mirch_)
 * 4 cloves (_laung_)
 

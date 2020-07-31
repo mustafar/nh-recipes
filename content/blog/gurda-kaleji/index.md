@@ -1,49 +1,40 @@
 ---
 title: Gurda Kaleji
 date: 2020-07-28T18:25:50.872Z
-description: Specialty consisting of  liver and kidney in a curry
-credit: " Yasmin Naqvi (Akhlaqun Nisa )  "
+description: Local delicacy made from liver and kidneys
+credit: Yasmin Naqvi (Akhlaqun Nisa)
 category: Non-Vegetarian Entrée
 ---
-# Ingredients:
-
+# Ingredients
 * Goat Liver and kidney- Half kilo in pieces   
-* Garlic paste.  4 tsp
-* Ginger paste.  2 tsp
-* Onions  2 medium
-* Cumin pwd  2 tsp (roasted)
-* Turmeric 1 tsp
-* Coriander pwd 1 1/2 tsp
-* Garam Masala. 1 tsp
-* Cinnamon 1 stick
-* Cardamom ( large) 1 pod
-* Bay Leaves  2
-* Coriander leaves 20 grams chopped\
-* Salt   as per taste
-* Curd 200 grams
-* Chili powder  half tsp
-* Oil  1/3 cup
+* 4 tsp garlic paste
+* 2 tsp ginger paste
+* 2 medium onions
+* 2 tsp cumin (_zeera_) powder, roasted
+* 1 tsp turmeric (_haldi_) powder
+* 1½ tsp coriander seed (_dhania_) powder
+* 1 tsp garam gasala
+* 1 cinnamon stick
+* 1 large black cardamom pod (_badi elaichi_)
+* 2 bay leaves (_tez patta_)
+* 20g coriander leaves (_dhania ki patti_), chopped
+* Salt, to taste
+* 200g yogurt
+* ½ tsp red chile (_lal mirch_) powder
+* ⅓ cup oil
 
-# Method
+# Directions
+Wash the liver and kidney pieces well with at least three rounds of water. Drain well and then mix in 1 tsp cumin pwd and 1 tsp garlic. Set aside for 15-20 minutes.
 
-Wash the liver and kidney pieces well....with at least three rounds of water. Drain well and then mix in 1tsp cumin pwd and 1tsp of garlic
+Now finally wash once again. The cumin and garlic should have completely removed the raw smell of the meat. Drain well after washing.
 
-Set aside for 15-20 minutes.
+Chop the onions. Heat the oil in a 5 liter pressure cooker. Once it is warm enough add the sliced onions and sauté to a golden brown. Add the meat and sauté till dry.
 
-Now finally wash once again. The cumin and garlic should have completely removed the raw smell of the meat.
-
-Now drain well.
-
-In the meanwhile chop the onions. In a 5 liter pressure cooker pour in the oil. 
-
- Once it is warm enough add the sliced onions and saute to a golden brown. Add the meat and saute till dry.
-
-Now add the remainder of the garlic paste and ginger.Add the cinnamon stick, large cardamom and bay leaves
-When the oil separates add salt, chili powder, turmeric, roasted  coriander and cumin powder, and garam masala.
-
-Now add the curd and continue to saute
+Now add the remainder of the garlic paste and ginger. Add the cinnamon stick, large cardamom and bay leaves. When the oil separates add salt, chile powder, turmeric, roasted coriander and cumin powder, and garam masala. Then add the yogurt and continue to sauté.
 
 When the oil separates add some water and pressure cook for about 12-15 minutes. The curry should be thickish. 
+
 Garnish with green coriander leaves.
 
-This preparation along with roghani tikiya makes a popular and delicious  breakfast on Bakhreed day.
+# Tips
+> This recipe goes well with roghani tikiya — a popular breakfast on Bakhreed day.
