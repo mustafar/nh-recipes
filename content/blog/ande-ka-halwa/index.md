@@ -1,6 +1,6 @@
 ---
 title: Ande ka Halwa
-date: 2020-07-19T14:02:54.144Z
+date: 2020-07-31T01:08:00Z
 description: Egg halwa
 credit: Homa Zaidi. Originally, Hamida Rizvi
 category: Dessert
@@ -32,4 +32,4 @@ Sprinkle all aromatic ingredients evenly once desired consistency is reached. If
 While warm make diamond shaped or square cuts.
 
 # Tips
-> Use less sugar if you prefer mild er sweetness.
+> Use less sugar if you prefer milder sweetness.
