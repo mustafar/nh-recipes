@@ -5,7 +5,7 @@ description: Vermicelli cooked in milk and khoya
 credit: Saeeda Zaidi
 category: Dessert
 ---
-![sewain](seewain.jpeg)  
+![sewain](sewain.jpeg)
 Photo Credit: Salim Rizvi  
 
 # Ingredients

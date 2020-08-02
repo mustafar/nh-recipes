@@ -105,12 +105,12 @@ const BlogIndex = props => {
           style={{ border: 0, marginBottom: 0 }}
         />
         <select
-          onBlur={handleCategoryChange}
+          onChange={handleCategoryChange}
           style={{
             border: 0,
             padding: '0 6px 6px',
-            '-webkit-appearance': 'none',
-            '-moz-appearance': 'none',
+            WebkitAppearance: 'none',
+            MozAppearance: 'none',
             appearance: 'none',
             fontWeight: 'bold',
             color: '#ff5700',
