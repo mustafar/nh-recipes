@@ -10,7 +10,7 @@ Difficulty: High
 
 # Ingredients
 - 8 eggs
-- 1 litre full fat milk
+- 1 liter full fat milk
 - 500g sugar 
 - 250g clarified butter (_ghee_), plus some extra for smearing on plate
 - 2-3 tsp rose water (_kewra_) or culinary rose water
@@ -25,9 +25,9 @@ Crush and soak saffron in kewra water or rose water.
 
 Boil milk and cool completely. If using carton milk use at room temperature. 
 
-Add eggs, ghee, and sugar to the milk. Bring to boil while stirring very carefully and continuously. Once it boils, reduce heat to a low flame and keep stirring till halwa turns from pink to just about light brown. This will take nearly two hours. When this stage is reached, it is likely to set well, and pieces can be cut into diamonds or squares. The alternative option is to cook till a nice pink, then it will be softer, and can be eaten by a spoon.
+Add eggs, ghee, and sugar to the milk. Bring to boil while stirring very carefully and continuously. Once it boils, reduce heat to a low flame and keep stirring till halwa turns from pink to just about light brown. This will take nearly two hours. When this stage is reached, it is likely to set well, and pieces can be cut into diamonds or squares. The alternative option is to cook till a nice pink. Then the halwa will be softer and can be eaten with a spoon.
 
-Sprinkle all aromatic ingredients evenly once desired consistency is reached. If setting, pat down in a plate, and if desired, drain ghee now. While hot, sprinkle kewra water or rose water with saffron mixed evenly. Mix cardamom and nutmeg powders and sprinkle on halwa as well. 
+Sprinkle all aromatic ingredients evenly once desired consistency is reached. If setting, pat down in a plate. If desired drain ghee now. While hot, sprinkle kewra water or rose water with saffron mixed evenly. Mix cardamom and nutmeg powders and sprinkle on halwa as well. 
 
 While warm make diamond shaped or square cuts.
 

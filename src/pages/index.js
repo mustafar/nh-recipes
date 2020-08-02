@@ -8,7 +8,6 @@ import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
 
 const DEBOUNCE_MS = 200;
-
 const BlogIndex = props => {
   const { data, location } = props;
 
@@ -55,7 +54,6 @@ const BlogIndex = props => {
   }
 
   const filterPosts = ({ posts, query, requestedCategory }) => {
-    console.log(query, requestedCategory)
     return posts.filter(post => {
       // destructure data from post frontmatter
       const { category, credit, description, title, tags } = post.node.frontmatter;
@@ -107,7 +105,7 @@ const BlogIndex = props => {
           style={{ border: 0, marginBottom: 0 }}
         />
         <select
-          onChange={handleCategoryChange}
+          onBlur={handleCategoryChange}
           style={{
             border: 0,
             padding: '0 6px 6px',

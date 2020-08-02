@@ -9,9 +9,11 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+
+import JsonLd from './jsonld';
 import socialSharingImage from '../../content/assets/social-pic.png'
 
-const SEO = ({ description, lang, meta, title, pathname }) => {
+const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -55,6 +57,10 @@ const SEO = ({ description, lang, meta, title, pathname }) => {
           content: metaDescription,
         },
         {
+          name: 'article:author',
+          content: credit,
+        },
+        {
           property: `og:title`,
           content: title,
         },
@@ -96,6 +102,15 @@ const SEO = ({ description, lang, meta, title, pathname }) => {
         }
       ]
         .concat(meta)}
+
+      script={[{
+        type: 'text/javascript',
+        innerHTML: JsonLd({
+          isRecipe: pageType === 'article',
+          canonicalPath: canonical,
+          post,
+        }),
+      }]}
     />
   )
 }
