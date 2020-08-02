@@ -19,7 +19,10 @@ export default ({ isRecipe, canonicalPath, post }) => {
 
   return (
     <Helmet>
-      <script type="application/ld+json">{JSON.stringify(jsonLdPayload)}</script>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdPayload) }}
+      />
     </Helmet>
   )
 }
