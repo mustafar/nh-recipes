@@ -102,16 +102,13 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
         }
       ]
         .concat(meta)}
-
-      script={[{
-        type: 'text/javascript',
-        innerHTML: JsonLd({
-          isRecipe: pageType === 'article',
-          canonicalPath: canonical,
-          post,
-        }),
-      }]}
-    />
+    >
+      <JsonLd
+        isRecipe={pageType === 'article'}
+        canonicalPath={canonical}
+        post={post}
+      />
+    </Helmet>
   )
 }
 

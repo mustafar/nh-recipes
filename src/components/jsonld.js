@@ -1,6 +1,9 @@
+import React from 'react'
+import Helmet from 'react-helmet'
+
 export default ({ isRecipe, canonicalPath, post }) => {
   if (!isRecipe || !post) {
-    return '';
+    return null
   }
 
   const jsonLdPayload = {
@@ -12,7 +15,11 @@ export default ({ isRecipe, canonicalPath, post }) => {
     author: post.frontmatter.credit,
     recipeCategory: post.frontmatter.category,
     datePublished: post.frontmatter.date,
-  };
+  }
 
-  return JSON.stringify(jsonLdPayload);
+  return (
+    <Helmet>
+      <script type="application/ld+json">{JSON.stringify(jsonLdPayload)}</script>
+    </Helmet>
+  )
 }
