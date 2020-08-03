@@ -35,7 +35,6 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
   const pageType = pathname ? 'article' : 'website'
 
   return (
-    <>
       <Helmet
         htmlAttributes={{
           lang,
@@ -103,13 +102,13 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
           }
         ]
           .concat(meta)}
-      />
-      <JsonLd
-        isRecipe={pageType === 'article'}
-        canonicalPath={canonical}
-        post={post}
-      />
-    </>
+      >
+        <JsonLd
+          isRecipe={pageType === 'article'}
+          canonicalPath={canonical}
+          post={post}
+        />
+      </Helmet>
   )
 }
 
