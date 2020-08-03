@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-import JsonLd from './jsonld';
+import jsonLd from './jsonld';
 import socialSharingImage from '../../content/assets/social-pic.png'
 
 const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
@@ -103,11 +103,13 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
         ]
           .concat(meta)}
       >
-        <JsonLd
-          isRecipe={pageType === 'article'}
-          canonicalPath={canonical}
-          post={post}
-        />
+        <script type="application/ld+json">
+          {`${jsonLd({
+            isRecipe: pageType === 'article',
+            canonicalPath: canonical,
+            post,
+          })}`}
+        </script>
       </Helmet>
   )
 }

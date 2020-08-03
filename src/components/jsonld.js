@@ -1,4 +1,3 @@
-import React from 'react'
 import { map } from 'lodash'
 
 // hacky funct to parse strint to iso8601 duration
@@ -69,12 +68,7 @@ export default ({ isRecipe, canonicalPath, post }) => {
 
     console.log('json+ld: ', JSON.stringify(jsonLdPayload)) // todo remove
 
-    return (
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdPayload) }}
-      />
-    )
+    return JSON.stringify(jsonLdPayload)
   } catch (err) {
     console.log('oops something went wrong with json+ld', err)
     return null
