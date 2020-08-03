@@ -2,6 +2,7 @@
 title: Khade Masale ka Gosht
 date: 2020-07-06T00:47:00.000Z
 description: Meat curry cooked with coarse and whole spices
+credit: "Salim Rizvi "
 category: Non-Vegetarian Entrée
 ---
 # Ingredients 
