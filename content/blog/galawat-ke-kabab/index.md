@@ -2,6 +2,7 @@
 title: Galawat ke Kabab
 date: 2020-07-05T02:20:00.000Z
 description: Soft Awadhi kababs
+credit: Salim Rizvi ... from the homes of Lucknow
 category: Non-Vegetarian Entrée
 ---
 # Ingredients
@@ -22,7 +23,7 @@ category: Non-Vegetarian Entrée
 * a pinch of red chile powder
 * Sprinkle of ghee, used while frying kababs
 * Sprinkle of milk, used while frying kababs
-* 50–75g of gram flour (_bhuna besan_), used to mix in the kidney fat
+* 50–75g of gram flour (_bhuna besan_)used max if no Kidney fat is used
 * salt, to taste
 
 ### For Galawat ka masala

@@ -1,7 +1,7 @@
 ---
 title: Gurda Kaleji
 date: 2020-07-28T18:25:50.872Z
-description: Local delicacy made from liver and kidneys
+description: Local delicacy made from liver and kidneys (Goat)
 credit: Yasmin Naqvi (Akhlaqun Nisa)
 category: Non-Vegetarian Entrée
 ---
