@@ -6,7 +6,7 @@ credit: Reza Rizvi. Originally, Nayaz Bhai
 category: Rice Entrée
 ---
 ![biryani](lucknowi-biryani.jpeg)
-Photo Credit: Sameera Rizvi  
+Photo Credit: Sameera Rizvi, Hala Jafri
 
 Difficulty: Hard  
 
@@ -28,7 +28,13 @@ Difficulty: Hard
 # Directions
 In a pressure cooker heat oil and brown the onions. When lightly browned add the cloves and cardamom cook for a few seconds then add the meat. Cook till the meat changes colour.
 
-Add ginger garlic paste cook for another 8-10 minutes on medium heat. Add in the salt red chile powder and the yogurt. Keep stirring till the water dries up. Add about 1.5 cups of water and cook till the meat is tender (approximately for 15 minutes on low flame after the first whistle). Once the meat has cooked through, dry any remaining water on high flame. You should have a thick gravy now.
+![1](step1.jpeg)
+
+![2](step2.jpeg)
+
+Add ginger garlic paste cook for another 8-10 minutes on medium heat. Add in the salt, red chile powder and the yogurt. Keep stirring till the water dries up. Add about 1.5 cups of water and cook till the meat is tender — approximately 15 minutes on low flame after the first whistle. Once the meat has cooked through, dry any remaining water on high flame. You should have a thick gravy now.
+
+![3](step3.jpeg)
 
 Soak rice for 20 minutes. Boil it in water with salt, cloves and cardamom until it’s nearly cooked. The rice should break into two parts between the fingers. Drain excess water.
 

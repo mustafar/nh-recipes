@@ -5,9 +5,7 @@ description: Kababs baked in oven
 credit: Homa Zaidi. Originally, Rabab Naqvi
 category: Non-Vegetarian Entrée
 ---
-![](aa974a6b-73f7-4013-8af2-dd5faf5f82b4.jpeg)
-
-
+![baked kababs](aa974a6b-73f7-4013-8af2-dd5faf5f82b4.jpeg)
 
 Difficulty: Medium
 
