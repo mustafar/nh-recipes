@@ -9,7 +9,7 @@ category: Non-Vegetarian Entrée
 
 Servings: 4  
 Prep Time: 40 mins  
-Cooking Time: 15 - 20 mins  
+Cook Time: 20 mins  
 Difficult: Medium  
 
 # Ingredients

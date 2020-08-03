@@ -6,7 +6,7 @@ credit: Homa Zaidi
 category: Vegetarian Entrée
 ---
 Servings: 4-5  
-Cooking Time: 25 mins  
+Cook Time: 25 mins  
 Difficulty: Easy  
 
 # Ingredients 

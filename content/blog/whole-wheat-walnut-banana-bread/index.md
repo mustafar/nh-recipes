@@ -7,8 +7,8 @@ category: Dessert
 ---
 ![](banana-bread.jpeg)
 
-Prep time: 15 minutes  
-Cooking time: 50 minutes  
+Prep time: 15 mins  
+Cook Time: 50 mins  
 Serves: 4-6 people  
 Course: Tea Time  
 

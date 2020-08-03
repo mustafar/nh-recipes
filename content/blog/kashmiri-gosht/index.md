@@ -6,7 +6,7 @@ credit: Masooma Zaidi
 category: Non-Vegetarian Entrée
 ---
 Servings: 5  
-Cooking Time: 45 mins  
+Cook Time: 45 mins  
 
 # Ingredients
 * 1 kg mutton

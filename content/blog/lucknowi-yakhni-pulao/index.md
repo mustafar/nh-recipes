@@ -6,7 +6,7 @@ credit: Masooma Zaidi
 category: Rice Entrée
 ---
 Servings: 4-5  
-Cooking time: 1 hour  
+Cook Time: 1 hour  
 Difficulty: Hard  
 
 # Ingredients

@@ -6,7 +6,7 @@ credit: Ahmad Rizvi
 category: Non-Vegetarian Entrée
 ---
 Servings: 2-3  
-Cooking Time: 30 mins  
+Cook Time: 30 mins  
 Difficulty: Easy  
 
 # Ingredients

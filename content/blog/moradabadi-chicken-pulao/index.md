@@ -6,7 +6,7 @@ credit: Ahmad Rizvi
 category: Rice Entrée
 ---
 Servings: 3  
-Cooking Time: 30 mins  
+Cook Time: 30 mins  
 Difficulty: Easy  
 
 # Ingredients

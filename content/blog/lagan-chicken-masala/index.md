@@ -6,7 +6,7 @@ credit: Masooma Zaidi
 category: Non-Vegetarian Entrée
 ---
 Servings: 4-5  
-Cooking Time: 40 mins  
+Cook Time: 40 mins  
 
 # Ingredients
 * 1 kg chicken
