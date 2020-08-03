@@ -1,7 +1,7 @@
 ---
 title: Ande ka Halwa
-date: 2020-07-31T01:08:00Z
-description: Egg halwa
+date: 2020-07-31T01:08:00.000Z
+description: Halwa made of Eggs
 credit: Homa Zaidi. Originally, Hamida Rizvi
 category: Dessert
 ---
