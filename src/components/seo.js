@@ -34,6 +34,17 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
     : `${site.siteMetadata.siteUrl}$/`
   const pageType = pathname ? 'article' : 'website'
 
+  const jsonLdPayload = jsonLd({
+    isRecipe: pageType === 'article',
+    canonicalPath: canonical,
+    post,
+  })
+
+  let image = socialSharingImage
+  if (jsonLdPayload && jsonLdPayload.image) {
+    image = jsonLdPayload.image.slice(-1)[0]
+  }
+
   return (
       <Helmet
         htmlAttributes={{
@@ -78,7 +89,7 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
           },
           {
             property: `og:image`,
-            content: socialSharingImage,
+            content: image,
           },
           {
             name: `twitter:card`,
@@ -86,7 +97,7 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
           },
           {
             name: `twitter:image`,
-            content: socialSharingImage,
+            content: image,
           },
           {
             name: `twitter:title`,
@@ -104,11 +115,7 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
           .concat(meta)}
       >
         <script type="application/ld+json">
-          {`${jsonLd({
-            isRecipe: pageType === 'article',
-            canonicalPath: canonical,
-            post,
-          })}`}
+          {`${JSON.stringify(jsonLdPayload)}`}
         </script>
       </Helmet>
   )

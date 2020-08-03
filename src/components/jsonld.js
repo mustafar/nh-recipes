@@ -51,6 +51,7 @@ export default ({ isRecipe, canonicalPath, post }) => {
       datePublished: post.frontmatter.date,
     }
 
+    // parse recipe metrics
     const cookTimeMatch = post.html.match(/Cook Time: ([0-9a-zA-Z\s]*)/)
     if (cookTimeMatch) {
       jsonLdPayload.cookTime = toIsoDuration(cookTimeMatch[1])
@@ -66,9 +67,21 @@ export default ({ isRecipe, canonicalPath, post }) => {
       jsonLdPayload.recipeYield = servingsMatch[1]
     }
 
+    // parse recipe ingredients
+    const startOfDirections = post.html.indexOf("Directions")
+    const ingredientsHtml = post.html.substring(
+      post.html.indexOf("Ingredients"),
+      startOfDirections < 0 ? post.html.length : post.html.indexOf("Directions")
+    )
+    const ingredientsMatch = ingredientsHtml.match(/<li>(.*?)<\/li>/g)
+    if (ingredientsMatch) {
+      jsonLdPayload.recipeIngredient = map(ingredientsMatch, i => i.replace(/<[^>]*>?/gm, ''))
+    }
+    console.log()
+
     console.log('json+ld: ', JSON.stringify(jsonLdPayload)) // todo remove
 
-    return JSON.stringify(jsonLdPayload)
+    return jsonLdPayload
   } catch (err) {
     console.log('oops something went wrong with json+ld', err)
     return null
