@@ -5,6 +5,8 @@ description: Whole chicken marinated in spices
 credit: Kulsum Haider Zaidi (Soomi)
 category: Non-Vegetarian Entrée
 ---
+![](murg-musallam.jpeg)
+
 # \# INGREDIENTS: -
 
 * 1 Piece of whole chicken (1000 Gram)
@@ -34,7 +36,7 @@ In a Grinder Grind 2 Onions, Ginger & Garlic into fine Paste.
 
 Then Grind all the soaked dry fruits mention above into paste n keep aside.
 
-# METHOD 
+# METHOD
 
 Pour oil in pressure cooker then add all whole spices (Garam Masala).Let it splutter add onion, ginger n garlic paste into it. Add a little ground dry fruit paste & rest keep for filling inside chicken. Add Red chili powder, coriander powder ,and salt & cook the masala till the oil separates.
 
