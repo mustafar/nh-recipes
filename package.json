@@ -43,6 +43,7 @@
     "typography-theme-alton": "^0.16.19"
   },
   "devDependencies": {
+    "eslint-config-react-app": "^5.2.1",
     "prettier": "2.0.5"
   },
   "homepage": "https://nhrecipes.com/",

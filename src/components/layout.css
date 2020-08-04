@@ -1,34 +1,34 @@
 blockquote {
-    background-color: whitesmoke;
-    font-style: normal;
-    margin-right: 0px;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    padding-left: 1.17812rem;
-    padding-right: 1.17812rem;
+  background-color: whitesmoke;
+  font-style: normal;
+  margin-right: 0px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 1.17812rem;
+  padding-right: 1.17812rem;
 }
 
 blockquote.p {
-    margin-right: 10px;
+   margin-right: 10px;
 }
 
 body {
-  color: #373D3F;
+  color: #585858;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 1.5em;
+  margin-top: 1.5em;
 }
 
 header.home-link {
-    border-bottom: 2px solid black;
+   border-bottom: 2px solid #606060;
 }
 
 input:focus,
 select:focus,
 textarea:focus,
 button:focus {
-    outline: none;
+   outline: none;
 }
 
 input, textarea {
@@ -49,7 +49,6 @@ input, textarea {
 
 textarea {
   border-width: 2px;
-
 }
 
 input:focus, textarea:focus {
@@ -57,7 +56,7 @@ input:focus, textarea:focus {
 }
 
 li em {
-    font-weight: 600;
+   font-weight: 600;
 }
 
 main.home-main {
