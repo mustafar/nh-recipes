@@ -5,9 +5,9 @@ description: "Tapioca pearls cooked in veggies "
 credit: Meher Rizvi
 category: Appetizer
 ---
-Sabudana Khichdi
 
-Ingredients
+
+# Ingredients
 	•	440 grams / 2 cups Sabudana before soaking
 	•	450 ml/ 2 cups water
 	•	2 tablespoon oil
@@ -23,7 +23,7 @@ Ingredients
 	•	1 tablespoon Lemon juice or to taste
 	•	Fistful of Chopped cilantro for garnishing
 
-Instructions
+# Instructions
 	•	In a big wide bowl soak sabudana by adding just enough water to cover them . Just 1/4 inch more     than sabudana level.
 	•	Soak covered for 5-6 hours , preferably overnight.
 	•	Sabudana will fluff up after soaking .
