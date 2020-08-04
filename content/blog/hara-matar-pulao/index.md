@@ -5,6 +5,8 @@ description: Rice with green peas
 credit: Zahra Rizvi  
 category: Rice Entrée
 ---
+![pulao](matar-pulao.jpeg)
+Photo Credit: Meher Rizvi
 
 # Ingredients
 * 1 kg basmati rice
@@ -20,3 +22,6 @@ category: Rice Entrée
 Soak rice for 30 minutes. Put all aromatic masala in ghee in a pot (_patili_). Add matar and salt. 
 
 When matar is half tender, add rice without water. Stir and add water to cover an inch above rice. Wait until the first boil then reduce the flame, cover lid and cook till tender.
+
+# Tips
+> Traditionally, this pulao is garnished with fried onion.
