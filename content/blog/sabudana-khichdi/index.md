@@ -1,5 +1,5 @@
 ---
-title: Sabudana khichdi
+title: Sabudana Khichdi
 date: 2020-08-04T22:23:56.329Z
 description: Tapioca pearl snack
 credit: Meher Rizvi
