@@ -5,16 +5,17 @@ description: Easy chocolate cake with vegan options
 credit: Homa Zaidi
 category: Dessert
 ---
-Difficulty: Easy  
+Difficulty: Easy\
 Cook Time: 40 mins  
 
 Vegan options noted where applicable.
 
 # Ingredients
+
 * 2 cups flour
 * 1¼ tsp baking soda
 * ½ tsp salt
-* 2/3 cup butter plus 3 tbsp (Vegan option: ½ cup oil plus 6¾ tsp)
+* 2/3 cup butter plus 3 tbsp (Vegan option: ½ cup oil plus 2 tbsp plus  6¾ tsp)
 * 1¾ cup sugar
 * 1 tsp vanilla
 * 2 eggs (Vegan option: 2 tbsp chia seeds ground in 6 tbsp water)
@@ -22,6 +23,7 @@ Vegan options noted where applicable.
 * 1¼ cup cold water
 
 # Method
+
 Grease and flour two 9½" baking tins. If using chia seeds, process chia and water till well blended and let congeal.
 
 Mix first three ingredients plus cocoa powder. Keep aside.
