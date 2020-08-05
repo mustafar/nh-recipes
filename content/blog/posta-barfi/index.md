@@ -1,10 +1,11 @@
 ---
 title: Posta Barfi
-date: 2020-07-23T12:39:00Z
+date: 2020-07-23T12:39:00.000Z
 description: Poppy seed and milk sweet
-credit: Homa Zaidi
+credit: Homa Zaidi taught by Aparna Jain
 category: Dessert
---- 
+---
+ 
 Difficulty: Easy
 
 # Ingredients
