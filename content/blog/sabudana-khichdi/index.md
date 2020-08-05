@@ -5,6 +5,8 @@ description: Tapioca pearl snack
 credit: Meher Rizvi
 category: Appetizer
 ---
+![sabudana khichdi](sabudana-khichdi.jpeg)
+Photo Credit: Meher Rizvi
 
 # Ingredients
 * 440g or 2 cups tapioca pearls (_sabudana_), before soaking
