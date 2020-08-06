@@ -1,5 +1,5 @@
 ---
-title: "Kate masaley ke gosht Ki Tehri "
+title: "Kate Masaley ke Gosht ki Tehri "
 date: 2020-08-06T20:36:32.822Z
 description: Rice cooked in meat and spices
 credit: Kulsoom Haider (Soomi)
