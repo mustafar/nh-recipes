@@ -5,7 +5,7 @@ description: "Shrimp cooked in a curry sauce "
 credit: Neeti Zaidi
 category: Non-Vegetarian Entrée
 ---
-
+![](shrimp-curry.jpeg)
 
 # Ingredients
 
@@ -18,8 +18,6 @@ category: Non-Vegetarian Entrée
 * 1 ½ tsp of turmeric
 * Salt to taste
 * 4 tbsp Oil
-
-
 
 # Directions
 
