@@ -15,7 +15,7 @@ Vegan options noted where applicable.
 * 2 cups flour
 * 1¼ tsp baking soda
 * ½ tsp salt
-* 2/3 cup butter plus 3 tbsp (Vegan option: ½ cup oil plus 2 tbsp plus  6¾ tsp)
+* 2/3 cup butter plus 3 tbsp (Vegan option: ½ cup oil plus 6¾ tsp)
 * 1¾ cup sugar
 * 1 tsp vanilla
 * 2 eggs (Vegan option: 2 tbsp chia seeds ground in 6 tbsp water)
