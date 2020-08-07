@@ -42,7 +42,7 @@ category: Non-Vegetarian Entrée
 7. Check salt. Add if needed
 8. Smoke before serving
 
-### Note
+> Tip
 - keep on turning the leg carefully in intervals. 
 - A too heavy raan will make it tough to cook. So the size of raan should be appropriate
 - Keep on putting oil and masala from the pan on the raan in intervals if it is tough to turn
