@@ -1,28 +1,28 @@
 ---
 title: Raan Masala
 date: 2020-08-07T04:01:43.897Z
-description: Leg of lamb marinated and cooked in spices
+description: Leg of lamb/ Goat marinated and cooked in spices
 credit: "Masooma Zaidi "
 category: Non-Vegetarian Entrée
 ---
-# Ingredients 
+# Ingredients
 
-- Mutton Raan (weighing 1 kg)
-- Onions 200 gms
-- Ginger garlic paste- 4 tbsp
-- Curd- 150 gms
-- Cloves-4
-- Green cardamon- 2-3
-- Black cardamon- 1
-- Coriander seeds- 1 tbsp
-- Dry coconut- medium size pc (3 inch)
-- Cashew- 8-10
-- Peanuts- 1 tbsp
-- Poppy seeds- 1 tbsp
-- Dry chilli- 2-3 (according to taste)
-- Coal to smoke
-- Raw papaya or any another tenderiser 
-- Oil/Ghee- 1 and. Half cup around 150ml
+* Mutton Raan (weighing 1 kg)
+* Onions 200 gms
+* Ginger garlic paste- 4 tbsp
+* Curd- 150 gms
+* Cloves-4
+* Green cardamon- 2-3
+* Black cardamon- 1
+* Coriander seeds- 1 tbsp
+* Dry coconut- medium size pc (3 inch)
+* Cashew- 8-10
+* Peanuts- 1 tbsp
+* Poppy seeds- 1 tbsp
+* Dry chilli- 2-3 (according to taste)
+* Coal to smoke
+* Raw papaya or any another tenderiser 
+* Oil/Ghee- 1 and. Half cup around 150ml
 
 ### Preparation
 
@@ -42,7 +42,7 @@ category: Non-Vegetarian Entrée
 7. Check salt. Add if needed
 8. Smoke before serving
 
-# Note: 1. keep on turning the leg carefully in intervals. 
-
-2. A too heavy raan will make it tough to cook. So the size of raan should be appropriate
-3. Keep on putting oil and masala from the pan on the raan in intervals if it is tough to turn
+### Note
+- keep on turning the leg carefully in intervals. 
+- A too heavy raan will make it tough to cook. So the size of raan should be appropriate
+- Keep on putting oil and masala from the pan on the raan in intervals if it is tough to turn
