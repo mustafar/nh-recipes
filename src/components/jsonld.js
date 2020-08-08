@@ -23,9 +23,18 @@ const toIsoDuration = durationString => {
   return `PT${durationParts[0]}${durationType}`
 };
 
-export default ({ isRecipe, canonicalPath, post }) => {
-  if (!isRecipe || !post) {
-    return null
+export default ({ path, canonicalPath, post }) => {
+  if (!post) {
+    if (!path || path === '/') { //home
+      return {
+        "@context": "http://www.schema.org",
+        "@type": "WebSite",
+        "name": "NH Recipes",
+        "alternateName": "Narauli House Recipes",
+        "url": "nhrecipes.com"
+      }
+    }
+    return {}
   }
 
   try {
@@ -77,7 +86,6 @@ export default ({ isRecipe, canonicalPath, post }) => {
     if (ingredientsMatch) {
       jsonLdPayload.recipeIngredient = map(ingredientsMatch, i => i.replace(/<[^>]*>?/gm, ''))
     }
-    console.log()
 
     console.log('json+ld: ', JSON.stringify(jsonLdPayload)) // todo remove
 

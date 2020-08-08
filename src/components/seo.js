@@ -35,7 +35,7 @@ const SEO = ({ post, description, lang, meta, title, pathname, credit }) => {
   const pageType = pathname ? 'article' : 'website'
 
   const jsonLdPayload = jsonLd({
-    isRecipe: pageType === 'article',
+    path: pathname,
     canonicalPath: canonical,
     post,
   })
