@@ -17,9 +17,9 @@ Don't have the time for the [original recipe](/shahi-tukda)? You can make Shahi 
 * 2 cups milk
 * ¾ can condensed milk (or sugar as per taste )
 * ½ tsp cardamom powder 
-* few strands of saffron 
-* sprinkle of kewra water 
-* almonds (optional) for decoration 
+* Few strands of saffron 
+* Sprinkle of kewra water 
+* Almonds for garnishing, optional 
 
 # Directions
 Arrange your rusks cookies in a serving bowl preferably a rectangular 8x11 size serving dish. Put the milk on boil. When slightly thickened add condensed milk. 

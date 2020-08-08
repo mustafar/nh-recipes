@@ -25,9 +25,9 @@ category: Non-Vegetarian Entrée
 * 1½ cup oil or Ghee
 
 ### Preparation
-Clean the mutton leg remove the extra fat. Poke it well with fort or knife. And marinate with raw papaya and salt leave it for 6-8 hours.
+Clean the mutton leg and remove the extra fat. Poke it well with fork or knife. Then marinate with raw papaya and salt. Let it rest for 6-8 hours.
 
-Finely chop the onion. Fry ⅓ of them keep aside. Grind another ⅓ into a fine paste. Save the remaining for later.
+Finely chop the onions. Fry ⅓ of them keep aside. Grind another ⅓ into a fine paste. Save the remaining for later.
 
 Dry roast poppy seeds, coconut and cashews. Grind it into a fine paste with the fried onions.
 
@@ -36,9 +36,9 @@ Dry roast all the spices and grind.
 # Directions
 Heat oil in a large pan preferably mahi tawa so that entire leg fits in. Add oil and fry the remaining ⅓ raw chopped onions till golden brown.
 
-Add the leg and cook till it releases water. Once leg changes its colour add ginger garlic paste cook for 10 mins.
+Add the leg and cook till it releases water. Once the leg changes its colour add ginger garlic paste and cook for 10 mins.
 
-Add yogurt and the spices. Allow it to cook for a while with closed lid.
+Add the yogurt and spices. Allow it to cook for a while with closed lid.
 
 Once leg is 90% done add the masala paste prepared earlier. Check salt and add more if needed.
 
