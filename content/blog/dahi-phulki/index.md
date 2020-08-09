@@ -2,39 +2,47 @@
 title: Dahi Phulki
 date: 2020-08-09T17:16:11.620Z
 description: Gram fritters with yogurt sauce
-credit: Geti Naqvi ( Fazeelat)
+credit: Geti Naqvi (Fazeelat)
 category: Vegetarian Entrée
 ---
 ![](dahi-phulki.jpeg)
 
+Servings: 10-15
+
 # Ingredients
+* 1kg yogurt, preferably slightly tangy
+* 250g gram flour (_besan_)
 
-* Curd = 1 kg (a mix of thick curd n buttermilk would be very apt. Otherwise normal curd slightly tangy)
-* Besan (gram flour) = 250 gms. 
-  (Makes about 35=40 small phulki)
+### For the yofurt
+* 2 tbsp paste of garlic and cumin (_zeera_)
+* 1 tsp red chile powder
+* Salt, to taste
+* 1 tsp roasted zeera powder
 
-### To add to curd -
+### For the phulki batter
+* 1 tsp red chile powder
+* A pinch of salt
+* 1 tsp zeera powder
+* Oil, for frying
 
-* Garlic n zeera paste - 2 tbsp 
-* Red Chilli powder = 1 TSP
-* Salt to taste
-* Roasted zeera powder - 1 TSP
+### For Tempering
+* Mustard seeds (_rai_)
+* Zeera
+* Whole red chile (_saboot lal mirch_)
+* Mustard oil
 
-### To add to PHULKI batter -
+# Directions
+Make a batter of besan and the listed ingredients. Beat it well so there are lots of air bubbles. Batter consistency should neither be runny nor too thick. To test the batter, take a glass of water and add a drop of batter . If it dissolves in water then it's too runny. If its thick but stays at the bottom of the glass then the consistency is right but you need to beat it more and incorporate more air. If the batter is perfectly made the drop rises in water.
 
-* Red Chilli powder - 1 tsp
-* Salt - just a pinch
-* Zeera powder -1 tsp
-* Oil for frying
+In a kadhai or deep pan add enough oil to fry the phulkis. Check that the oil is hot before starting to fry the phulkis. When it is hot enough, turn down the flame to a medium to allow the phulkis to fry throughout and not just the outside
 
-### For Tempering -
+Now drop dollops of batter, with the help of spoon or with your finger, into oil and deep fry till golden. Don't add too many at once because then the phulkis won't be able to fry well. Once you finish frying all. Keep them aside.
 
-Rai, zeera n saboot redchilli nicely tempered in mustard oil
+Take yogurt in a big bowl or vessel and beat it well. It should again be pouring consistency but not runny. Add salt, chile powder, roasted zeera and garlic-zeera paste. Taste and adjust seasoning as needed. Now take the fried phulkis and put in a bowl of water and squeeze before adding to the yogurt bowl.
 
-# Method
+Temper the dahi phulki with zeera, rai and saboot red chile fried in mustard oil. Ready to serve.
 
-1. Make better of besan , n condiments listed. Should be beaten well with lots of air bubbles. Batter consistency should neither be runny nor too thick..  To test if batter is fine n well beaten - take a glass of water n add a drop of batter - if batter dissolves in water then it's not right; it's too runny/ if thick but stays at the bottom of the glass then consistency is right but you need to beat it more n incorporate more air in the batter/ if the drop rises in water....then it's ready to be fried.
-2. In a kadhai or deep pan add enough oil to fry phulki's. 
-3. Now drop with help of spoon or with your finger a few balls of besan in oil n deep fry till golden. Don't add too many at one times as then the phulki's won't be able to fry well. Also when you start frying, check that oil is hot, n when u start putting phulki's put flame on med high, otherwise outside of PHULKI will be fried but inside will be raw. Once you finish frying all. Keep them aside.
-4. Take curd in a big bowl or vessel. Beat it really well, it should again be pouring consistency but not runny. Add salt, rcp, roasted zeera n garlic & zeera paste. Taste n adjust seasoning (phulki has slightly rustic taste with the curd being tangy n chilly unlike dahi bada's wherein the curd is sweet n thick). Now take the PHULKI n put in a bowl of water n squeeze n add to the curd bowl. 
-5. Temper the dahi PHULKI with zeera, rai n saboot red chilli fried in mustard oil. Ready to serve.
+# Tips
+> If you dont have tangy yogurt, you can mix some thick yogurt with buttermilk.
+
+> This dish has a slightly rustic taste with the yogurt being tangy and spicy unlike dahi badas which are served in a thick and sweet yogurt.
