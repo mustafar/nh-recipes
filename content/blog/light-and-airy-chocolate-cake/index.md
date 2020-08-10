@@ -5,6 +5,8 @@ description: Easy chocolate cake with vegan options
 credit: Homa Zaidi
 category: Dessert
 ---
+![](chocolate-cake.jpeg)
+
 Difficulty: Easy\
 Cook Time: 40 mins  
 
