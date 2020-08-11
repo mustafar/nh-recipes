@@ -19,7 +19,7 @@ category: Dessert
 * 2 egg yolk
 * Line base of 20 or 22 cm springform cake pan
 
-# Ingredients
+# Method
 
 * Whisk cream.
 * Add sugar and vanilla essence, whisk to combine
