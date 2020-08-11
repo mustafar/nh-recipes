@@ -5,6 +5,8 @@ description: Indian cheese cooked in a creamy sauce
 credit: Midhat Rizvi
 category: Vegetarian Entrée
 ---
+![](paneer-makhani.jpeg)
+
 # Ingredients
 
 * 500 gms Paneer
