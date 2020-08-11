@@ -27,7 +27,7 @@ Sift together flour, soda, powder, and salt. Keep aside.
 
 Beat butter for half a minute, then add sugars and beat till fluffy.
 
-Add vanilla, milk, and egg, Beat very well.
+Add vanilla, milk, and egg. Beat very well.
 
 Add dry ingredients to butter mixture till thoroughly combined.
 

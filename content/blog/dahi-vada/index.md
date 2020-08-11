@@ -1,7 +1,7 @@
 ---
 title: Dahi Vada
 date: 2020-08-11T02:38:38.160Z
-description: "Fritters soaked in yogurt sauce "
+description: Fritters soaked in yogurt sauce
 credit: Neeti Zaidi
 category: Appetizer
 ---
@@ -11,32 +11,27 @@ category: Appetizer
 
 ### Dal mix
 
-* 1 cup of Urad Dal Split
-* 1 cup Black eyed Beans
-* 1 cup Split Matpe Beans
-* 2 green chilies
+* 1 cup of split urad daal
+* 1 cup black eyed beans
+* 1 cup split Matpe beans
+* 2 green chillies
 * 1 inch ginger
-* 2tbsp Coriander seeds need to be ground in a fine powder[](<>) and mixed in the Vada batter
+* 2 tbsp coriander seeds need to be ground in a fine powder and mixed into the batter
 
-### For Spice mixture
-
-* 1 tsp of red chili powder
+### Spice mixture
+* 1 tsp of red chilli powder
 * 2 tbsp of black salt
 * 3 tbsp of roasted cumin seeds ground
-* Salt to taste
+* Salt, to taste
 
 ### Yogurt mix
-
-* 500 grams of Yogurt beaten with a whisk.
-* salt to taste
+* 500 grams of yogurt beaten with a whisk.
 * 1 tsp of sugar
+* Salt, to taste
 
 # Directions
+Make a nice batter with urad daal and Maple beans flour as well. Once the batter is done, put cold water in and make reasonably sized balls and deep fry to make vadas. Excess oil can be drained on a paper towel.
 
-1. Make a nice batter with Urad Daal Split add Maple Beans Flour as well.
-2. Once the batter is made put cold water in and make reasonable size balls and Deep Fry.
-3. Excess Oil can be drained on a paper towel.
-4. Once the Vadas are made soak them in water for 5 - 7 mins.
-5. Squeeze out the excess water from the Vadas.
-6. Lay them in a plate add beaten yogurt and Tamarind Chutney on the Vadas.
-7. Sprinkle chaat masala over the Vadas to your taste.
+Once the vadas are made soak them in water for 5-7 mins. Squeeze out the excess water from them. Lay them on a plate and add beaten yogurt and tamarind chutney on top.
+
+Sprinkle chaat masala over the vadas to your taste.
