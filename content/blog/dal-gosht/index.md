@@ -1,5 +1,5 @@
 ---
-title: Dal gosht
+title: Dal Gosht
 date: 2020-08-11T20:17:22.531Z
 description: "Meat cooked in bengal gram lentils and spices "
 credit: Seema Rizvi
