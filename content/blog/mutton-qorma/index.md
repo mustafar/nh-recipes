@@ -5,7 +5,10 @@ description: Meat simmered in ginger, garlic and yogurt gravy
 credit: Yasmin Naqvi. Originally, Akhlaqun Nisa
 category: Non-Vegetarian Entrée
 ---
+![](4786fa6a-3f2a-43e4-8de5-2a9ec5a0dbfd.jpeg)
+
 # Ingredients
+
 * ½ kg mutton
 * 2-3 tbsp ginger garlic paste
 * 4 medium onions
@@ -16,6 +19,7 @@ category: Non-Vegetarian Entrée
 * 1-2 tsp garam masala
 
 # Directions
+
 Peel and slice 4 onions (medium). Fry till golden brown but don't overdo. Remove nearly all of it.
 
 Put in meat and stir till dry. Add 2-3 small elaichi, cinnamon sticks and bay leaves. Add garlic first then ginger, all on medium flame. Then add salt.
