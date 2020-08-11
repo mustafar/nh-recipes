@@ -13,7 +13,7 @@ Servings: 10-15
 * 1kg yogurt, preferably slightly tangy
 * 250g gram flour (_besan_)
 
-### For the yofurt
+### For the yogurt
 * 2 tbsp paste of garlic and cumin (_zeera_)
 * 1 tsp red chile powder
 * Salt, to taste
