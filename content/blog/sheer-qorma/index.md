@@ -2,13 +2,16 @@
 title: Sheer Qorma
 date: 2020-07-13T17:38:52.918Z
 description: Vermicelli cooked in milk
+credit: Homa Zaidi
 category: Dessert
 ---
+![](2b8b26bc-e489-4da6-8295-c0e53d0f76ec.jpeg)
 
-Servings: 15-20  
+Servings: 15-20\
 Difficulty: Medium  
 
 # Ingredients
+
 * 5 liters full fat milk
 * 100g rice (any variety, I use basmati) soaked then ground till it feels grainy
 * 375g sugar
@@ -16,11 +19,12 @@ Difficulty: Medium
 * Fistful of unsalted pistachios, soaked and slivered
 * Fistful of unsalted almonds, soaked, peeled and slivered
 * Ghee
-* Big pinch of saffron (_zafran_)
-* 1 tsp ground cardamom (_elaichi_)
+* Big pinch of saffron (*zafran*)
+* 1 tsp ground cardamom (*elaichi*)
 * 2 tsp kewra (optional)
 
 # Directions
+
 Put up room temperature milk to boil along with ground rice with saffron and ground cardamom on medium-high to high heat. Add more later if you think cardamom is not enough. Stir continuously till rice is cooked. You should be able to mush it with your fingers.
 
 Now add sugar, and keep stirring. Soon, the milk will start thickening. This is by experience that you get to know, but when you see the change, take out a spoon in a little bowl, and let cool. You will be able to judge it's consistency. Turn heat down to low.
