@@ -1,7 +1,7 @@
 ---
 title: Dahi Vada
 date: 2020-08-11T02:38:38.160Z
-description: "Critters soaked in yogurt sauce "
+description: "Fritters soaked in yogurt sauce "
 credit: Neeti Zaidi
 category: Appetizer
 ---
