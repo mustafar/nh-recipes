@@ -5,6 +5,8 @@ description: "Traditional Tiramisu with Mango "
 credit: Meher Rizvi (Zaina )
 category: Dessert
 ---
+![](mango-tiramisu.jpeg)
+
 # Ingredients
 
 * 3 medium size mangoes - thinly sliced
