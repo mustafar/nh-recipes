@@ -11,7 +11,7 @@ category: Vegetarian Entrée
 * 50g fresh dill (_soya_)
 * 1 inch piece ginger
 * 3 medium green thai chiles (_hari mirch_)
-* Salt, tsp per taste
+* Salt, to taste
 * ¼ tsp red chile (_lal mirch_) powder
 * 1 medium onion
 * 2 dry red chiles (_lal mirch_)

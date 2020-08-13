@@ -17,7 +17,7 @@ Servings: 20-30 cups
 * 2 bay leaves (_tez patta_)
 * Pinch of bicarbonate of soda
 * 2 tsp salt
-* 1 cup sugar, or as per taste
+* 1 cup sugar, or to taste
 * 15-20 cashews, ground to a paste
 * 10-15 almonds, ground to a paste
 * 1 tsp coconut paste

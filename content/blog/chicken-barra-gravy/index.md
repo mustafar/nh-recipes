@@ -21,7 +21,7 @@ Difficulty: Medium
 * 2 tsp chaat masala 
 * ½ tsp food colour 
 * 2 tsp salt
-* Red chilli, as per taste
+* Red chilli, to taste
 * 1 tsp garam masala powder
 * 1 tsp cumin (_zeera_) powder 
 * 1 tsp black pepper powder

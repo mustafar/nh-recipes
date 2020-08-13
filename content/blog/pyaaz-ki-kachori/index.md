@@ -7,7 +7,7 @@ category: Vegetarian Entrée
 ---
 ![](pyaaz-ki-kachori.jpeg)
 
-Servings: 10 pieces
+Servings: 10 pieces  
 Difficulty: Hard
 
 # Ingredients
