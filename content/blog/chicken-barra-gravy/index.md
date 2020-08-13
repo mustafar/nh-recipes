@@ -2,7 +2,7 @@
 title: Chicken Barra Gravy
 date: 2020-08-13T02:05:00Z
 description: Grilled chicken in gravy
-credit: Moneeza
+credit: Moneeza Naqvi
 category: Non-Vegetarian Entrée
 ---
 

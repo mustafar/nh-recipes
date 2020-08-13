@@ -2,7 +2,7 @@
 title: Pyaaz ki Kachori
 date: 2020-08-13T02:20:00Z
 description: Onion fitters
-credit: Moneeza
+credit: Moneeza Naqvi
 category: Vegetarian Entrée
 ---
 
