@@ -53,15 +53,14 @@ METHOD
 
 \* Boil ground meat with ingredients in pressure cooker, and after first whistle reduce heat to low and cook  for 20-25 minutes. Turn off stove.
 
-\* Open and dry up any water if present. Spread on a plate and let cool completely.\
-\
-* Grind in food processor till just done, it should not turn creamy.\
-\
-* Add crushed fried onions, chopped coriander, lemon juice, mix well, and check seasoning.\
-\
+\* Open and dry up any water if present. Spread on a plate and let cool completely.
+
+* Grind in food processor till just done, it should not turn creamy.
+* Add crushed fried onions, chopped coriander, lemon juice, mix well, and check seasoning.
 * Form into approximately 1/2” thick and 2 1/2 “ diameter rounds. Drop a tablespoon or two of oil into a   thick bottom frying pan. Heat oil on medium and place kababs. Reduce heat to low. Keep dripping oil little by little and fry. When nicely browned, turn over carefully with thin edge flat spoon, and fry on other side. 
 
 \* Drain on paper towel.
 
-\
+
+
 * Serve hot with coriander chutney.
