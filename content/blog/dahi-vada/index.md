@@ -9,7 +9,7 @@ category: Appetizer
 
 # Ingredients
 
-### Dal mix
+### Daal mix
 
 * 2 cups of split urad daal
 * 2 green chillies

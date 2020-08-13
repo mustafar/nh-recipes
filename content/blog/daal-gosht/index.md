@@ -21,7 +21,7 @@ category: Non-Vegetarian Entrée
 * Few roughly chopped mint leaves (_pudina_)
 * 2-3 slit green chillies
 * 1 tbsp desi ghee
-* 400 gms of split chick pea (chana daal), soaked for 2-3 hrs
+* 400 gms of split chickpea (chana daal), soaked for 2-3 hrs
 * Salt, to taste
 
 # Directions 

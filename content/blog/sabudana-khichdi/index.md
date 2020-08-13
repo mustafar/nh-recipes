@@ -18,7 +18,7 @@ Photo Credit: Meher Rizvi
 * 2 green thai chiles (_hari mirch_), finely chopped 
 * 2 medium sized potatoes, peeled and cubed 
 * 1 carrot chopped finely
-* ½ cup green peas ( optional ) 
+* ½ cup green peas (optional) 
 * ½ cup roasted peanuts 
 * Salt, to taste 
 * 1 tbsp lemon juice, or to taste

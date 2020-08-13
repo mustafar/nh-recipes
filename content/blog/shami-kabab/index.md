@@ -10,7 +10,7 @@ category: Non-Vegetarian Entrée
 
 ### For cooking with the meat
 * 500g ground meat
-* 150g chana daal( yellow lentil), soaked for half an hour
+* 150g split chickpea (_chana daal_), soaked for half an hour
 * 2 black cardamom pod (_badi elaichi_) seeds
 * 2-3 green cardamom pod (_elaichi_) seeds
 * 2-3 cloves
