@@ -1,10 +1,11 @@
 ---
 title: Pyaaz ki Kachori
-date: 2020-08-13T02:20:00Z
+date: 2020-08-13T02:20:00.000Z
 description: Fried dough puffs with onion filling
 credit: Moneeza Naqvi
 category: Vegetarian Entrée
 ---
+![](pyaaz-ki-kachori.jpeg)
 
 Servings: 10 pieces
 Difficulty: Hard
@@ -12,21 +13,23 @@ Difficulty: Hard
 # Ingredients
 
 ### Dry masala
-* 1 tsp coriander seeds (_dhania sabut_)
-* 1 tsp fennel seeds (_saunf_)
-* 1 tsp dried fenugreek leaves (_kasuri methi_) 
-* 1 tsp cumin seeds (_zeera_)
+
+* 1 tsp coriander seeds (*dhania sabut*)
+* 1 tsp fennel seeds (*saunf*)
+* 1 tsp dried fenugreek leaves (*kasuri methi*) 
+* 1 tsp cumin seeds (*zeera*)
 
 ### For the filling
+
 * 2 tbsp oil
-* Pinch of asafoetida (_hing_)
+* Pinch of asafoetida (*hing*)
 * 5-6 cloves garlic
-* 3 tbsp gram flour (_besan_)
+* 3 tbsp gram flour (*besan*)
 * 1 tsp red chilli powder
-* 1 tsp dried mango pweder (_amchoor_)
+* 1 tsp dried mango pweder (*amchoor*)
 * 1 tsp salt
 * 1 tsp sugar
-* ½ tsp Himalayan black salt (_kala namak_)
+* ½ tsp Himalayan black salt (*kala namak*)
 * ½ tsp garam masala
 * 2 medium onions, chopped fine
 * 2 medium onions, sliced lengthwise
@@ -34,14 +37,16 @@ Difficulty: Hard
 * 2-3 potatoes, boiled and mashed
 
 ### For the dough
-* 250g (or 2 cups) all purpose flour (_maida_)
+
+* 250g (or 2 cups) all purpose flour (*maida*)
 * 60g (or 4 tbsp) oil
-* ¼ tsp caraway (_ajwain_)
+* ¼ tsp caraway (*ajwain*)
 * Salt, as per taste
 * Water for kneading
 * Oil for frying
 
 # Directions
+
 Grind dry masalas into to a coarse powder
 
 Heat a kadhai and add oil. Once hot, add the dry masalas and roast on medium flame for 30 secs or so. Add hing, cloves and sauté for a min. Add besan, red chillies, amchoor, kala namak, garam masala and roast till it's done and releases aromatic smell.
