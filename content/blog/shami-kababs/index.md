@@ -1,5 +1,5 @@
 ---
-title: SHAMI KABABS
+title: Shami Kababs
 date: 2020-08-13T04:16:35.578Z
 description: Shallow fried meat kababs
 credit: SAMEERA RIZVI TAUGHT BY NAYAZ
