@@ -1,7 +1,7 @@
 ---
 title: Pyaaz ki Kachori
 date: 2020-08-13T02:20:00Z
-description: Onion fitters
+description: Fried dough puffs with onion filling
 credit: Moneeza Naqvi
 category: Vegetarian Entrée
 ---
