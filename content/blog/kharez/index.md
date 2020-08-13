@@ -1,7 +1,7 @@
 ---
 title: Kharez
 date: 2020-08-13T11:00:41.150Z
-description: Scrambled egg puffs in thick gravy
+description: Scrambled egg in thick gravy
 credit: Rabab Zaidi (taught by Zeenat, Shakeela Begum)
 category: Non-Vegetarian Entrée
 ---
