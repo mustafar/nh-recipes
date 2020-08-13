@@ -11,7 +11,7 @@ Photo Credit: Fehmina Zaidi
 # Ingredients
 * 3 liters whole milk
 * Flour for 4-5 chapatis (flatbread)
-* Ghee, fir frying
+* Ghee, for frying
 * 1-2 cups sugar, or to taste
 
 # Directions
