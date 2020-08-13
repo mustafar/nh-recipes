@@ -17,7 +17,7 @@ category: Non-Vegetarian Entrée
 ### Spices
 
 * ½ tsp red chile powder
-* 1½ tsp coriander powder (_dhania powder_)
+* 1½ tsp coriander (_dhania_) powder
 * ½ tsp turmeric (_haldi_) powder
 * ½ tsp cumin (_zeera_) powder
 * ½ tsp garam masala

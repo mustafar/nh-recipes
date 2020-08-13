@@ -20,8 +20,8 @@ category: Non-Vegetarian Entrée
 
 # Directions
 
-Pour the oil in a pan. Once warm saute the garlic, ginger, and green chili paste. Once it is light brown in colour and you get a good fragrance, add the onions — they can be chopped or made into a paste.
+Pour the oil in a pan. Once warm sauté the garlic, ginger, and green chili paste. Once it is light brown in colour and you get a good fragrance, add the onions — they can be chopped or made into a paste.
 
-Add salt and turmeric. Once all these ingredients are sauteed add the blended or finely chopped tomatoes to make a reasonable amount of gravy.
+Add salt and turmeric. Once all these ingredients are sautéed add the blended or finely chopped tomatoes to make a reasonable amount of gravy.
 
 The last thing you add is shrimp. Cook for 5 minutes, not more otherwise it becomes tough and chewy. Sprinkle finely cut green coriander over the curry. Serve with rice.
