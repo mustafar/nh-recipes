@@ -1,7 +1,7 @@
 ---
 title: Matar Paneer
 date: 2020-08-14T00:44:00Z
-description: 
+description: Cottage cheese and peas
 credit: Kulsoom Haider (Soomi)
 category: Vegetarian Entrée
 ---

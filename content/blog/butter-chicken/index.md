@@ -1,7 +1,7 @@
 ---
 title: Butter Chicken
 date: 2020-08-14T00:38:00Z
-description: 
+description: Chicken in a creamy tomato sauce
 credit: Fatima Naqvi
 category: Non-Vegetarian Entrée
 ---
