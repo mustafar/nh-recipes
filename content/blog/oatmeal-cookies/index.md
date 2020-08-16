@@ -5,6 +5,8 @@ description: Oatmeal and walnut cookies
 credit: Rabab Zaidi
 category: Dessert
 ---
+![cookies](cookies.jpeg)
+
 Servings: 3 dozen  
 Difficulty: Easy
 
@@ -36,3 +38,5 @@ Lastly, stir in oats and walnuts.
 Refrigerate dough for 2 hours.
 
 Form 1" balls, place on ungreased cookie sheets, and bake for 10-12 minutes at 375F.
+
+![](1.jpeg)
