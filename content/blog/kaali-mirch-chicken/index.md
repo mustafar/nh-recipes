@@ -7,32 +7,34 @@ category: Non-Vegetarian Entrée
 ---
 ![](chicken-kali-mirch-2a.jpg)
 
-Servings: 4  
-Prep Time: 40 mins  
-Cook Time: 20 mins  
+Servings: 4\
+Prep Time: 40 mins\
+Cook Time: 20 mins\
 Difficult: Medium  
 
 # Ingredients
-- 1kg chicken, medium pieces, bone-in
-- ½ tsp black pepper (_kaali mirch_) powder
-- ¾-1 tbsp black peppercorns, crushed
-- 1 tbsp lemon juice for marination
-- 4-5 cloves (_laung_)
-- 3-4 green cardamom pods (_elaichi_)
-- 1-2 bay leaves (_tez patta_)
-- 2 onions, finely chopped
-- 300g yogurt, whisked
-- 2-3 green thai chiles (_hari mirch_) (optional)
-- 1 tbsp coriander powder (_dhania powder_) (optional)
-- 1 tsp garam masala 
-- 2-3 tbsp cream (optional)
-- 100g butter
-- 1 tbsp of ghee or oil
-- 1 tsp dried fenugreek leaves (_kasuri methi_) (for smell, optional)
-- Salt, to taste 
 
+* 1kg chicken, medium pieces, bone-in
+* 1 tbsp  ginger - garlic paste 
+* ½ tsp black pepper (*kaali mirch*) powder
+* ¾-1 tbsp black peppercorns, crushed
+* 1 tbsp lemon juice for marination
+* 4-5 cloves (*laung*)
+* 3-4 green cardamom pods (*elaichi*)
+* 1-2 bay leaves (*tez patta*)
+* 2 onions, finely chopped
+* 300g yogurt, whisked
+* 2-3 green thai chiles (*hari mirch*) (optional)
+* 1 tbsp coriander powder (*dhania powder*) (optional)
+* 1 tsp garam masala 
+* 2-3 tbsp cream (optional)
+* 100g butter
+* 1 tbsp of ghee or oil
+* 1 tsp dried fenugreek leaves (*kasuri methi*) (for smell, optional)
+* Salt, to taste 
 
 # Directions
+
 Marinate chicken pieces with black pepper powder, salt and lemon juice for about 30 mins.
 
 In a heavy bottom pan put butter and when it starts melting add oil so that the butter does not get that burnt brown colour. This should be done on medium flame.
@@ -52,6 +54,7 @@ If using cream and kasuri methi put both 5 minutes before you take your dish off
 Naushi jaan with rumali roti or phulka.
 
 # Tips
-> Dhaba cooks fry their chicken well and then keep adding the ingredients on high flame and keep tossing. They serve this latpata (slathered) masala style.
 
+> Dhaba cooks fry their chicken well and then keep adding the ingredients on high flame and keep tossing. They serve this latpata (slathered) masala style.
+>
 > Extending the marinating time to 2hrs will improve the taste.
