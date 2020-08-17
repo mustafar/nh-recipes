@@ -3,9 +3,11 @@ title: Turai/Lauki Ke Chhilke Ke Kebab
 date: 2020-08-16T12:00:00Z
 description: Vegetarian burgers made from sponge/bottle gourd peels and yellow lentils
 credit: Homa Zaidi
-category: Dessert
+category: Vegetarian Entrée
 ---
+
 Servings: 6-7 burgers
+
 Difficulty: Easy
 
 ![chhilke-ke-kebab](chhilke-ke-kebab.jpeg)
