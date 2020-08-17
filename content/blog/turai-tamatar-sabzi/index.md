@@ -9,6 +9,9 @@ Servings: 4-5
 Cook Time: 25 mins  
 Difficulty: Easy  
 
+---
+![turai-tamatar](turai-tamatar.jpeg)
+
 # Ingredients 
 * 750g sponge gourd (_turai_)
 * ¾ tsp cumin (_zeera_)
