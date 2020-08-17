@@ -2,7 +2,7 @@
 title: Whole Wheat Walnut Banana Bread
 date: 2020-07-22T19:20:16.091Z
 description: Banana bread with walnuts
-credit: Hera Fatima. Inspired by Homa Zaidi
+credit: Hera Fatima. Inspired by Rabab Zaidi
 category: Dessert
 ---
 ![](banana-bread.jpeg)

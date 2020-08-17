@@ -28,7 +28,7 @@ Place the slices on a skillet. Drop some oil around the slices and let cook on a
 
 Now remove the skin from around the slices. Mash with a spoon and add salt, chile and cumin powder. Now add the chopped onions and greens.
 
-Refrigerate till you are ready to serve. Bring to room temperature and fold in the whisked yogurt. Stir carefully. If the yoghurt is too thick whisk in 1-  tbsps of milk before adding to the eggplant.
+Refrigerate till you are ready to serve. Bring to room temperature and fold in the whisked yogurt. Stir carefully. If the yogurt is too thick whisk in 1-  tbsps of milk before adding to the eggplant.
 
 In a fry pan prepare the seasoning – some oil, a pinch of black mustard seeds, a few leaves of sweet neem and two dry red chiles.
 

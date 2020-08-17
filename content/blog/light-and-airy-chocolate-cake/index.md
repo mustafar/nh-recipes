@@ -2,7 +2,7 @@
 title: Light and Airy Chocolate Cake
 date: 2020-08-04T18:26:43.299Z
 description: Easy chocolate cake with vegan options
-credit: Homa Zaidi
+credit: Rabab Zaidi
 category: Dessert
 ---
 ![](chocolate-cake.jpeg)

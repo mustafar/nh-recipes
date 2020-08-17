@@ -2,7 +2,7 @@
 title: Turai ke Chhilke ke Kabab
 date: 2020-08-16T12:00:00Z
 description: Kababs made from sponge gourd peels
-credit: Homa Zaidi
+credit: Rabab Zaidi
 category: Vegetarian Entrée
 ---
 ![chhilke-ke-kabab](chhilke-ke-kebab.jpeg)

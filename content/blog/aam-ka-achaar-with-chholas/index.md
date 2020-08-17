@@ -2,7 +2,7 @@
 title: Aam Ka Achaar with Chholas
 date: 2020-08-04T18:21:49.503Z
 description: Mango pickle with chickpeas
-credit: Homa Zaidi (Sudha Handa)
+credit: Rabab Zaidi (Sudha Handa)
 category: Condiment
 ---
 Difficulty: Easy

@@ -2,7 +2,7 @@
 title: Ande ka Halwa
 date: 2020-07-31T01:08:00.000Z
 description: Halwa made of eggs
-credit: Homa Zaidi. Originally, Hamida Rizvi
+credit: Rabab Zaidi. Originally, Hamida Rizvi
 category: Dessert
 ---
 Cook Time: 2 hours  

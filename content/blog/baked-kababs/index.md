@@ -2,7 +2,7 @@
 title: Baked Kababs
 date: 2020-07-19T14:13:59.543Z
 description: Kababs baked in oven
-credit: Homa Zaidi. Originally, Rabab Naqvi
+credit: Rabab Zaidi. Originally, Rabab Naqvi
 category: Non-Vegetarian Entrée
 ---
 ![baked kababs](aa974a6b-73f7-4013-8af2-dd5faf5f82b4.jpeg)

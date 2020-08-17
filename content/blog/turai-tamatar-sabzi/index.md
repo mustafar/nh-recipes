@@ -2,15 +2,14 @@
 title: Turai Tamatar Sabzi
 date: 2020-08-02T21:52:00Z
 description: Sponge gourd with tomatoes and coriander
-credit: Homa Zaidi
+credit: Rabab Zaidi
 category: Vegetarian Entrée
 ---
+![turai-tamatar](turai-tamatar.jpeg)
+
 Servings: 4-5  
 Cook Time: 25 mins  
 Difficulty: Easy  
-
----
-![turai-tamatar](turai-tamatar.jpeg)
 
 # Ingredients 
 * 750g sponge gourd (_turai_)

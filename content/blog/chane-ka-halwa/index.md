@@ -2,7 +2,7 @@
 title: Chane ka Halwa
 date: 2020-07-15T12:12:18.029Z
 description: Traditional Indian split chickpea halwa
-credit: Homa Zaidi. Originally, Zakia baji
+credit: Rabab Zaidi. Originally, Zakia baji
 category: Dessert
 ---
 Difficulty: Hard  

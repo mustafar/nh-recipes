@@ -2,7 +2,7 @@
 title: Sheer Qorma
 date: 2020-07-13T17:38:52.918Z
 description: Vermicelli cooked in milk
-credit: Homa Zaidi
+credit: Rabab Zaidi
 category: Dessert
 ---
 ![](2b8b26bc-e489-4da6-8295-c0e53d0f76ec.jpeg)

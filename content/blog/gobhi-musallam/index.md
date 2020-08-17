@@ -2,7 +2,7 @@
 title: Gobhi Musallam
 date: 2020-07-29T00:16:49Z
 description: Whole caulifower cooked with spices
-credit: Homa Zaidi
+credit: Rabab Zaidi
 category: Vegetarian Entrée
 ---
 ![](gobhi-musallam.jpeg)
