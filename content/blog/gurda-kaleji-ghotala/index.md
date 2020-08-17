@@ -9,6 +9,8 @@ Servings: 2-3
 Cook Time: 30 mins  
 Difficulty: Easy  
 
+![gurda-kaleji-ghotala](gurda-kaleji-ghotala.jpeg)
+
 # Ingredients
 * 250g goat liver, cut into half inch squares
 * 150g goat kidneys, each kidney cut into 4 pieces
