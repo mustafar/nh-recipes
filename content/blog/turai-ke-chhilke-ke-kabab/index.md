@@ -1,11 +1,11 @@
 ---
-title: Turai ke Chhilke ke Kebab
+title: Turai ke Chhilke ke Kabab
 date: 2020-08-16T12:00:00Z
 description: Kababs made from sponge gourd peels
 credit: Homa Zaidi
 category: Vegetarian Entrée
 ---
-![chhilke-ke-kebab](chhilke-ke-kebab.jpeg)
+![chhilke-ke-kabab](chhilke-ke-kebab.jpeg)
 
 Servings: 6-7 burgers
 
