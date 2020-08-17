@@ -2,10 +2,10 @@
 title: Moist Chocolate Cake
 date: 2020-08-16T12:00:00Z
 description: Chocolate Cake with Chocolate Cream Cheese Buttercream Frosting
-credit: Ali Abbas Rizvi (taken from [The Stay At Home Chef](https://thestayathomechef.com/the-most-amazing-chocolate-cake))
+credit: Ali Abbas Rizvi (taken from https://thestayathomechef.com/the-most-amazing-chocolate-cake)
 category: Dessert
 ---
-![lemon-bars](moist-chocolate-cake.jpeg)
+![moist-chocolate-cake](moist-chocolate-cake.jpeg)
 
 # Ingredients
 
