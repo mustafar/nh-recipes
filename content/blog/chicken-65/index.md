@@ -1,12 +1,12 @@
 ---
 title: Chicken 65
 date: 2020-08-19T00:35:00Z
-description: Andhra style chicken appetizer
+description: Andhra style fried chicken appetizer
 credit: Salim Rizvi
 category: Appetizer
 ---
 
-This recipe can be prepared with paneer or cauliflower, instead of chicken. Modification options are noted where applicable.
+This recipe can be prepared with paneer or cauliflower, instead of chicken. Modification options are noted where they apply.
 
 # Ingredients
 ### For the marinade
