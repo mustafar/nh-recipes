@@ -31,3 +31,6 @@ Mix jar dressing, and taste to see if any adjustments need to be made.
 Lightly fry noodles now, and keep on separate plate.
 
 Serve salad and noodles. Noodles should be crisp. Sprinkle as much as you like on top of your salad.
+
+# Tips
+> This a very personal salad. If you would like it a little saltier, go ahead and add just a little more soya sauce. If less sweet, reduce sugar or alternative. If you want more punch, then increase the green onions, so it’s very easy to customize this according to your preference without taking away its unique taste. Enjoy!
