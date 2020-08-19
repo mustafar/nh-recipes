@@ -11,7 +11,7 @@ This recipe can be prepared with paneer or cauliflower, instead of chicken. Modi
 # Ingredients
 ### For the marinade
 * ½ kg boneless chicken (or ½ kg paneer cubes, or 1 medium cauliflower, cut into small florets with a bit of stem)
-* 1 tbsp ginger-garlic paste (1tsp if using paneer or cauliflower)
+* 1 tbsp ginger-garlic paste (1 tsp if using paneer or cauliflower)
 * 1 tsp red chili powder
 * Juice of 1 lemon
 * 1 cup yogurt
@@ -30,7 +30,7 @@ This recipe can be prepared with paneer or cauliflower, instead of chicken. Modi
 * ½ tsp red chili powder
 * ¼ tsp cumin seeds
 * ½ cup yoghurt (alternatively, 1 tsp white vinegar diluted in water)
-* 10 cloved of garlic, lightly smashed
+* 10 cloves of garlic, lightly smashed
 * 8-10 green chillies, slit and de-seeded
 * Curry leaves (_kari patta_)
 * A pinch of sugar
@@ -67,4 +67,4 @@ Instead of making the sauce after getting the crisp curry leaves add garlic past
 > The use of vinegar or yoghurt depends on the region. Vinegar if used should always be diluted in the ratio of 1 to 10 parts of water. 
 
 # Family Secret
-> Sugar used is to kill the pungent smell of garlic.
+> Sugar is used to kill the pungent smell of garlic.
