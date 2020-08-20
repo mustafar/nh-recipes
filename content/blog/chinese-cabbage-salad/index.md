@@ -10,7 +10,7 @@ Difficulty: Easy
 
 # Ingredients
 * 1 head Chinese or Napa cabbage 
-* ½-¾ green onion, green part only, finely chopped
+* ½-¾ cup green onion, green part only, finely chopped
 * 2 packets Maggi (or any instant ramen noodles) slightly crushed
 * Butter, to fry the noodles
 * ½-¾ cup slivered almonds, lightly fried
