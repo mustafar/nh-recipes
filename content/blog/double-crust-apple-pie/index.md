@@ -1,7 +1,7 @@
 ---
 title: Double Crust Apple Pie
 date: 2020-08-20T01:01:00Z
-description: Deep fried puffed leavened bread
+description: Apple pie
 credit: Rabab Zaidi
 category: Dessert
 ---
