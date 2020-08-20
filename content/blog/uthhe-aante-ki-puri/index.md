@@ -1,5 +1,5 @@
 ---
-title: Uthhe Aate ki Puri
+title: Uthhe Aante ki Puri
 date: 2020-08-20T00:53:00Z
 description: Deep fried puffed leavened bread
 credit: Rabab Zaidi

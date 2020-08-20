@@ -61,7 +61,7 @@ const BlogIndex = props => {
       // return true if the description, title or tags
       // contains the query string
       const queryMatches = !query ||
-        description.toLowerCase().includes(query.toLowerCase()) ||
+        (description || '').toLowerCase().includes(query.toLowerCase()) ||
         title.toLowerCase().includes(query.toLowerCase()) ||
         credit?.toLowerCase().includes(query.toLowerCase()) ||
         (tags && tags
