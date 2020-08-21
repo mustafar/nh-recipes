@@ -3,6 +3,7 @@ title: Sweet Tahini
 date: 2020-08-21T12:00:00Z
 description: Healthy sesame butter 
 credit: Rabab Zaidi
+category: Appetizer
 ---
 ![sweet-tahini](sweet-tahini.jpeg)
 
