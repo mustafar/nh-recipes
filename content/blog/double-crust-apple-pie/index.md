@@ -46,6 +46,6 @@ Cover edges with foil to prevent over browning, and remove 15 minutes prior to e
 
 Brush crust top with about 2 teaspoons of water, and sprinkle 1 tablespoon of castor sugar evenly.
 
-Bake for 40-50 minutes till the crust is golden, and juice begins to bubble through crust slits. Remove and cool for approximately 2 hours.
+Bake for 40-50 minutes at 375F till the crust is golden, and juice begins to bubble through crust slits. Remove and cool for approximately 2 hours.
 
 Enjoy with cheese!

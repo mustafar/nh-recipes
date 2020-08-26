@@ -6,19 +6,19 @@ category: Dessert
 ---
 Difficulty: Medium
 
-# Ingredients:
+# Ingredients
 
 ## For the custard
 
 * 2 cans condensed milk
 * 4 cups whole milk
 * 4 eggs
-* 2 teaspoons vanilla extract
+* 2 tsp vanilla extract
 
 ## For the caramel
 
 * 1/2 cup sugar
-* 5 tablespoons water 
+* 5 tbsp water 
 
 # Directions
 
