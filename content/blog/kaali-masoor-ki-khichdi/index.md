@@ -1,37 +1,40 @@
 ---
 title: Kaali Masoor ki Khichdi
-date: 2020-08-26T01:50:00Z
+date: 2020-08-26T01:50:00.000Z
 description: One pot brown lentils and rice
 credit: Midhat Rizvi
 category: Rice Entrée
 ---
-Difficulty: Medium  
+Difficulty: Medium\
 Servings: 4-5  
 
 # Ingredients
+
 * 500g brown lentils
 * 350g good quality basmati rice
 * 6 tbsp oil plus 1 tbsp 
-* 3-4 bay leaves (_tez patta_)
-* 12-15 black peppercorns (_kali mirch_)
-* 2 brown cardamom pods with skin (_badi elaichi_)
-* 2 green cardamom pods with skin (_elaichi_)
+* 3-4 bay leaves (*tez patta*)
+* 12-15 black peppercorns (*kali mirch*)
+* 2 brown cardamom pods with skin (*badi elaichi*)
+* 2 green cardamom pods with skin (*elaichi*)
 * 2" cinnamon stick
 * 5 cloves
 * 1 tsp ground garam masala
 * 2½ tbsp ground garlic
-* 2½ tbsp groud ginger
+* 2½ tbsp ground ginger
 * 2 large onions, chopped
 * 2 medium onions, ground
 * 3 tsp turmeric  
 * 2 tsp ground coriander 
 * 2 tsp salt plus 1½ tsp
-* 2 tsp red chilli powder, or to test
+* 2 tsp red chilli powder, or to taste
 * hot water to fry the above ingredients 
 * 1½ cups water to cook soft lentils after soaking
+
   * Alternatively, 2 cups water to cook not so soft lentils after soaking
 
 # Directions
+
 Wash well and soak lentils for 4 hours in drinking water, keeping water level at least 3" above the lentils. Now check to see (this is the tricky part) that when you press the lentil, if it becomes soft. If so, then your cooking time is 12 minutes, if not, then 15 minutes. Check difference in water quantity in the ingredients section above. 
 
 Rice will be soaked only 20 minutes prior to its addition, so be aware of when to soak it. 
