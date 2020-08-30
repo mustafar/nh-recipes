@@ -6,20 +6,22 @@ credit: Yasmin Naqvi
 category: Vegetarian Entrée
 ---
 # Ingredients
-* 100g maash or urad daal (green variety with skin (_chilka_))             
-* 100g bathua saaf or spinach (_palak_)
-* 50g fresh dill (_soya_)
+
+* 100g maash or urad daal (green variety with skin (*chilka*))             
+* 100g bathua saag or spinach (*palak*)
+* 50g fresh dill (*soya*)
 * 1 inch piece ginger
-* 3 medium green thai chiles (_hari mirch_)
+* 3 medium green thai chiles (*hari mirch*)
 * Salt, to taste
-* ¼ tsp red chile (_lal mirch_) powder
+* ¼ tsp red chile (*lal mirch*) powder
 * 1 medium onion
-* 2 dry red chiles (_lal mirch_)
-* ½ tsp cumin seeds (_zeera_)
-* Pinch of asafoetida (_hing_)
+* 2 dry red chiles (*lal mirch*)
+* ½ tsp cumin seeds (*zeera*)
+* Pinch of asafoetida (*hing*)
 * 2-3 tbsp ghee
 
 # Directions
+
 First clean and chop the bathua and soya. Remove all the thick stems. Wash and drain.
 
 Wash the daal and put into a pressure cooker. Add the chopped and well drained greens. Add chopped ginger, green chile, salt, red chile powder. Add 2½ cups of water. Pressure cook for 10-12 minutes. On opening, stir well and adjust the thickness of the saghpehta. It should not be too thin.
