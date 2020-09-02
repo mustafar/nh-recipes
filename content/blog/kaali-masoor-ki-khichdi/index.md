@@ -5,6 +5,8 @@ description: One pot brown lentils and rice
 credit: Midhat Rizvi
 category: Rice Entrée
 ---
+![khichdi](khichdi.jpeg)
+
 Difficulty: Medium\
 Servings: 4-5  
 
@@ -30,7 +32,6 @@ Servings: 4-5
 * 2 tsp red chilli powder, or to taste
 * hot water to fry the above ingredients 
 * 1½ cups water to cook soft lentils after soaking
-
   * Alternatively, 2 cups water to cook not so soft lentils after soaking
 
 # Directions
