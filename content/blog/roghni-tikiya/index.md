@@ -1,7 +1,7 @@
 ---
 title: Roghni Tikiya
 date: 2020-09-03T00:10:00Z
-description: Savory flatbread made with cream
+description: Savory flatbread made with milk
 credit: Ahmad Rizvi
 category: Vegetarian Entrée
 ---

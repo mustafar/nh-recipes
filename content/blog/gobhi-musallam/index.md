@@ -39,7 +39,7 @@ Blanch tomatoes, peel, and chop roughly, and keep aside. Put oil in a wok (_karh
 
 Add chopped tomatoes until they blend with the masala well, and oil floats on top.
 
-Take half of this masala from the pan and keep aside. Add 250ml hot water, and place cauliflower in the karhai. Alternatively you could bake it in an oven at 250 degrees for 30 minutes. If cooking in a karhai keep flame at its lowest, and keep putting remaining masala on and in the cauliflower at intervals, and keep turning it gently from one side to the other. It should remain whole. 
+###### Take half of this masala from the pan and keep aside. Add 250ml hot water, and place cauliflower in the karhai. Alternatively you could bake it in an oven at 250 degrees for 30 minutes. If cooking in a karhai keep flame at its lowest, and keep putting remaining masala on and in the cauliflower at intervals, and keep turning it gently from one side to the other. It should remain whole. 
 
 ![](3.jpeg)
 
