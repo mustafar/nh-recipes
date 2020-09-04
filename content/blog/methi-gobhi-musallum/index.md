@@ -1,6 +1,6 @@
 ---
 title: Methi Gobhi Musallum
-date: 2020-09-03:12:00:00Z
+date: 2020-09-03T12:00:00Z
 description: Whole cauliflower baked (dum) or cooked with fenugreek
 credit: Rabab Zaidi
 ---
