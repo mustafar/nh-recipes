@@ -1,8 +1,9 @@
 ---
 title: Methi Gobhi Musallum
-date: 2020-09-03T12:00:00Z
+date: 2020-09-03T12:00:00.000Z
 description: Whole cauliflower baked (dum) or cooked with fenugreek
 credit: Rabab Zaidi
+category: Vegetarian Entrée
 ---
 ![gobhi-musallam](gobhi-musallam.jpeg)
 Servings: 4-5 persons
