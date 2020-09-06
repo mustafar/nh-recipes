@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import SearchLink from './search-link';
 
 import "./layout.css"
 import { rhythm, scale } from "../utils/typography"
@@ -7,16 +8,20 @@ import { rhythm, scale } from "../utils/typography"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
-  const isHomePage = location.pathname === rootPath;
+  const isHome = location.pathname === rootPath;
+  const isSearch = location.pathname === rootPath + 'search';
+  const isPost = !isHome && !isSearch;
 
-  if (isHomePage) {
+  if (!isPost) {
     header = (
       <h1
         style={{
-          ...scale(0.9),
+          ...scale(0.7),
           fontWeight: 100,
           marginBottom: rhythm(1.75),
           marginTop: 0,
+          display: 'flex',
+          justifyContent: 'space-between',
         }}
       >
         <Link
@@ -28,6 +33,7 @@ const Layout = ({ location, title, children }) => {
         >
           {title}
         </Link>
+        <SearchLink path={location.pathname} />
       </h1>
     )
   } else {
@@ -37,6 +43,8 @@ const Layout = ({ location, title, children }) => {
         style={{
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
+          display: 'flex',
+          justifyContent: 'space-between',
         }}
       >
         <Link
@@ -48,6 +56,7 @@ const Layout = ({ location, title, children }) => {
         >
           {title}
         </Link>
+        <SearchLink path={location.pathname} />
       </h3>
     )
   }
@@ -61,8 +70,8 @@ const Layout = ({ location, title, children }) => {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
-      <header className={`${!isHomePage ? "home-link" : ""}`}>{header}</header>
-      <main className={`${isHomePage ? "home-main" : ""} site-content`}>{children}</main>
+      <header className={`${isPost ? "home-link" : ""}`}>{header}</header>
+      <main className={`${!isPost ? "home-main" : ""} site-content`}>{children}</main>
       <footer
         style={{
           display: 'flex',
