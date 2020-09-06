@@ -1,8 +1,8 @@
 ---
 title: Chicken 65
-date: 2020-09-19T01:18:00Z
+date: 2020-09-05T01:18:00Z
 description: Spicy fried chicken appetizer
-credit: Salim Rizvi
+credit: Seema Rizvi
 category: Appetizer
 ---
 ![chicken-65](chicken-65.jpeg)
