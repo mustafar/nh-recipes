@@ -1,70 +1,60 @@
 ---
 title: Chicken 65
-date: 2020-08-19T00:35:00Z
-description: Andhra style fried chicken appetizer
+date: 2020-09-19T01:18:00Z
+description: Spicy fried chicken appetizer
 credit: Salim Rizvi
 category: Appetizer
 ---
+![chicken-65](chicken-65.jpeg)
 
-This recipe can be prepared with paneer or cauliflower, instead of chicken. Modification options are noted where they apply.
+Difficulty: Medium  
 
 # Ingredients
-### For the marinade
-* ½ kg boneless chicken (or ½ kg paneer cubes, or 1 medium cauliflower, cut into small florets with a bit of stem)
-* 1 tbsp ginger-garlic paste (1 tsp if using paneer or cauliflower)
-* 1 tsp red chili powder
-* Juice of 1 lemon
-* 1 cup yogurt
-* ½ tsp black pepper powder (alternatively, garam masala)
-* ¼ tsp turmeric
-* ¼ tsp salt
 
-### For frying
-* 1½ cup corn flour
-* ½ cup all purpose flour (_maida_) (alternatively, rice flour)
-* 1 egg (alternatively, yogurt)
+### For marination
+* 1½ tbsp ginger paste
+* 1½ tbsp garlic paste
+* 1-2 tsp red chilli powder
+* ½ tsp haldi powder
+* 1 tbsp soy sauce
+* 1 tsp white vinegar
+* 2 tbsp cornflour
+* 1 egg white
+* ¼ tsp MSG (monosodium glutamate flavour enhancer)
+* 1 tbsp oil plus extra for frying 
+* Salt to taste
+* A pinch of red food colour
 
-### For the sauce
-* 2 tbsp oil
-* 1 tsp ginger-garlic paste
-* ½ tsp red chili powder
-* ¼ tsp cumin seeds
-* ½ cup yoghurt (alternatively, 1 tsp white vinegar diluted in water)
-* 10 cloves of garlic, lightly smashed
-* 8-10 green chillies, slit and de-seeded
-* Curry leaves (_kari patta_)
-* A pinch of sugar
-* Salt, to taste
+### For yogurt
+* 500 gms yoghurt 
+* ½ tbsp ginger paste
+* ½ tbsp garlic paste
+* ½ tsp red chilli powder
+* ¼ tsp haldi powder
+* salt as per taste
+* 2 tsp soy sauce
+* ½ tsp white vinegar
+* A pinch of red food colour
+* 20 curry leaves (_kari patta_)
+* 6-7 slit green chillies or according to taste
+
+### For garnishing
+* A few fried and slit green chillies
 
 # Directions
-### Chicken
-Marinate the chicken (or paneer or cauliflower) in marinade ingredients. Keep aside for at least 1 hour, preferably longer. 
+Wash the chicken cubes well and drain water well or dry with paper towel.
 
-Take corn flour and maida (or rice flour) and mix well with using as little water as possible to make a thick mixture. Add 1 egg or yoghurt (better and lasting taste comes from yoghurt. Eggs can smell if the marinade is kept for long or the fried pieces are kept for long time).
+Mix chicken with marination ingredients, and keep aside for 1-2 hours, preferably 2.
 
-Heat oil in a pan on medium, make sure the oil does not start burning. Add the marinated pieces and fry deep fry till golden brown (shiny brown and not dark brown). Drain on a kitchen towel or napkin and keep aside. 
+Deep fry chicken pieces in oil on medium flame. Poke fork or knife to see if done. Remove and drain on paper towel.
 
-You can serve these as is (without the sauce) with onion rings and lemon wedges. 
+Mix all the yogurt ingredients except curry leaves and slit green chillies, and keep aside.
 
-### Sauce
-In a pan take 2 tbsp oil and add 1 tsp ginger garlic paste, ½ tsp red chili powder, salt, a pinch of sugar and ½ cup yoghurt (or diluted vinegar) and cook until the raw smell of ginger-garlic paste is gone and all ingredients are mixed well. Water can be added to maintain consistency. We should have a thickish sauce ready now. Drain oil and keep aside. Put away the sauce. 
+In an broad and open pan, heat 2-3 tablespoons of oil. Add about 20 curry leaves and 6-7 slit green chillies. As they begin to splutter add the yoghurt mix.
 
-In the oil saved above (should be about 1½ tbsp) lightly roast the garlic then add ¼ tsp cumin seeds, green chillies and curry leaves. When the curry leaves turn crisp add the sauce made and kept aside to cook, mix and thicken a little bit more.
+Stir and cook for 2 minutes. Now add fried chicken cubes. Stir and cook over slow fire until you reach the desired consistency, either thick gravy-like or dry. According to the author, dry tastes best.
 
-### Assembly
-Add the fried pieces to the sauce and sauté a little bit. Coat over the pieces and thicken, remove and serve with lemon wedges.
-
-Option:  
-Instead of making the sauce after getting the crisp curry leaves add garlic paste, red chilly powder, salt, sugar, vinegar with water / yoghurt and make a sauce, then add the fried pieces and toss and serve. 
+Serve hot garnished with fried green chillies.
 
 # Tips
-> Best way to test oil for frying is to drop a bit of marinade batter, it must rise quickly without getting brown colour. 
-
-> Best check for chicken while frying is to see the water bubbles reduce on oil that happens when the chicken starts getting tender and cooked.
-
-> Clean cauliflower florets and add them to hot water (not very hot or boiling). Let it rest for 5 minutes, wash thoroughly, drain and keep aside.
-
-> The use of vinegar or yoghurt depends on the region. Vinegar if used should always be diluted in the ratio of 1 to 10 parts of water. 
-
-# Family Secret
-> Sugar is used to kill the pungent smell of garlic.
+> Chicken 65 is also prepared in a different way, popular in Andhra Pradesh, and is served in restaurants serving that cuisine. Read that recipe [here](/andhra-style-chicken-65/).
