@@ -129,6 +129,7 @@ const BlogSearch = props => {
           <option value="">All</option>
           <option value="Condiment">Condiments</option>
           <option value="Appetizer">Appetizers</option>
+          <option value="Bread">Breads</option>
           <option value="Non-Vegetarian Entrée">Non-Veg</option>
           <option value="Vegetarian Entrée">Veg</option>
           <option value="Rice Entrée">Rice</option>

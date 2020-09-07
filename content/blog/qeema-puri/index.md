@@ -3,7 +3,7 @@ title: Qeema Puri
 date: 2020-08-09T17:30:08.659Z
 description: Fried bread puffs with ground meat stuffing
 credit: Midhat Rizvi
-category: Non-Vegetarian Entrée
+category: Bread
 ---
 ![puri](puri.jpeg)
 

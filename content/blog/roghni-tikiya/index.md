@@ -3,7 +3,7 @@ title: Roghni Tikiya
 date: 2020-09-03T00:10:00Z
 description: Rich flatbread
 credit: Ahmad Rizvi
-category: Vegetarian Entrée
+category: Bread
 ---
 ![tikiya](tikiya.jpeg)
 
