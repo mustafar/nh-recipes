@@ -10,7 +10,7 @@ category: Vegetarian Entrée
 Servings: 4\
 Prep Time: 05 mins\
 Cook Time: 10 mins\
-Difficulty: Easy\
+Difficulty: Easy
 
 # Ingredients
 * 500g potato (_aaloo_)

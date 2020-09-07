@@ -38,6 +38,6 @@ When done, keep tikiyas vertical and not on top of each other as in the picture,
 
 Roghini tikiyas go best with:
 - [Qatli Aaloo](/qatli-aaloo) (dry sliced potatoes)
-- Qeema matar (ground meat and peas)
 - [Shami Kabab](/shami-kabab) (shallow fried kababs)
 - Omelettes and [Khagina](/khagina) (scrambled eggs Indian style)
+- Qeema matar (ground meat and peas)

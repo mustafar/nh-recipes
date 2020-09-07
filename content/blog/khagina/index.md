@@ -10,7 +10,7 @@ category: Non-Vegetarian Entrée
 Servings: 4\
 Prep Time: 5 mins\
 Cook Time: 3 - 5 mins\
-Difficulty: Easy\
+Difficulty: Easy
 
 # Ingredients
 * 4 eggs

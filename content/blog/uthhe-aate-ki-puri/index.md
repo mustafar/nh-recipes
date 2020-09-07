@@ -11,7 +11,7 @@ Difficulty: Easy
 # Ingredients
 * 350g whole wheat flour
 * 125g all purpose flour (_maida_)
-* 5 tsp active dry yeast plus 2 teaspoons sugar
+* 5 tsp active dry yeast plus 2 tsp sugar
 * ¼ tsp baking powder
 * ½ tsp salt
 * 250ml lukewarm milk
