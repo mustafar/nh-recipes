@@ -37,7 +37,7 @@ Turn tikiya only once (with a broad flat turner) on one side else it may break. 
 When done, keep tikiyas vertical and not on top of each other as in the picture, else they will get damp before you eat, even after 2 minutes.
 
 Roghini tikiyas go best with:
-- dry sliced potatoes (_qatle wale aloo_)
-- ground meat and peas (_qeema matar_)
-- shallow fried kababs (_shami kababs_)
-- omelettes and scrambled eggs Indian style (_khageena_)
+- [Qatli Aaloo](/qatli-aaloo) (dry sliced potatoes)
+- Qeema matar (ground meat and peas)
+- [Shami Kabab](/shami-kabab) (shallow fried kababs)
+- Omelettes and [Khagina](/khagina) (scrambled eggs Indian style)

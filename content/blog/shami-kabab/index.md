@@ -5,6 +5,9 @@ description: Shallow fried meat kababs
 credit: Sameera Rizvi (taught by Nayaz)
 category: Non-Vegetarian Entrée
 ---
+![shami-kabab](shami-kabab.jpeg)
+Photo Credit: Salim Rizvi
+
 # Ingredients
 
 ### For cooking with the meat
