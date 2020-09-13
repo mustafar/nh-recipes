@@ -5,6 +5,7 @@ description: Deep fried puffed leavened bread
 credit: Rabab Zaidi
 category: Bread
 ---
+![puri](puri.jpeg)
 
 Difficulty: Easy  
 

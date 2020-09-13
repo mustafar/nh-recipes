@@ -5,6 +5,7 @@ description: Decoction for cold and cough
 credit: Rabab Zaidi (taught by Shahein Ahmad)
 category: Condiment
 ---
+![kadha](kadha.jpeg)
 
 Difficulty: Easy
 

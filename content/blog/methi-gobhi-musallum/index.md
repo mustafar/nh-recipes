@@ -15,19 +15,19 @@ Preheat oven before.
 # Ingredients
 
 * 700 grams cauliflower 
-* 1/8 teaspoon fenugreek seeds
-* 100 grams finely chopped onions
+* ⅛ tsp fenugreek seeds
+* 100g finely chopped onions
 * 6 cloves garlic
-* 4 teaspoons coriander seeds
-* 1/2 teaspoon red pepper powder
-* 1 teaspoon turmeric powder
-* 1 1/2 teaspoons salt plus 3/4 teaspoon salt 
-* 100 mls  mustard oil or any neutral oil
-* 20 grams root ginger
-* 2 green chillies(optional garnishing)
-* 1/2 tablespoon dried fenugreek leaves (kasuri methi)
-* 400 grams tomatoes 
-* 250 ml hot water plus extra for cooking masala
+* 4 tsp coriander seeds
+* ½ tsp red pepper powder
+* 1 tsp turmeric powder
+* 1½ tsp salt plus 3/4 teaspoon salt 
+* 100ml mustard oil or any neutral oil
+* 20g root ginger
+* 2 green chillies (optional garnishing)
+* ½ tbsp dried fenugreek leaves (kasuri methi)
+* 400g tomatoes 
+* 250ml hot water plus extra for cooking masala
 
 # Directions
 
