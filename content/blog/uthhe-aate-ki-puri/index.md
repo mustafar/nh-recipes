@@ -43,3 +43,14 @@ Cover with a cloth, and leave in a warm place to swell into double the size.
 Heat oil in wok or kadhai. Oil hands and break dough into  28-30 portions. Roll out into 3" diameter rounds.
 
 Fry on medium high till evenly brown on both sides. They cook very fast. Remove with slotted spoon. Drain on paper towel. Enjoy with kababs, veggies, or just a cup of tea!
+
+# Directions for Naan
+You can use the fermented dough for making naans instead of puris.
+
+![bhindi](../peeli-sarson-bhindi/sarson-bhindi.jpeg)
+
+Heat tawa on high, reduce to medium.
+
+Break off 25 pieces of dough. Using flour, roll out into 4" diameter rounds. Sprinkle a little nigella or sesame and gently roll onto naan with rolling pin. 
+Smear a little water on the other side and put the same side on the tawa so it sticks. When the naan starts puffing up, invert tawa, and cook on the other side, holding tawa 4-5" above flame, till spots appear as in picture. 
+Remove and smear butter or ghee if you wish, or then just have it plain. It’s slightly sweet, and good with tea also.
