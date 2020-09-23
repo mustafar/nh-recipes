@@ -11,19 +11,30 @@ Difficulty: Easy
 # Ingredients
 * 500g poppy seeds (_posta_)
 * 500g sugar, plus 1 cup for syrup
+* 400ml water, for the syrup
 * 500g khoya (or 2 liters full fat milk to make it)
 * A little ghee for smearing on plate 
 * 50g melon seeds (optional)
+* ½ tsp cardamom powder (optional)
 
 # Directions
-Wash poppy seeds well. Turn over on a dry cotton cloth, and dry completely under a fan. Once dry, roast till they are medium dark and emit a nice aroma. Keep aside and let cool.
+Grease tray or thali with clarified butter (_ghee_). 
 
-If khoya is not available, make it by reducing two liters of milk till only the solids (_khoya_) remain. 
+Wash poppy seeds well.
+Strain, then turn over on cotton cloth, and let dry completely under a fan.
 
-Roast the khoya till it is light brown. Cool and keep aside.
+Roast poppyseeds in a wok (_kadhai_) well till it is medium dark and emits a nice aroma. Stir continuously, and do not over roast. Turn stove off, transfer, and let cool. 
 
-If using melon seeds, lightly roast and cool. Mix both the khoya and poppyseeds, and ¾ of melon seeds as well. Save the rest for garnishing. 
+Grind the seeds.
 
-Take 1 cup water and add sugar till it’s three thread consistency — when you lift your spoon, three threads should be visible. You may also check by dropping a tiny bit of syrup into a cup of water, and if a little ball forms, then it is ready.
+If reduced milk, khoya, is available, roast it over medium heat till light brown. Alternatively make it by reducing two litres of whole milk till only the solids remain. Then continue roasting it till it becomes light brown. Turn stove off, and transfer. Let cool. 
+Lightly roast melon seeds, transfer and cool. 
 
-Pat into a ghee smeared plate or thali. Sprinkle remaining melon seeds and gently press them down. When halfway cooled, make diamond/ square cuts on the barfi.
+Mix both the khoya, ground poppyseeds, and 3/4 of melon seeds as well. Save the rest for garnishing. 
+
+Take water, add sugar, and cook over medium to medium high heat, till it’s three thread consistency. When you lift up your spoon, three threads should be visible. Now cook for a minute or two more, and then drop a little syrup in a small bowl of water. When a little ball is formed(goli), then your syrup is ready, and reduce heat to low. If syrup doesn’t form a little ball when dropped into water, then your barfi will not set. Reduce heat. I 
+Quickly add the reduced milk(khoya)and poppy seed mixture to the syrup in the wok. Stir briskly, and when mixed, turn stove off, and carefully pat into a greased tray(not plastic) or steel thali(plate with raised sides).
+
+Sprinkle remaining melon seeds and gently press them into the poppy mixture. They should be visible. When halfway cooled, make diamond/ square cuts on the barfi. 
+
+Try a piece when ready without sprinkling cardamom powder, and if your palate tells you its missing, then sprinkle it. In the original recipe, there isn’t any. Enjoy!
