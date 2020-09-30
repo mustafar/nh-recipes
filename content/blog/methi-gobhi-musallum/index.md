@@ -6,7 +6,7 @@ credit: Rabab Zaidi
 category: Vegetarian Entrée
 ---
 ![gobhi-musallam](gobhi-musallam.jpeg)
-Servings: 4-5 persons
+Servings: 4-5 people
 Difficulty: Medium
 
 Oven temperature: 250 F
