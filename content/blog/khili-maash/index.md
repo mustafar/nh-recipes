@@ -5,6 +5,7 @@ description: Dry white lentil or urad dal
 credit: Rabab Zaidi (taught by Zeenat)
 category: Vegetarian Entrée
 ---
+![urad](urad.jpeg)
 Servings: 4 people
 Difficulty: Medium
 
