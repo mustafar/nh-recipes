@@ -10,7 +10,7 @@ Difficulty: Easy
 
 # Ingredients
 * 500g poppy seeds (_posta_)
-* 500g sugar, plus 1 cup for syrup
+* 500g sugar
 * 400ml water, for the syrup
 * 500g khoya (or 2 liters full fat milk to make it)
 * A little ghee for smearing on plate 
