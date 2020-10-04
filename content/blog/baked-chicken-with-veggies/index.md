@@ -41,3 +41,5 @@ Put your chicken over the veggies and roast in a 400 degree C oven for one hour.
 
 Take out of the oven  and let it sit for 5-7 mins before carving .
 Enjoy!!!
+## Tip
+Pat your chicken dry before applying herbed butter
