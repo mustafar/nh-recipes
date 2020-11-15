@@ -5,6 +5,8 @@ description: "Masala wrapped cubes of Meat / Chicken "
 credit: Salim Rizvi - Lahori restaurants
 category: Non-Vegetarian Entrée
 ---
+![](boti-kadhai-1.jpeg)
+
 •Recipe Servings: 4
 •Prep Time: 15 mins
 •Cook Time: 30 - 40 mins
