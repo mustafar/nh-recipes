@@ -35,7 +35,7 @@ Add pav bhaji masala and mix well for 1-2 mins
 
 Add tomatoes and tomato paste and fry till oil separates.
 
-Add all the boiled and mashed veggies in the masala and mix well. Add green chillies to make it spicier (optional)
+Mix the boiled potatoes and veggies. Mash well with a masher and add in the masala and mix well to coat the onion tomatoes mixture. Add green chillies to make it spicier (optional)
 
 Add 1/2 cup water and let it cook for 4-5 mins on a medium flame.
 
