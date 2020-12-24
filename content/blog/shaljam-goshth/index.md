@@ -5,7 +5,7 @@ description: Mutton gravy cooked with turnip
 credit: Hala Jafri
 category: Non-Vegetarian Entrée
 ---
-![](pav-bhaji-served-on-a-plate.jpg)
+![](shaljam-goshth.jpg)
 
 ## Ingredients
 
