@@ -6,6 +6,8 @@ description: Veggies cooked with tomatoes and butter served with traditional
 credit: Hala Jafri
 category: Vegetarian Entrée
 ---
+![](pav-bhaji-served-on-a-plate.jpg)
+
 ## Ingredients
 
 * Onions- 2-3 large
