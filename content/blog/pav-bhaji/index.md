@@ -6,8 +6,6 @@ description: Veggies cooked with tomatoes and butter served with traditional
 credit: Hala Jafri
 category: Vegetarian Entrée
 ---
-![](pav-bhaji-served-on-a-plate.jpg)
-
 ## Ingredients
 
 * Onions- 2-3 large
@@ -29,7 +27,7 @@ First put 1/4 cup oil and 1/2- 3/4 stick a stick butter in a large wok or pan.
 
 Once oil/ butter melts add garlic and saute till slightly brown 
 
-Ad onions and brown slightly. 
+Add onions and brown slightly. 
 
 Add the capsicum and fry for 1-2 mins
 
