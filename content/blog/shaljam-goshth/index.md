@@ -5,24 +5,28 @@ description: Mutton gravy cooked with turnip
 credit: Hala Jafri
 category: Non-Vegetarian Entrée
 ---
+![](pav-bhaji-served-on-a-plate.jpg)
+
 ## Ingredients
-- Mutton 800 grams- 1 kg
-- Turnips (Shaljam)- 3-4 medium sized
-- 3 Tbsp Ginger Garlic paste
-- Onions- 1 large chopped
-- Turmeric powder-1/2 tsp
-- Coriander powder- 1 tsp
-- Cumin powder- 1/2 tsp
-- Curry powder- 2 tsps (optional)
-- Red chilli powder- 1-2 tsps or as per taste
-- Salt- 1-2 tsps or as per taste
-- 1-2 tsps garam masala
-- Tomatoes-3-4 medium chopped
-- 1/2 cup tomato paste
-- fresh coriander for garnishing
-- 1/2 cup oil
+
+* Mutton 800 grams- 1 kg
+* Turnips (Shaljam)- 3-4 medium sized
+* 3 Tbsp Ginger Garlic paste
+* Onions- 1 large chopped
+* Turmeric powder-1/2 tsp
+* Coriander powder- 1 tsp
+* Cumin powder- 1/2 tsp
+* Curry powder- 2 tsps (optional)
+* Red chilli powder- 1-2 tsps or as per taste
+* Salt- 1-2 tsps or as per taste
+* 1-2 tsps garam masala
+* Tomatoes-3-4 medium chopped
+* 1/2 cup tomato paste
+* fresh coriander for garnishing
+* 1/2 cup oil
 
 ## Method
+
 Pour oil in a kadhai/wok. Add onions and fry till slightly golden brown
 
 Add mutton and fry for 4-5 minutes till the color changes.
@@ -39,5 +43,4 @@ At this point, if you're using a wok and need to cook faster, transfer to a pres
 
 Add 1-2 tsps garam masala on the top and garnish with lots of fresh coriander.
 
-Enjoy with roti, naan or rice. 
-
+Enjoy with roti, naan or rice.
