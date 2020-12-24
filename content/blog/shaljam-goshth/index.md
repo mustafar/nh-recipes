@@ -33,7 +33,7 @@ Add mutton and fry for 4-5 minutes till the color changes.
 
 Add ginger garlic paste and fry another 7-8 mins till raw smell of meat disappears.
 
-Add tomatoes, tomato paste and all masalas and fry till oil separates. 
+Add tomatoes, tomato paste, salt and all masalas  (except garam masala) and fry till oil separates. 
 
 Cook 6-7 minutes till meat is slightly done
 
