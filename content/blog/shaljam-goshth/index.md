@@ -39,7 +39,9 @@ Cook 6-7 minutes till meat is slightly done
 
 Add turnips/shaljam and fry for another 3-4 minutes till masala coasts the turnips,well.
 
-At this point, if you're using a wok and need to cook faster, transfer to a pressure cooker and cook for 5-6 minutes at medium flame after the first whistle or cook in the wok for 20-25 mins till meat is tender.
+At this point, if you're using a wok and need to cook faster, transfer the meat mixture to a pressure cooker. 
+
+Add 1-2 cups water and cook for 5-6 minutes at medium flame after the first whistle or cook in the wok for 20-25 mins till meat is tender.
 
 Add 1-2 tsps garam masala on the top and garnish with lots of fresh coriander.
 
