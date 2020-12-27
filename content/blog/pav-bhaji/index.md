@@ -8,7 +8,7 @@ category: Vegetarian Entrée
 ---
 ## Ingredients
 
-* Onions- 2-3 large
+* Onions- 2-3 large chopped finely
 * Garlic- 7-8 big pods or 4-5 tsps finely chopped garlic
 * Tomatoes- 3-4 medium chopped finely
 * Tomato paste- 3-4 Tbsps or 1/2 cup
