@@ -23,9 +23,9 @@ category: Vegetarian Entrée
 
 ## Method
 
-First put 1/4 cup oil and 1/2- 3/4 stick a stick butter in a large wok or pan. 
+First put 1/4 cup oil and 1/2- 3/4 stick of butter in a large wok or pan. 
 
-Once oil/ butter melts add garlic and saute till slightly brown 
+Once oil/ butter melts, add garlic and saute till slightly brown.
 
 Add onions and brown slightly. 
 
@@ -39,6 +39,6 @@ Mix the boiled potatoes and veggies. Mash well with a masher and add in the masa
 
 Add 1/2 cup water and let it cook for 4-5 mins on a medium flame.
 
-Once done add 1/2 stick of butter on top and lots of fresh coriander
+Once done add 1/2 stick of butter on top and lots of fresh coriander.
 
-Serve with buttered pav which can be browned in a pan
+Serve with buttered pav which can be browned in a pan.
