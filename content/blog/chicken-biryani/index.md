@@ -43,10 +43,18 @@ Marinate the chicken with all the ingredients and keep aside for 30-45 minutes.
 
 Boil rice with aromatics and 3-4 tbsp salt till 75% done or just about tender. Drain and keep aside.
 
-Cook chicken in a pot on high for 3-5 minutes or till raw smell of the masala disappears. Reduce the flame and cover and cook for 10-12 minutes until done. Now remove chicken with masala. Add half the rice at the bottom of the pot. Cover with chicken (reserve some oil and masala) and top with remaining rice. 
+Cook chicken in a pot on high for 3-5 minutes or till raw smell of the masala disappears.
 
-Add more fried onions, oil and masala and a mixture of milk and saffron strand and sprinkle rose water on the top layer. 
+ Reduce the flame and cover and cook for 10-12 minutes until done. Now remove chicken with masala. 
+
+Add half the rice at the bottom of the pot. You can put 3-4 slit green chillies, sliced lemons, tomatoes and mint on top of the first rice layer (Optional step). 
+
+Cover with chicken (reserve some oil and masala) and top with remaining rice. 
+
+Add more fried onions, oil and masala and a mixture of milk and saffron strands and sprinkle rose water on the top layer. 
 
 Cover the lid with foil or a dish towel to avoid steam escaping. Cook on a low flame for 15-20 minutes or till steam comes out or one can smell the flavors.
+
+Alternatively you can bake the biryani in the oven at 380 F for 35-40 minutes. This will prevent any rice sticking to the bottom or getting burnt. 
 
 Serve with raita and enjoy!!!
