@@ -24,4 +24,4 @@ Take a bowl, pour the crushed ramen noodles (raw) into the bowl. Add sugar, oil,
 
 Wrap noodles with cling wrap, and leave it in fridge to marinate for two hours. After two hours, take noodles out, mix with packet of dry Cole slaw (shredded cabbage mixed with purple cabbage and carrots).
 
-Add almonds, sunflower kernels and green onions. Add one more tbsp of oil to finish it off!
+Add almonds, sunflower kernels and green onions. Add one more tbsp of oil to finish it off! testing
