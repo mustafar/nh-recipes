@@ -7,7 +7,7 @@ category: Non-Vegetarian Entrée
 ---
 ![](roast-chicken.jpg)
 
-Level of Difficulty- Easy
+Difficulty: Easy
 
 time - 60-70 minutes (including baking time)
 
@@ -18,7 +18,7 @@ time - 60-70 minutes (including baking time)
 * Mixed herbs- 1 tsp
 * Herb de provence seasoning- 1 tsp
 * One full garlic bulb
-* Lemon- 1 (Cut for stuffing) 
+* Lemon- 1 (Cut for stuffing)
 * Salt and pepper
 
 **Vegetables**
@@ -31,13 +31,13 @@ time - 60-70 minutes (including baking time)
 
 Mix the butter with salt and pepper. Add the mixed herbs and herbs de Provence seasoning. Spread/ Apply generously over the chicken.
 
-In the cavity put one cut lemon and half a head of garlic cut horizontally. 
+In the cavity put one cut lemon and half a head of garlic cut horizontally.
 
-Season the cavity of the chicken well. 
+Season the cavity of the chicken well.
 
-In a baking dish, put your cut veggies- onions, potatoes, carrots ( all quartered). Make a bed at the bottom of your roasting pan. Season your veggies with salt, pepper and mixed herbs. 
+In a baking dish, put your cut veggies- onions, potatoes, carrots ( all quartered). Make a bed at the bottom of your roasting pan. Season your veggies with salt, pepper and mixed herbs.
 
-Put your chicken over the veggies and roast in a 400 degree F oven for one hour. Check with a thermometer by inserting in the fleshiest part of the chicken. It should read- 160-165 F for fully done. 
+Put your chicken over the veggies and roast in a 400 degree F oven for one hour. Check with a thermometer by inserting in the fleshiest part of the chicken. It should read- 160-165 F for fully done.
 
 Take out of the oven  and let it sit for 5-7 mins before carving .
 Enjoy!!!
