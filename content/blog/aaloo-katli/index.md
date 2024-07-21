@@ -17,7 +17,8 @@ Difficulty: Easy
 * ¼ tsp turmeric powder (_haldi_)
 * One pinch hing
 * Salt, to taste
-* Coriander (_dhania_) leaver, to garnish
+* Coriander (_dhania_) leaves, to garnish
+* Mustard oil, for frying
 
 # Directions
 Heat mustard oil, enough to fry potatoes. Add 4-5 thick-cut, round medium sized potatoes. Fry well for 8-9 minutes. Remove fried potatoes from oil (they should be tender but not mushy) and keep aside.
