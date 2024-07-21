@@ -2,7 +2,7 @@
 title: Taley Hue Aaloo Gosht ka Saalan
 date: 2024-07-21T19:40:16.091Z
 description: Fried potatoes and meat
-credit: Seema Rizvi
+credit: Salim Rizvi
 category: Non-Vegetarian Entrée
 ---
 

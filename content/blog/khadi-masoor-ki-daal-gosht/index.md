@@ -2,7 +2,7 @@
 title: Khadi Masoor ki Daal Gosht
 date: 2024-07-21T19:40:16.091Z
 description: Black lentils and meat
-credit: Seema Rizvi
+credit: Salim Rizvi
 category: Non-Vegetarian Entrée
 ---
 
