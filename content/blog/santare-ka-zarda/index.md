@@ -9,7 +9,7 @@ Difficulty: Medium
 
 # Ingredients
 - 1 cup basmati rice, washed and soaked in water for 30 minutes
-- 1 cup orange juice (preferably fresh), it should not be sour
+- 2 cups orange juice (preferably fresh), it should not be sour
 - Orange peel
 - ½ cup castor sugar
 - 2 tbsp additional castor sugar
